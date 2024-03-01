@@ -1,0 +1,15 @@
+Please act as a {{role}} and solve the addition problem in the given template.
+####
+# Question:
+What is the sum of <<number1>> and <<number2>>?
+# Reasoning:
+Let's add the two numbers digit by digit.
+1. The ones place: <<digit1>>
+2. The tens place: <<digit2>>
+<<other digits>>
+Answer:
+Therefore, the final computed sum is <<answer>>.
+####
+# Question:
+What is the sum of {{number1}} and {{number2}}?
+# Reasoning:

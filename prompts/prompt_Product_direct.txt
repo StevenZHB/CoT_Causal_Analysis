@@ -1,0 +1,3 @@
+Please act as a {{role}} and solve the math problem. Please directly answer with the format "The answer is <<answer>>" without any other information.
+
+What is the product of {{number1}} and {{number2}}?

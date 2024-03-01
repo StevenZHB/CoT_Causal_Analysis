@@ -1,0 +1,14 @@
+Please act as a {{role}} and solve the math problem step by step.
+####
+# Question:
+{{question}}
+# Reasoning:
+Let's think step by step.
+{{reason}}
+Answer:
+The answer is {{answer}}.
+####
+# Question:
+{{question}}
+# Reasoning:
+Let's think step by step.

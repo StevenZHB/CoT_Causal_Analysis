@@ -1,0 +1,9 @@
+backoff==2.2.1
+datasets==2.15.0
+Jinja2==3.1.2
+matplotlib==3.7.1
+nltk==3.8.1
+numpy==1.23.5
+openai==0.28.0
+statsmodels==0.14.1
+tqdm==4.66.1

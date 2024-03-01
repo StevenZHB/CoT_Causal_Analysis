@@ -1,0 +1,44 @@
+Please act as a {{role}} and reason step by step to solve the logical reasoning problem. Given a context and a question, explain your reasoning process and give the answer with the format "\nThe correct option is: A/B/C/D".
+####
+# Context:
+Over the past five years, the price gap between name-brand cereals and less expensive store-brand cereals has become so wide that consumers have been switching increasingly to store brands despite the name brands' reputation for better quality. To attract these consumers back, several manufacturers of name-brand cereals plan to narrow the price gap between their cereals and store brands to less than what it was five years ago.
+
+# Question:
+Based on the above information, which of the following, if true, most seriously calls into question the likelihood that the manufacturers' plan will succeed in attracting back a large percentage of consumers who have switched to store brands?
+# Options:
+A) Because of lower advertising costs, stores are able to offer their own brands of cereals at significantly lower prices than those charged for name-brand cereals.
+B) There is no significant difference among manufacturers of name-brand cereals in the prices they charge for their products.
+C) Consumers who have switched to store-brand cereals have generally been satisfied with the quality of those cereals.
+D) Many consumers would never think of switching to store-brand cereals because they believe the name brand cereals to be of better quality.
+
+# Instruction:
+## Reasoning:
+To solve this logical reasoning problem, we need to identify which option most challenges the success of name-brand cereal manufacturers' plan to attract consumers back by narrowing the price gap with store brands. The assumption is that consumers switched to store brands mainly due to price. Option C states that consumers are generally satisfied with the quality of store-brand cereals, directly challenging the plan. If consumers switched not just for price but also are satisfied with quality, just reducing the price of name-brand cereals might not be enough to win them back. The correct option is C) Consumers who have switched to store-brand cereals have generally been satisfied with the quality of those cereals.
+The correct option is: C
+####
+# Context:
+There are 90 patients with a disease T that is very difficult to treat and has taken the same routine drug.The patients were divided into two equal groups. The first group was given an experimental drug W, which is used to treat T, and the second group was given a placebo without W. Statistics ten years later showed that 44 people died in both groups, so the experimental drug was ineffective.
+
+# Question:
+Based on the above information, which of the following options, if correct, will best weaken the above argument?
+# Options:
+A. Among the patients who died above, the average year of death in the second group was two years earlier than that in the first group
+B. Among the patients who died, the average life span of the second group was two years younger than that of the first group
+C. Among the above-mentioned living patients, the condition of the second group was more serious than that of the first group
+D. Among the above-mentioned living patients, those in the second group were older than those in the first group
+
+# Instruction:
+## Reasoning:
+Analyzing each option: A suggests drug W might extend life since the average death year in the drug W group is later than the placebo, directly challenging the drug's perceived ineffectiveness. B, similar to A, implies longer life in the drug W group but doesn't directly link to post-treatment lifespan. C indicates drug W may reduce disease severity but doesn't address lifespan or mortality, the main focus. D, about age differences, lacks direct relevance to drug effectiveness. Therefore, A most effectively weakens the argument against drug W's effectiveness.
+The correct option is: A
+####
+# Context:
+{{context}}
+
+# Question:
+{{question}}
+# Options:
+{{options}}
+
+# Instruction:
+## Reasoning:

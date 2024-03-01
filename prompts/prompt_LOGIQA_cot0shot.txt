@@ -1,0 +1,12 @@
+Please act as a {{role}} and reason step by step to solve the logical reasoning problem. Given a context and a question, explain your reasoning process and give the answer with the format "\nThe correct option is: A/B/C/D".
+####
+# Context:
+{{context}}
+
+# Question:
+{{question}}
+# Options:
+{{options}}
+
+# Instruction:
+## Reasoning:

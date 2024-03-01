@@ -1,0 +1,12 @@
+Your goal is to solve the logical reasoning problem. Given a context and a question, directly answer with the format "The correct option is: A/B/C/D" without any other information.
+####
+# Context:
+{{context}}
+
+# Question:
+{{question}}
+# Options:
+{{options}}
+
+# Instruction:
+## Answer:

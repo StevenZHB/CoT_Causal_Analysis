@@ -1,0 +1,192 @@
+Please act as a {{role}} and reason step by step to solve the logical reasoning problem. Given a context and a question, explain your reasoning process and give the answer with the format "\nThe correct option is: A/B/C".
+####
+# Context:
+The Blake McFall Company Building is a commercial warehouse listed on the National Register of Historic Places. The Blake McFall Company Building was added to the National Register of Historic Places in 1990. The Emmet Building is a five-story building in Portland, Oregon. The Emmet Building was built in 1915. The Emmet Building is another name for the Blake McFall Company Building. John works at the Emmet Building.
+
+# Question:
+Based on the above information, is the following statement true, false, or uncertain? The Blake McFall Company Building is located in Portland, Oregon.
+# Options:
+A) True
+B) False
+C) Uncertain
+
+# Instruction:
+## Reasoning:
+The Blake McFall Company Building is another name for the Emmet Building. The Emmet Building is located in Portland, Oregon. Therefore, the Blake McFall Company Building is located in Portland, Oregon.
+The correct option is: A
+####
+# Context:
+People eat meat regularly or are vegetation. If people eat meat regularly, then they enjoy eating hamburgers and steaks. All people who are vegetarian are conscious of the environment or their health. If people are conscious about the environment or their health, then they do not go to fast food places often. If people have busy schedules without time to cook, then they go to fast food places often. If Jeremy does not both go to fast food places often and is conscious about the environment or their health, then he goes to fast food places often.
+
+# Question:
+Based on the above information, is the following statement true, false, or uncertain? If Jeremy has a busy schedule without time to cook, then Jeremy does not enjoy eating hamburgers and steaks.
+# Options:
+A) True
+B) False
+C) Uncertain
+
+# Instruction:
+## Reasoning:
+If Jeremy has a busy schedule without time to cook or enjoy eating hamburgers and steaks, then Jeremy goes to fast food places often. If people are conscious about the environment or their health, then they do not go to fast food places often. This means that Jeremy is not conscious about the environment or his health. All people who are vegetarian are conscious of the environment or their health. Therefore, Jeremy is not vegetarian. People eat meat regularly or are vegetation. Therefore, Jeremy eats meat regularly. If people eat meat regularly, then they enjoy eating hamburgers and steaks. Therefore, Jeremy enjoys eating hamburgers and steaks. 
+The correct option is: B
+####
+# Context:
+William Dickinson was a British politician who sat in the House of Commons William Dickinson attended Westminster school for high school and then the University of Edinburgh. The University of Edinburgh is a university located in the United Kingdom. William Dickinson supported the Portland Whigs. People who supported the Portland Whigs did not get a seat in the Parliament.
+
+# Question:
+Based on the above information, is the following statement true, false, or uncertain? William Dickinson went to schools located in the United Kingdom for both high school and university.
+# Options:
+A) True
+B) False
+C) Uncertain
+
+# Instruction:
+## Reasoning:
+Missing facts and rules.
+The correct option is: C
+####
+# Context:
+Lawton Park is a neighbourhood in Seattle. All citizens of Lawton Park use the zip code 98199. Tom is a citizen of Lawton Park. Daniel uses the zip code 98199.
+
+# Question:
+Based on the above information, is the following statement true, false, or uncertain? Tom uses the zip code 98199.
+# Options:
+A) True
+B) False
+C) Uncertain
+
+# Instruction:
+## Reasoning:
+Tom is a citizen of Lawton Park. All citizens of Lawton Park use the zip code 98199. Therefore Tom uses the zip code 98199.
+The correct option is: A
+####
+# Context:
+If a legislator is found guilty of stealing government funds, they will be suspended from office. Tiffany T. Alston was a legislator in Maryland's House of Delegates from 2011 to 2013. Tiffany T. Alston was found guilty of stealing government funds in 2012.
+
+# Question:
+Based on the above information, is the following statement true, false, or uncertain? Tiffany T. Alston was not suspended from the Maryland House of Delegates.
+# Options:
+A) True
+B) False
+C) Uncertain
+
+# Instruction:
+## Reasoning:
+Tiffany T. Alston was a legislator in Maryland's House of Delegates from 2011 to 2013. So Tiffany T. Alston was a legislator in Maryland's House of Delegates in 2012. If a legislator is found guilty of stealing government funds, they will be suspended from office. And Alston was found guilty of stealing government funds in 2012. Therefore Tiffany T. Alston was suspended from the Maryland House of Delegates.
+The correct option is: B
+####
+# Context:
+Some fish may sting. Stonefish is a fish. It stings to step on a stonefish. Stonefish stings cause death if not treated. To treat stonefish stings, apply heat to the affected area or use an antivenom.
+
+# Question:
+Based on the above information, is the following statement true, false, or uncertain? If you step on a stonefish and don’t use an antivenom, it will cause death.
+# Options:
+A) True
+B) False
+C) Uncertain
+
+# Instruction:
+## Reasoning:
+Missing facts and rules.
+The correct option is: C
+####
+# Context:
+Some monitors produced by LG have a type-c port. If the monitor has a type-c port, then it is not produced by AOC. All monitors in the library are produced by AOC. L-2021 is either in the library or has a type-c port. L-2021 is either produced by AOC and produced by LG, or neither produced by AOC nor produced by LG.
+
+# Question:
+Based on the above information, is the following statement true, false, or uncertain? L-2021 either has a type-c port or is produced by LG.
+# Options:
+A) True
+B) False
+C) Uncertain
+
+# Instruction:
+## Reasoning:
+If L-2021 is produced by AOC and produced by LG. Then L-2021 either has a type-c port or is produced by LG is True. If L-2021 is not produced by AOC and not produced by LG and all monitors in the library are produced by AOC, therefore L-2021 is not in the library. L-2021 is either in the library or has a type-c port. Therefore L-2021 has a type-c port. Then L-2021 either has a type-c port or is produced by LG is True.
+The correct option is: A
+####
+# Context:
+All video applications are software. All YouTube-related applications are video applications. An APP is either related to YouTube or Instagram. All Instagram is entertainment. All software is programmed. All entertainments are interesting. If something is interesting, then it is good. TikTok is not good.
+
+# Question:
+Based on the above information, is the following statement true, false, or uncertain? Tiktok is not both related to youtube and a program.
+# Options:
+A) True
+B) False
+C) Uncertain
+
+# Instruction:
+## Reasoning:
+If something is interesting, then it is good. TikTok is not good. So TikTok is not interesting. All entertainments are interesting. So TikTok is not an entertainment. All Instagram is entertainment. So TikTok is not Instagram. An APP is either related to YouTube or Instagram. So TikTok is related to YouTube.
+The correct option is: B
+####
+# Context:
+All young adults go on a diet. All college students are young adults. All Yale students are college students. Someone is either a Yale student or a Harvard student. All Harvard students are diligent. If Susan is a Harvard student, then she is a young adult. If Susan is a Yale student, then she does not go on a diet.
+
+# Question:
+Based on the above information, is the following statement true, false, or uncertain? Susan is a college student.
+# Options:
+A) True
+B) False
+C) Uncertain
+
+# Instruction:
+## Reasoning:
+Missing facts and rules.
+The correct option is: C
+####
+# Context:
+Vic DiCara plays guitar and bass. The only style of music Vic DiCara plays is punk music. Vic DiCara played in the band Inside Out.
+
+# Question:
+Based on the above information, is the following statement true, false, or uncertain? A musician of Inside Out plays bass.
+# Options:
+A) True
+B) False
+C) Uncertain
+
+# Instruction:
+## Reasoning:
+Vic DiCara played in the band Inside Out. Vic DiCara plays guitar and bass. Therefore a musician of Inside Out plays bass.
+The correct option is: A
+####
+# Context:
+Everyone working at Meta has a high income. If a person has a high income, then he/she will not take a bus to their destination. People will either take a bus or drive to their destination. Everyone who has a car will choose to drive to their destination. No students drive to their destination. James has a car or works at Meta.
+
+# Question:
+Based on the above information, is the following statement true, false, or uncertain? James is a student.
+# Options:
+A) True
+B) False
+C) Uncertain
+
+# Instruction:
+## Reasoning:
+If James has a car, everyone who has a car will choose to drive to their destination. So James drives to his destination. No students drive to their destination. So James is not a student. If James works at Meta, everyone working at Meta has a high income. So James has a high income. If a person has a high income, then he/she will not take a bus to their destination. So James will not take a bus to his destination. People will either take a bus or drive to their destination. So James drive to his destination. No students drive to their destination. So James is not a student.
+The correct option is: B
+####
+# Context:
+All athletes are good at sports. All Olympic gold medal winners are good athletes. No scientists are good at sports. All Nobel laureates are scientists. Amy is good at sports or Amy is an Olympic gold medal winner. If Amy is not a Nobel laureate, then Amy is not an Olympic gold medal winner.
+
+# Question:
+Based on the above information, is the following statement true, false, or uncertain? Amy is an athlete.
+# Options:
+A) True
+B) False
+C) Uncertain
+
+# Instruction:
+## Reasoning:
+Missing facts and rules.
+The correct option is: C
+####
+# Context:
+{{context}}
+
+# Question:
+{{question}}
+# Options:
+{{options}}
+
+# Instruction:
+## Reasoning:

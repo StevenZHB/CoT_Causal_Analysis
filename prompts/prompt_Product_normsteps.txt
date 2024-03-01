@@ -1,0 +1,45 @@
+Please convert the natural language described reasoning steps into formal expressions as the examples.
+####
+# Reasoning Steps:
+Let's think step by step. 627 has three digits, so that we can reason in three steps.
+1. Multiply 493 by the ones place digit 7 of 627: 493 * 7 = 3451.
+2. Multiply 493 by the tens place digit 20 of 627: 493 * 20 = 9860.
+3. Multiply 493 by the hundreds place digit 600 of 627: 493 * 600 = 295800.
+# Formal Expressions:
+1. 493 * 7 = 3451
+2. 493 * 20 = 9860
+3. 493 * 600 = 295800
+####
+# Reasoning Steps:
+Let's think step by step. 305 has three digits, so that we can reason in three steps.
+1. Multiply 487 by the ones place digit 5 of 305. The result is 2435.
+2. Multiply 487 by the tens place digit (0*10) of 305. The result is 0.
+3. Multiply 487 by the hundreds place digit (3*100) of 305. The result is 146100.
+# Formal Expressions:
+1. 487 * 5 = 2435
+2. 487 * 0 = 0
+3. 487 * 300 = 146100
+####
+# Reasoning Steps:
+Let's think step by step. 843 has three digits, so that we can reason in three steps.
+1. Multiply 532 by the ones place digit 3 of 843.
+2. Multiply 532 by the tens place digit 4 of 843, then multiply that result by 10.
+3. Multiply 532 by the hundreds place digit 8 of 843, then multiply that result by 100.
+# Formal Expressions:
+1. 532 * 3 = 1596
+2. 532 * 40 = 21280
+3. 532 * 800 = 425600
+####
+# Reasoning Steps:
+Let's think step by step. 641 has three digits, so that we can reason in three steps.
+1. Multiply 281 by the ones place digit 1 of 641. The result is 281.
+2. Multiply 281 by the tens place digit 4 of 641. The result is 1124. But since it's the tens place, we need to multiply this result by 10, giving us 11240.
+3. Multiply 281 by the hundreds place digit 6 of 641. The result is 1686. But since it's the hundreds place, we need to multiply this result by 100, giving us 168600.
+# Formal Expressions:
+1. 281 * 1 = 281
+2. 281 * 40 = 11240
+3. 281 * 600 = 168600
+####
+# Reasoning Steps:
+{{reason}}
+# Formal Expressions:

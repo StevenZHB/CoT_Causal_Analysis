@@ -1,0 +1,53 @@
+Please convert the natural language described reasoning steps into formal expressions as the examples. Please put the carry 1 at the last of the addition of each step.
+####
+# Reasoning Steps:
+Let's add the two numbers digit by digit.
+1. The ones place: 3+2=5
+2. The tens place: 6+8=14 and carrying forward 1 to the hundreds place.
+3. The hundreds place: 1(carry)+7+9=17 and carrying forward 1 to the thousands place.
+4. The thousands place: 1(carry)+1+1=3
+5. The ten thousands place: 9+9=18 and carrying forward 1 to the hundred thousands place.
+6. The hundred thousands place: 1+7+8=16
+7. The million place: 1 carry forward makes it to 1.
+# Formal Expressions:
+1. 3 + 2 = 5
+2. 6 + 8 = 14
+3. 7 + 9 + 1 (carry) = 17
+4. 1 + 1 + 1 (carry) = 3
+5. 9 + 9 = 18
+6. 7 + 8 + 1 (carry) = 16
+7. 1 (carry) = 1
+####
+# Reasoning Steps:
+Let's add the two numbers digit by digit.
+1. The ones place: 0 + 0 = 0
+2. The tens place: 2 + 9 = 11 (carry over the 1)
+3. The hundreds place: 7 + 8 + 1 = 16 (carry over the 1)
+4. The millions place: 1 + 2 + 1 = 4
+# Formal Expressions:
+1. 0 + 0 = 0
+2. 2 + 9 = 11
+3. 7 + 8 + 1 (carry) = 16
+4. 1 + 2 + 1 (carry) = 4
+####
+# Reasoning Steps:
+Let's add the two numbers digit by digit.
+1. The ones place: 8(638728) + 7(460527) = 15. There's a carry of 1.
+2. The tens place: 2(638728) + 2(460527) = 4 + 1(from the carry) = 5.
+3. The hundreds place: 7(638728) + 5(460527) = 12. There's a carry of 1.
+4. The thousands place: 8(638728) + 0(460527) = 8 + 1(from the carry) = 9.
+5. The ten-thousands place: 3(638728) + 6(460527) = 9.
+6. The hundred-thousands place: 6(638728) + 4(460527) = 10. There's a carry of 1.
+7. The millions place: 1 (from the carry).
+# Formal Expressions:
+1. 8 + 7 = 15
+2. 2 + 2 + 1 (carry) = 5
+3. 7 + 5 = 12
+4. 8 + 0 + 1 (carry) = 9
+5. 3 + 6 = 9
+6. 6 + 4 = 10
+7. 1 (carry) = 1
+####
+# Reasoning Steps:
+{{reason}}
+# Formal Expressions:

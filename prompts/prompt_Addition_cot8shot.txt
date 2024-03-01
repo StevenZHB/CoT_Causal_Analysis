@@ -1,0 +1,107 @@
+Please act as a match teacher and solve the addition problem in the given template.
+####
+# Question:
+What is the sum of <<number1>> and <<number2>>?
+# Reasoning:
+Let's add the two numbers digit by digit.
+1. The ones place: <<digit1>>
+2. The tens place: <<digit2>>
+<<other digits>>
+Answer:
+Therefore, the final computed sum is <<answer>>.
+####
+# Question:
+What is the sum of 193 and 186?
+# Reasoning:
+Let's add the two numbers digit by digit.
+1. The ones place: 3 + 6 = 9.
+2. The tens place: 9 + 8 = 17, write down 7 and carry over 1.
+3. The hundreds place: 1 + 1 + 1 (carry over) = 3.
+Answer:
+Therefore, the final computed sum is 379.
+####
+# Question:
+What is the sum of 3770 and 6048?
+# Reasoning:
+Let's add the two numbers digit by digit.
+1. The ones place: 0 + 8 = 8.
+2. The tens place: 7 + 4 = 11, write down 1 and carry over 1.
+3. The hundreds place: 7 + 0 + 1 (carry over) = 8.
+4. The thousands place: 3 + 6 = 9.
+Answer:
+Therefore, the final computed sum is 9818.
+####
+# Question:
+What is the sum of 4476 and 1585?
+# Reasoning:
+Let's add the two numbers digit by digit.
+1. The ones place: 6 + 5 = 11, write down 1 and carry over 1.
+2. The tens place: 7 + 8 + 1 (carry over) = 16, write down 6 and carry over 1.
+3. The hundreds place: 4 + 5 + 1 (carry over) = 10, write down 0 and carry over 1.
+4. The thousands place: 4 + 1 + 1 (carry over) = 6.
+Answer:
+Therefore, the final computed sum is 6061.
+####
+# Question:
+What is the sum of 99292 and 30759?
+# Reasoning:
+Let's add the two numbers digit by digit.
+1. The ones place: 2 + 9 = 11, write down 1 and carry over 1.
+2. The tens place: 9 + 5 + 1 (carry over) = 15, write down 5 and carry over 1.
+3. The hundreds place: 2 + 7 + 1 (carry over) = 10, write down 0 and carry over 1.
+4. The thousands place: 9 + 0 + 1 (carry over) = 10, write down 0 and carry over 1.
+5. The ten thousands place: 9 + 3 + 1 (carry over) = 13, write down 3 and carry over 1.
+6. The final carry over: 1.
+Answer:
+Therefore, the final computed sum is 130051.
+####
+# Question:
+What is the sum of 7447 and 9340?
+# Reasoning:
+Let's add the two numbers digit by digit.
+1. The ones place: 7 + 0 = 7.
+2. The tens place: 4 + 4 = 8.
+3. The hundreds place: 4 + 3 = 7.
+4. The thousands place: 7 + 9 = 16, write down 6 and carry over 1.
+5. The final carry over: 1.
+Answer:
+Therefore, the final computed sum is 16787.
+####
+# Question:
+What is the sum of 9915 and 8288?
+# Reasoning:
+Let's add the two numbers digit by digit.
+1. The ones place: 5 + 8 = 13, write down 3 and carry over 1.
+2. The tens place: 1 + 8 + 1 (carry over) = 10, write down 0 and carry over 1.
+3. The hundreds place: 9 + 2 + 1 (carry over) = 12, write down 2 and carry over 1.
+4. The thousands place: 9 + 8 + 1 (carry over) = 18, write down 8 and carry over 1.
+5. The final carry over: 1.
+Answer:
+Therefore, the final computed sum is 18203.
+####
+# Question:
+What is the sum of 45158 and 14708?
+# Reasoning:
+Let's add the two numbers digit by digit.
+1. The ones place: 8 + 8 = 16, write down 6 and carry over 1.
+2. The tens place: 5 + 0 + 1 (carry over) = 6.
+3. The hundreds place: 1 + 7 = 8.
+4. The thousands place: 5 + 4 = 9.
+5. The ten thousands place: 4 + 1 = 5.
+Answer:
+Therefore, the final computed sum is 59866.
+####
+# Question:
+What is the sum of 472 and 576?
+# Reasoning:
+Let's add the two numbers digit by digit.
+1. The ones place: 2 + 6 = 8.
+2. The tens place: 7 + 7 = 14, write down 4 and carry over 1.
+3. The hundreds place: 4 + 5 + 1 (carry over) = 10, write down 0 and carry over 1.
+4. The final carry over: 1.
+Answer:
+Therefore, the final computed sum is 1048.
+####
+# Question:
+What is the sum of {{number1}} and {{number2}}?
+# Reasoning:

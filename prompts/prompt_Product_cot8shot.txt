@@ -1,0 +1,101 @@
+Please act as a match teacher and solve the product problem in the given template.
+####
+# Question:
+What is the product of <<number1 such as 27>> and <<number2 such as 153>>?
+# Reasoning:
+Let's think step by step. <<number2 153 has three digits, so that we can reason in three steps.>>
+1. <<Multiply number1 27 by the ones place digit 3 of number2 153>>
+2. <<Multiply number1 27 by the tens place digit 50 of number2 153>>
+<<other digits of number2 if it has>>
+Answer:
+Now, sum all the step results: <<sum of the results>>.
+So, the final computed product is <<answer>>.
+####
+# Question:
+What is the product of 21 and 20?
+# Reasoning:
+Let's think step by step.
+1. Multiply 21 by 0 (the ones place digit of 20) = 0
+2. Multiply 21 by 20 (the tens place digit of 20) = 420
+Answer:
+Now, sum all the step results: 0 + 420 = 420.
+So, the final computed product is 420.
+####
+# Question:
+What is the product of 955 and 273?
+# Reasoning:
+Let's think step by step.
+1. Multiply 955 by 3 (the ones place digit of 273) = 2865
+2. Multiply 955 by 70 (the tens place digit of 273) = 66850
+3. Multiply 955 by 200 (the hundreds place digit of 273) = 191000
+Answer:
+Now, sum all the step results: 2865 + 66850 + 191000 = 260715.
+So, the final computed product is 260715.
+####
+# Question:
+What is the product of 357 and 720?
+# Reasoning:
+Let's think step by step.
+1. Multiply 357 by 0 (the ones place digit of 720) = 0
+2. Multiply 357 by 20 (the tens place digit of 720) = 7140
+3. Multiply 357 by 700 (the hundreds place digit of 720) = 249900
+Answer:
+Now, sum all the step results: 0 + 7140 + 249900 = 257040.
+So, the final computed product is 257040.
+####
+# Question:
+What is the product of 87 and 14?
+# Reasoning:
+Let's think step by step.
+1. Multiply 87 by 4 (the ones place digit of 14) = 348
+2. Multiply 87 by 10 (the tens place digit of 14) = 870
+Answer:
+Now, sum all the step results: 348 + 870 = 1218.
+So, the final computed product is 1218.
+####
+# Question:
+What is the product of 65 and 91?
+# Reasoning:
+Let's think step by step.
+1. Multiply 65 by 1 (the ones place digit of 91) = 65
+2. Multiply 65 by 90 (the tens place digit of 91) = 5850
+Answer:
+Now, sum all the step results: 65 + 5850 = 5915.
+So, the final computed product is 5915.
+####
+# Question:
+What is the product of 922 and 840?
+# Reasoning:
+Let's think step by step.
+1. Multiply 922 by 0 (the ones place digit of 840) = 0
+2. Multiply 922 by 40 (the tens place digit of 840) = 36880
+3. Multiply 922 by 800 (the hundreds place digit of 840) = 737600
+Answer:
+Now, sum all the step results: 0 + 36880 + 737600 = 774480.
+So, the final computed product is 774480.
+####
+# Question:
+What is the product of 657 and 555?
+# Reasoning:
+Let's think step by step.
+1. Multiply 657 by 5 (the ones place digit of 555) = 3285
+2. Multiply 657 by 50 (the tens place digit of 555) = 32850
+3. Multiply 657 by 500 (the hundreds place digit of 555) = 328500
+Answer:
+Now, sum all the step results: 3285 + 32850 + 328500 = 364635.
+So, the final computed product is 364635.
+####
+# Question:
+What is the product of 136 and 991?
+# Reasoning:
+Let's think step by step.
+1. Multiply 136 by 1 (the ones place digit of 991) = 136
+2. Multiply 136 by 90 (the tens place digit of 991) = 12240
+3. Multiply 136 by 900 (the hundreds place digit of 991) = 122400
+Answer:
+Now, sum all the step results: 136 + 12240 + 122400 = 134776.
+So, the final computed product is 134776.
+####
+# Question:
+What is the product of {{number1}} and {{number2}}?
+# Reasoning:

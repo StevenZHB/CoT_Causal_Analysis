@@ -1,0 +1,140 @@
+Please act as a {{role}} and reason step by step to solve the logical reasoning problem. Given a context and a question, explain your reasoning process and give the answer with the format "\nThe correct option is: A/B/C/D".
+####
+# Context:
+Over the past five years, the price gap between name-brand cereals and less expensive store-brand cereals has become so wide that consumers have been switching increasingly to store brands despite the name brands' reputation for better quality. To attract these consumers back, several manufacturers of name-brand cereals plan to narrow the price gap between their cereals and store brands to less than what it was five years ago.
+
+# Question:
+Based on the above information, which of the following, if true, most seriously calls into question the likelihood that the manufacturers' plan will succeed in attracting back a large percentage of consumers who have switched to store brands?
+# Options:
+A) Because of lower advertising costs, stores are able to offer their own brands of cereals at significantly lower prices than those charged for name-brand cereals.
+B) There is no significant difference among manufacturers of name-brand cereals in the prices they charge for their products.
+C) Consumers who have switched to store-brand cereals have generally been satisfied with the quality of those cereals.
+D) Many consumers would never think of switching to store-brand cereals because they believe the name brand cereals to be of better quality.
+
+# Instruction:
+## Reasoning:
+To solve this logical reasoning problem, we need to identify which option most challenges the success of name-brand cereal manufacturers' plan to attract consumers back by narrowing the price gap with store brands. The assumption is that consumers switched to store brands mainly due to price. Option C states that consumers are generally satisfied with the quality of store-brand cereals, directly challenging the plan. If consumers switched not just for price but also are satisfied with quality, just reducing the price of name-brand cereals might not be enough to win them back. The correct option is C) Consumers who have switched to store-brand cereals have generally been satisfied with the quality of those cereals.
+The correct option is: C
+####
+# Context:
+There are 90 patients with a disease T that is very difficult to treat and has taken the same routine drug.The patients were divided into two equal groups. The first group was given an experimental drug W, which is used to treat T, and the second group was given a placebo without W. Statistics ten years later showed that 44 people died in both groups, so the experimental drug was ineffective.
+
+# Question:
+Based on the above information, which of the following options, if correct, will best weaken the above argument?
+# Options:
+A. Among the patients who died above, the average year of death in the second group was two years earlier than that in the first group
+B. Among the patients who died, the average life span of the second group was two years younger than that of the first group
+C. Among the above-mentioned living patients, the condition of the second group was more serious than that of the first group
+D. Among the above-mentioned living patients, those in the second group were older than those in the first group
+
+# Instruction:
+## Reasoning:
+Analyzing each option: A suggests drug W might extend life since the average death year in the drug W group is later than the placebo, directly challenging the drug's perceived ineffectiveness. B, similar to A, implies longer life in the drug W group but doesn't directly link to post-treatment lifespan. C indicates drug W may reduce disease severity but doesn't address lifespan or mortality, the main focus. D, about age differences, lacks direct relevance to drug effectiveness. Therefore, A most effectively weakens the argument against drug W's effectiveness.
+The correct option is: A
+####
+# Context:
+Counterfactual thinking is usually the negation of events that have occurred in the mind, and then it is characterized as a mental activity that may have occurred but did not occur in reality. According to the direction of occurrence, counterfactual thinking can be divided into upward counterfactual thinking and downward counterfactual thinking, upward counterfactual thinking refers to events that have occurred in the past, and imagine that if certain conditions are met, there may be better results than real results; downward counterfactual thinking refers to events that have occurred in the past, imagine If certain conditions are met, there may be a result that is worse than the real result.
+
+# Question:
+Based on the above information, which option is true? According to the above definition, which of the following items belong to downward counterfactual thinking?
+# Options:
+A) If you review well at that time, you can pass the exam
+B) If i play a little bit worse, i will miss the medal
+C) If grandfather was still alive, he would not want to see the situation today
+D) If we didn't bring so many things, we could run faster now
+
+# Instruction:
+## Reasoning:
+To solve this, we identify the option that imagines a worse outcome than what actually happened, which is the essence of downward counterfactual thinking. A) imagines a better outcome, so it's upward counterfactual thinking. B) imagines a worse outcome (missing the medal), fitting downward counterfactual thinking. C) and D) do not clearly represent worse outcomes based on the definitions provided. Therefore, the correct answer is B, as it is the only option that directly imagines a scenario with a worse outcome than reality.
+The correct option is: B
+####
+# Context:
+In parts of South America, vitamin-A deficiency is a serious health problem, especially among children. In one region, agriculturists are attempting to improve nutrition by encouraging farmers to plant a new variety of sweet potato called SPK004 that is rich in beta-carotene, which the body converts into vitamin A. The plan has good chances of success, since sweet potato is a staple of the region' s diet and agriculture, and the varieties currently grown contain little beta-carotene.
+
+# Question:
+Based on the above information, which option is true? Which of the following, if true, most strongly supports the prediction that the plan will succeed?
+# Options:
+A) The flesh of spk004 differs from that of the currently cultivated sweet potatoes in color and texture, so traditional foods would look somewhat different when prepared from spk004.
+B) There are no other varieties of sweet potato that are significantly richer in beta-carotene than spk004 is.
+C) The varieties of sweet potato currently cultivated in the region contain some important nutrients that are lacking in spk004.
+D) The growing conditions required by the varieties of sweet potato currently cultivated in the region are conditions in which spk004 can flourish.
+
+# Instruction:
+## Reasoning:
+To determine which option supports the prediction that introducing a new sweet potato variety (SPK004) will improve nutrition due to its high beta-carotene content: A suggests a change in food appearance, not directly supporting the plan. B states no other sweet potatoes are richer in beta-carotene than SPK004, slightly supporting the plan by highlighting SPK004's nutritional advantage. C mentions current varieties have nutrients SPK004 lacks, not supporting the plan's success. D indicates SPK004 can grow under current conditions, directly supporting the plan by ensuring ease of cultivation. Option D directly supports the plan's success by showing SPK004's adaptability to existing agricultural practices.
+The correct option is: D
+####
+# Context:
+Traffic accident crime: Refers to the act of violating traffic management laws and regulations, resulting in a major accident, causing serious injury, death, or causing major losses to public and private property.
+
+# Question:
+Based on the above information, which option is true? Which of the following crimes that cannot be classified as traffic accident crimes?
+# Options:
+A) One day, chen in a certain city in zhejiang province was driving a santana car on the way back to his hometown. the road conditions were very good and there were not many vehicles. when the car came to a hotel intersection, it hit a two-wheeled motorcycle head-on, causing 1 death and 2 hurt
+B) One night, zeng drove a truck to the city to deliver vegetables, and then returned to the suburbs. when passing a fork in the road, as a result of drinking a little white wine, coupled with the lack of sleep driving the night, inadvertently will be a roadside cyclist, hit a serious injury
+C) A car rental company, xiao ding, drove a red santana car with 3 passengers at a speeding to an intersection. unexpectedly, a group of people crossed the road. xiao ding braked hard and 3 passengers staggered. afterwards, 3 passengers refused to pay the fare
+D) One day, the driver of a branch company in dandong drove 31 passengers on a diamond bus from shenyang to kuandian manchu autonomous county. due to speeding on a bend, the vehicle rushed laterally under the bridge on the left side of the road, causing 18 passengers in the car die
+
+# Instruction:
+## Reasoning:
+To identify which scenario cannot be classified as a traffic accident crime, we analyze each based on the definition: a violation of traffic laws resulting in serious injury, death, or major property loss. A) Involves death and injuries from a collision, fitting the crime definition. B) Describes serious injury caused by a driver under the influence, also fitting the definition. C) Involves a braking incident without injury, death, or property loss, not fitting the crime definition. D) Results in multiple deaths due to speeding, clearly fitting the definition. Option C is the only scenario that does not meet the criteria of a traffic accident crime, as it involves no serious injury, death, or major property loss.
+The correct option is: C
+####
+# Context:
+Psychologist: A study of 436 university students found that those who took short naps throughout the day suffered from insomnia more frequently than those who did not. Moreover, people who work on commercial fishing vessels often have irregular sleep patterns that include frequent napping, and they also suffer from insomnia. So it is very likely that napping tends to cause insomnia.
+
+# Question:
+Based on the above information, which option is true? The reasoning in the psychologist's argument is most vulnerable to criticism on the grounds that the argument.
+# Options:
+A) Fails to consider the possibility that frequent daytime napping is an effect rather than a cause of insomnia
+B) Presumes, without providing justification, that university students suffer from insomnia more frequently than do members of the general population
+C) Presumes, without providing justification, that there is such a thing as a regular sleep pattern for someone working on a commercial fishing vessel
+D) Presumes that all instances of insomnia have the same cause
+
+# Instruction:
+## Reasoning:
+The psychologist's argument that napping causes insomnia is critiqued for assuming napping leads to insomnia without considering that insomnia might cause increased napping. This overlooks the possibility of reverse causality, where the observed effect (napping) could actually be the result of the condition (insomnia) it's thought to cause.
+The correct option is: A
+####
+# Context:
+The beating of the heart causes blood circulation. For the same person, the faster the heart rate, the more blood enters the circulation per unit time. The red blood cells in the blood transport oxygen,Generally speaking, the oxygen obtained by a person through blood circulation per unit time The more, the better his physical fitness and performance. Therefore, in order to improve athletes' competitive level in sports competitions, they should strengthen their training in high altitude areas, because in high altitude areas, each unit volume of blood in the human body contains the number of red blood cells is higher than in low altitude areas.
+
+# Question:
+Based on the above information, which option is true? Which of the following items must be assumed in the argument of the subject?
+# Options:
+A) The altitude has no effect on the athlete's heart rate
+B) The athlete's heart rate at high altitudes is not lower than at low altitudes
+C) Athletes have a slower heart rate than ordinary people
+D) Training at high altitude can increase the athlete's heart rate
+
+# Instruction:
+## Reasoning:
+The argument assumes that high-altitude training improves athletes' performance by increasing red blood cells, enhancing oxygen transport. It implicitly relies on the assumption that an athlete's heart rate at high altitudes is not lower than at low altitudes (Option B). This ensures the increased red blood cells effectively contribute to physical performance without being offset by a reduced heart rate, which could decrease oxygen delivery.
+The correct option is: B
+####
+# Context:
+It is understood that in response to the phenomenon of falsely high drug prices, the National Development and Reform Commission hopes that through statistics from the Drug Administration, since the government resumed control of the prices of some drugs, it has carried out 17 drug price cuts. Up to now, the national medical insurance catalog has been formulated and adjusted. The highest retail price of more than 1,000 medicines. However, due to the cumbersome circulation and dark-box operation, the price of medicines is still very high, and the actual drug prices are still quite different from the expectations of patients.
+
+# Question:
+Based on the above information, which option is true? According to this text, we can know:
+# Options:
+A) The country has solved the problem of falsely high drug prices by adjusting the highest retail prices of more than 1,000 drugs in the national medical insurance catalog.
+B) The patient believes that the high price of the drug is due to the high expectations of the patient.
+C) The control of drug prices is the fundamental way to solve the falsely high drug prices.
+D) It has become a top priority to reduce the price of medicines by reducing circulation links and implementing transparent operations.
+
+# Instruction:
+## Reasoning:
+Despite efforts to control drug prices, including price cuts for over 1,000 medicines, high prices persist due to complex distribution and opaque operations. The text suggests that streamlining distribution and increasing transparency are key to truly lowering drug prices, not just adjusting the prices in the national medical insurance catalog. Therefore, the focus should be on making the circulation process more efficient and transparent.
+The correct option is: D
+####
+# Context:
+{{context}}
+
+# Question:
+{{question}}
+# Options:
+{{options}}
+
+# Instruction:
+## Reasoning:

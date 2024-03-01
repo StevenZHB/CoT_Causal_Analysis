@@ -1,0 +1,45 @@
+Please act as a match teacher and solve the math problem step by step.
+####
+# Question:
+Mr. Ruther sold 3/5 of his land and had 12.8 hectares left. How much land did he have at first?
+# Reasoning:
+Let's think step by step.
+Mr. Ruther is left with 1 - 3/5 = 2/5 of his land.
+Since 2/5 is equal to 12.8 hectares, then 1/5 is equal to 12.8/2 = <<12.8/2=6.4>>6.4 hectares.
+Hence, Mr. Ruther had 6.4 x 5 = <<6.4*5=32>>32 hectares of land at first.
+Answer:
+The answer is 32.
+####
+# Question:
+The Doubtfire sisters are driving home with 7 kittens adopted from the local animal shelter when their mother calls to inform them that their two house cats have just had kittens. She says that Patchy, the first cat, has had thrice the number of adopted kittens, while Trixie, the other cat, has had 12. How many kittens does the Doubtfire family now have?
+# Reasoning:
+Let's think step by step.
+Patchy has just had 3 * 7 = <<3*7=21>>21 kittens
+Since Trixie's kittens are 12, both cats have 21 +12 = <<21+12=33>>33 kittens.
+Combining the adopted kittens with those from the two cats, the Doubtfire family now has 7 + 33 = <<7+33=40>>40 kittens.
+Answer:
+The answer is 40.
+####
+# Question:
+After transferring to a new school, Amy made 20 more friends than Lily. If Lily made 50 friends, how many friends do Lily and Amy have together?
+# Reasoning:
+Let's think step by step.
+If Lily made 50 friends, Amy made 50+20 =<<50+20=70>>70 friends.
+Together, they made 70+50 = <<70+50=120>>120 friends at the new school.
+Answer:
+The answer is 120.
+####
+# Question:
+Billy is peeling and cutting potatoes in preparation for making potato salad for his big family reunion barbecue. It's a big event, so he has 60 potatoes to get through. The potatoes are roughly the same size, so it takes about the same amount of time to peel and cut each one. It takes Billy about a minute and a half to peel a potato, but only about 5 seconds to cut it up. How long will it take Billy to finish prepping the potatoes?
+# Reasoning:
+Let's think step by step.
+There are 60 potatoes, and Billy takes a minute and a half to peel each one, or 60 potatoes * 1.5 minutes per potato = <<60*1.5=90>>90 minutes.
+Billy only takes 5 seconds to cut the potatoes, so it takes 5 seconds * 60 potatoes / 60 seconds per minute = 5 minutes to cut the potatoes.
+So it will take him a total of 90 minutes peeling + 5 minutes cutting = <<90+5=95>>95 minutes total prepping the potatoes.
+Answer:
+The answer is 95.
+####
+# Question:
+{{question}}
+# Reasoning:
+Let's think step by step.

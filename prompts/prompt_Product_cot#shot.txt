@@ -1,0 +1,24 @@
+Please act as a {{role}} and solve the product problem in the given template.
+####
+# Question:
+What is the product of <<number1 such as 27>> and <<number2 such as 153>>?
+# Reasoning:
+Let's think step by step. <<number2 153 has three digits, so that we can reason in three steps.>>
+1. <<Multiply number1 27 by the ones place digit 3 of number2 153>>
+2. <<Multiply number1 27 by the tens place digit 50 of number2 153>>
+<<other digits of number2 if it has>>
+Answer:
+Now, sum all the step results: <<sum of the results>>.
+So, the final computed product is <<answer>>.
+####
+# Question:
+What is the product of {{number1}} and {{number2}}?
+# Reasoning:
+{{reason}}
+Answer:
+Now, sum all the step results: {{sum}}.
+So, the final computed product is {{answer}}.
+####
+# Question:
+What is the product of {{number1}} and {{number2}}?
+# Reasoning:

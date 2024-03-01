@@ -1,0 +1,26 @@
+Please act as a match teacher and solve the math problem step by step.
+####
+# Question:
+Mr. Ruther sold 3/5 of his land and had 12.8 hectares left. How much land did he have at first?
+# Reasoning:
+Let's think step by step.
+Mr. Ruther is left with 1 - 3/5 = 2/5 of his land.
+Since 2/5 is equal to 12.8 hectares, then 1/5 is equal to 12.8/2 = <<12.8/2=6.4>>6.4 hectares.
+Hence, Mr. Ruther had 6.4 x 5 = <<6.4*5=32>>32 hectares of land at first.
+Answer:
+The answer is 32.
+####
+# Question:
+The Doubtfire sisters are driving home with 7 kittens adopted from the local animal shelter when their mother calls to inform them that their two house cats have just had kittens. She says that Patchy, the first cat, has had thrice the number of adopted kittens, while Trixie, the other cat, has had 12. How many kittens does the Doubtfire family now have?
+# Reasoning:
+Let's think step by step.
+Patchy has just had 3 * 7 = <<3*7=21>>21 kittens
+Since Trixie's kittens are 12, both cats have 21 +12 = <<21+12=33>>33 kittens.
+Combining the adopted kittens with those from the two cats, the Doubtfire family now has 7 + 33 = <<7+33=40>>40 kittens.
+Answer:
+The answer is 40.
+####
+# Question:
+{{question}}
+# Reasoning:
+Let's think step by step.

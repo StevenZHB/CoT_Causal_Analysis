@@ -1,0 +1,3502 @@
+[
+  {
+    "id": "Product_Q1",
+    "number1": "27",
+    "number2": "82",
+    "answer": "2214",
+    "reason": "Let's think step by step.\n1. Multiply 27 by 2 (the ones place digit of 82) = 54\n2. Multiply 27 by 80 (the tens place digit of 82) = 2160"
+  },
+  {
+    "id": "Product_Q2",
+    "number1": "18",
+    "number2": "42",
+    "answer": "756",
+    "reason": "Let's think step by step.\n1. Multiply 18 by 2 (the ones place digit of 42) = 36\n2. Multiply 18 by 40 (the tens place digit of 42) = 720"
+  },
+  {
+    "id": "Product_Q3",
+    "number1": "25",
+    "number2": "73",
+    "answer": "1825",
+    "reason": "Let's think step by step.\n1. Multiply 25 by 3 (the ones place digit of 73) = 75\n2. Multiply 25 by 70 (the tens place digit of 73) = 1750"
+  },
+  {
+    "id": "Product_Q4",
+    "number1": "67",
+    "number2": "70",
+    "answer": "4690",
+    "reason": "Let's think step by step.\n1. Multiply 67 by 0 (the ones place digit of 70) = 0\n2. Multiply 67 by 70 (the tens place digit of 70) = 4690"
+  },
+  {
+    "id": "Product_Q5",
+    "number1": "93",
+    "number2": "58",
+    "answer": "5394",
+    "reason": "Let's think step by step.\n1. Multiply 93 by 8 (the ones place digit of 58) = 744\n2. Multiply 93 by 50 (the tens place digit of 58) = 4650"
+  },
+  {
+    "id": "Product_Q6",
+    "number1": "36",
+    "number2": "22",
+    "answer": "792",
+    "reason": "Let's think step by step.\n1. Multiply 36 by 2 (the ones place digit of 22) = 72\n2. Multiply 36 by 20 (the tens place digit of 22) = 720"
+  },
+  {
+    "id": "Product_Q7",
+    "number1": "72",
+    "number2": "13",
+    "answer": "936",
+    "reason": "Let's think step by step.\n1. Multiply 72 by 3 (the ones place digit of 13) = 216\n2. Multiply 72 by 10 (the tens place digit of 13) = 720"
+  },
+  {
+    "id": "Product_Q8",
+    "number1": "59",
+    "number2": "65",
+    "answer": "3835",
+    "reason": "Let's think step by step.\n1. Multiply 59 by 5 (the ones place digit of 65) = 295\n2. Multiply 59 by 60 (the tens place digit of 65) = 3540"
+  },
+  {
+    "id": "Product_Q9",
+    "number1": "87",
+    "number2": "10",
+    "answer": "870",
+    "reason": "Let's think step by step.\n1. Multiply 87 by 0 (the ones place digit of 10) = 0\n2. Multiply 87 by 10 (the tens place digit of 10) = 870"
+  },
+  {
+    "id": "Product_Q10",
+    "number1": "99",
+    "number2": "67",
+    "answer": "6633",
+    "reason": "Let's think step by step.\n1. Multiply 99 by 7 (the ones place digit of 67) = 693\n2. Multiply 99 by 60 (the tens place digit of 67) = 5940"
+  },
+  {
+    "id": "Product_Q11",
+    "number1": "44",
+    "number2": "39",
+    "answer": "1716",
+    "reason": "Let's think step by step.\n1. Multiply 44 by 9 (the ones place digit of 39) = 396\n2. Multiply 44 by 30 (the tens place digit of 39) = 1320"
+  },
+  {
+    "id": "Product_Q12",
+    "number1": "85",
+    "number2": "23",
+    "answer": "1955",
+    "reason": "Let's think step by step.\n1. Multiply 85 by 3 (the ones place digit of 23) = 255\n2. Multiply 85 by 20 (the tens place digit of 23) = 1700"
+  },
+  {
+    "id": "Product_Q13",
+    "number1": "50",
+    "number2": "13",
+    "answer": "650",
+    "reason": "Let's think step by step.\n1. Multiply 50 by 3 (the ones place digit of 13) = 150\n2. Multiply 50 by 10 (the tens place digit of 13) = 500"
+  },
+  {
+    "id": "Product_Q14",
+    "number1": "12",
+    "number2": "13",
+    "answer": "156",
+    "reason": "Let's think step by step.\n1. Multiply 12 by 3 (the ones place digit of 13) = 36\n2. Multiply 12 by 10 (the tens place digit of 13) = 120"
+  },
+  {
+    "id": "Product_Q15",
+    "number1": "93",
+    "number2": "79",
+    "answer": "7347",
+    "reason": "Let's think step by step.\n1. Multiply 93 by 9 (the ones place digit of 79) = 837\n2. Multiply 93 by 70 (the tens place digit of 79) = 6510"
+  },
+  {
+    "id": "Product_Q16",
+    "number1": "11",
+    "number2": "58",
+    "answer": "638",
+    "reason": "Let's think step by step.\n1. Multiply 11 by 8 (the ones place digit of 58) = 88\n2. Multiply 11 by 50 (the tens place digit of 58) = 550"
+  },
+  {
+    "id": "Product_Q17",
+    "number1": "97",
+    "number2": "37",
+    "answer": "3589",
+    "reason": "Let's think step by step.\n1. Multiply 97 by 7 (the ones place digit of 37) = 679\n2. Multiply 97 by 30 (the tens place digit of 37) = 2910"
+  },
+  {
+    "id": "Product_Q18",
+    "number1": "64",
+    "number2": "13",
+    "answer": "832",
+    "reason": "Let's think step by step.\n1. Multiply 64 by 3 (the ones place digit of 13) = 192\n2. Multiply 64 by 10 (the tens place digit of 13) = 640"
+  },
+  {
+    "id": "Product_Q19",
+    "number1": "77",
+    "number2": "38",
+    "answer": "2926",
+    "reason": "Let's think step by step.\n1. Multiply 77 by 8 (the ones place digit of 38) = 616\n2. Multiply 77 by 30 (the tens place digit of 38) = 2310"
+  },
+  {
+    "id": "Product_Q20",
+    "number1": "66",
+    "number2": "73",
+    "answer": "4818",
+    "reason": "Let's think step by step.\n1. Multiply 66 by 3 (the ones place digit of 73) = 198\n2. Multiply 66 by 70 (the tens place digit of 73) = 4620"
+  },
+  {
+    "id": "Product_Q21",
+    "number1": "80",
+    "number2": "39",
+    "answer": "3120",
+    "reason": "Let's think step by step.\n1. Multiply 80 by 9 (the ones place digit of 39) = 720\n2. Multiply 80 by 30 (the tens place digit of 39) = 2400"
+  },
+  {
+    "id": "Product_Q22",
+    "number1": "54",
+    "number2": "39",
+    "answer": "2106",
+    "reason": "Let's think step by step.\n1. Multiply 54 by 9 (the ones place digit of 39) = 486\n2. Multiply 54 by 30 (the tens place digit of 39) = 1620"
+  },
+  {
+    "id": "Product_Q23",
+    "number1": "96",
+    "number2": "38",
+    "answer": "3648",
+    "reason": "Let's think step by step.\n1. Multiply 96 by 8 (the ones place digit of 38) = 768\n2. Multiply 96 by 30 (the tens place digit of 38) = 2880"
+  },
+  {
+    "id": "Product_Q24",
+    "number1": "68",
+    "number2": "47",
+    "answer": "3196",
+    "reason": "Let's think step by step.\n1. Multiply 68 by 7 (the ones place digit of 47) = 476\n2. Multiply 68 by 40 (the tens place digit of 47) = 2720"
+  },
+  {
+    "id": "Product_Q25",
+    "number1": "12",
+    "number2": "63",
+    "answer": "756",
+    "reason": "Let's think step by step.\n1. Multiply 12 by 3 (the ones place digit of 63) = 36\n2. Multiply 12 by 60 (the tens place digit of 63) = 720"
+  },
+  {
+    "id": "Product_Q26",
+    "number1": "81",
+    "number2": "92",
+    "answer": "7452",
+    "reason": "Let's think step by step.\n1. Multiply 81 by 2 (the ones place digit of 92) = 162\n2. Multiply 81 by 90 (the tens place digit of 92) = 7290"
+  },
+  {
+    "id": "Product_Q27",
+    "number1": "22",
+    "number2": "33",
+    "answer": "726",
+    "reason": "Let's think step by step.\n1. Multiply 22 by 3 (the ones place digit of 33) = 66\n2. Multiply 22 by 30 (the tens place digit of 33) = 660"
+  },
+  {
+    "id": "Product_Q28",
+    "number1": "90",
+    "number2": "47",
+    "answer": "4230",
+    "reason": "Let's think step by step.\n1. Multiply 90 by 7 (the ones place digit of 47) = 630\n2. Multiply 90 by 40 (the tens place digit of 47) = 3600"
+  },
+  {
+    "id": "Product_Q29",
+    "number1": "25",
+    "number2": "52",
+    "answer": "1300",
+    "reason": "Let's think step by step.\n1. Multiply 25 by 2 (the ones place digit of 52) = 50\n2. Multiply 25 by 50 (the tens place digit of 52) = 1250"
+  },
+  {
+    "id": "Product_Q30",
+    "number1": "74",
+    "number2": "64",
+    "answer": "4736",
+    "reason": "Let's think step by step.\n1. Multiply 74 by 4 (the ones place digit of 64) = 296\n2. Multiply 74 by 60 (the tens place digit of 64) = 4440"
+  },
+  {
+    "id": "Product_Q31",
+    "number1": "74",
+    "number2": "95",
+    "answer": "7030",
+    "reason": "Let's think step by step.\n1. Multiply 74 by 5 (the ones place digit of 95) = 370\n2. Multiply 74 by 90 (the tens place digit of 95) = 6660"
+  },
+  {
+    "id": "Product_Q32",
+    "number1": "34",
+    "number2": "48",
+    "answer": "1632",
+    "reason": "Let's think step by step.\n1. Multiply 34 by 8 (the ones place digit of 48) = 272\n2. Multiply 34 by 40 (the tens place digit of 48) = 1360"
+  },
+  {
+    "id": "Product_Q33",
+    "number1": "46",
+    "number2": "85",
+    "answer": "3910",
+    "reason": "Let's think step by step.\n1. Multiply 46 by 5 (the ones place digit of 85) = 230\n2. Multiply 46 by 80 (the tens place digit of 85) = 3680"
+  },
+  {
+    "id": "Product_Q34",
+    "number1": "73",
+    "number2": "74",
+    "answer": "5402",
+    "reason": "Let's think step by step.\n1. Multiply 73 by 4 (the ones place digit of 74) = 292\n2. Multiply 73 by 70 (the tens place digit of 74) = 5110"
+  },
+  {
+    "id": "Product_Q35",
+    "number1": "60",
+    "number2": "85",
+    "answer": "5100",
+    "reason": "Let's think step by step.\n1. Multiply 60 by 5 (the ones place digit of 85) = 300\n2. Multiply 60 by 80 (the tens place digit of 85) = 4800"
+  },
+  {
+    "id": "Product_Q36",
+    "number1": "14",
+    "number2": "71",
+    "answer": "994",
+    "reason": "Let's think step by step.\n1. Multiply 14 by 1 (the ones place digit of 71) = 14\n2. Multiply 14 by 70 (the tens place digit of 71) = 980"
+  },
+  {
+    "id": "Product_Q37",
+    "number1": "41",
+    "number2": "61",
+    "answer": "2501",
+    "reason": "Let's think step by step.\n1. Multiply 41 by 1 (the ones place digit of 61) = 41\n2. Multiply 41 by 60 (the tens place digit of 61) = 2460"
+  },
+  {
+    "id": "Product_Q38",
+    "number1": "63",
+    "number2": "95",
+    "answer": "5985",
+    "reason": "Let's think step by step.\n1. Multiply 63 by 5 (the ones place digit of 95) = 315\n2. Multiply 63 by 90 (the tens place digit of 95) = 5670"
+  },
+  {
+    "id": "Product_Q39",
+    "number1": "32",
+    "number2": "56",
+    "answer": "1792",
+    "reason": "Let's think step by step.\n1. Multiply 32 by 6 (the ones place digit of 56) = 192\n2. Multiply 32 by 50 (the tens place digit of 56) = 1600"
+  },
+  {
+    "id": "Product_Q40",
+    "number1": "80",
+    "number2": "99",
+    "answer": "7920",
+    "reason": "Let's think step by step.\n1. Multiply 80 by 9 (the ones place digit of 99) = 720\n2. Multiply 80 by 90 (the tens place digit of 99) = 7200"
+  },
+  {
+    "id": "Product_Q41",
+    "number1": "96",
+    "number2": "57",
+    "answer": "5472",
+    "reason": "Let's think step by step.\n1. Multiply 96 by 7 (the ones place digit of 57) = 672\n2. Multiply 96 by 50 (the tens place digit of 57) = 4800"
+  },
+  {
+    "id": "Product_Q42",
+    "number1": "21",
+    "number2": "66",
+    "answer": "1386",
+    "reason": "Let's think step by step.\n1. Multiply 21 by 6 (the ones place digit of 66) = 126\n2. Multiply 21 by 60 (the tens place digit of 66) = 1260"
+  },
+  {
+    "id": "Product_Q43",
+    "number1": "94",
+    "number2": "75",
+    "answer": "7050",
+    "reason": "Let's think step by step.\n1. Multiply 94 by 5 (the ones place digit of 75) = 470\n2. Multiply 94 by 70 (the tens place digit of 75) = 6580"
+  },
+  {
+    "id": "Product_Q44",
+    "number1": "23",
+    "number2": "30",
+    "answer": "690",
+    "reason": "Let's think step by step.\n1. Multiply 23 by 0 (the ones place digit of 30) = 0\n2. Multiply 23 by 30 (the tens place digit of 30) = 690"
+  },
+  {
+    "id": "Product_Q45",
+    "number1": "76",
+    "number2": "60",
+    "answer": "4560",
+    "reason": "Let's think step by step.\n1. Multiply 76 by 0 (the ones place digit of 60) = 0\n2. Multiply 76 by 60 (the tens place digit of 60) = 4560"
+  },
+  {
+    "id": "Product_Q46",
+    "number1": "57",
+    "number2": "72",
+    "answer": "4104",
+    "reason": "Let's think step by step.\n1. Multiply 57 by 2 (the ones place digit of 72) = 114\n2. Multiply 57 by 70 (the tens place digit of 72) = 3990"
+  },
+  {
+    "id": "Product_Q47",
+    "number1": "13",
+    "number2": "70",
+    "answer": "910",
+    "reason": "Let's think step by step.\n1. Multiply 13 by 0 (the ones place digit of 70) = 0\n2. Multiply 13 by 70 (the tens place digit of 70) = 910"
+  },
+  {
+    "id": "Product_Q48",
+    "number1": "15",
+    "number2": "49",
+    "answer": "735",
+    "reason": "Let's think step by step.\n1. Multiply 15 by 9 (the ones place digit of 49) = 135\n2. Multiply 15 by 40 (the tens place digit of 49) = 600"
+  },
+  {
+    "id": "Product_Q49",
+    "number1": "100",
+    "number2": "88",
+    "answer": "8800",
+    "reason": "Let's think step by step.\n1. Multiply 100 by 8 (the ones place digit of 88) = 800\n2. Multiply 100 by 80 (the tens place digit of 88) = 8000"
+  },
+  {
+    "id": "Product_Q50",
+    "number1": "85",
+    "number2": "84",
+    "answer": "7140",
+    "reason": "Let's think step by step.\n1. Multiply 85 by 4 (the ones place digit of 84) = 340\n2. Multiply 85 by 80 (the tens place digit of 84) = 6800"
+  },
+  {
+    "id": "Product_Q51",
+    "number1": "60",
+    "number2": "92",
+    "answer": "5520",
+    "reason": "Let's think step by step.\n1. Multiply 60 by 2 (the ones place digit of 92) = 120\n2. Multiply 60 by 90 (the tens place digit of 92) = 5400"
+  },
+  {
+    "id": "Product_Q52",
+    "number1": "31",
+    "number2": "31",
+    "answer": "961",
+    "reason": "Let's think step by step.\n1. Multiply 31 by 1 (the ones place digit of 31) = 31\n2. Multiply 31 by 30 (the tens place digit of 31) = 930"
+  },
+  {
+    "id": "Product_Q53",
+    "number1": "74",
+    "number2": "39",
+    "answer": "2886",
+    "reason": "Let's think step by step.\n1. Multiply 74 by 9 (the ones place digit of 39) = 666\n2. Multiply 74 by 30 (the tens place digit of 39) = 2220"
+  },
+  {
+    "id": "Product_Q54",
+    "number1": "11",
+    "number2": "35",
+    "answer": "385",
+    "reason": "Let's think step by step.\n1. Multiply 11 by 5 (the ones place digit of 35) = 55\n2. Multiply 11 by 30 (the tens place digit of 35) = 330"
+  },
+  {
+    "id": "Product_Q55",
+    "number1": "79",
+    "number2": "80",
+    "answer": "6320",
+    "reason": "Let's think step by step.\n1. Multiply 79 by 0 (the ones place digit of 80) = 0\n2. Multiply 79 by 80 (the tens place digit of 80) = 6320"
+  },
+  {
+    "id": "Product_Q56",
+    "number1": "39",
+    "number2": "61",
+    "answer": "2379",
+    "reason": "Let's think step by step.\n1. Multiply 39 by 1 (the ones place digit of 61) = 39\n2. Multiply 39 by 60 (the tens place digit of 61) = 2340"
+  },
+  {
+    "id": "Product_Q57",
+    "number1": "75",
+    "number2": "54",
+    "answer": "4050",
+    "reason": "Let's think step by step.\n1. Multiply 75 by 4 (the ones place digit of 54) = 300\n2. Multiply 75 by 50 (the tens place digit of 54) = 3750"
+  },
+  {
+    "id": "Product_Q58",
+    "number1": "83",
+    "number2": "55",
+    "answer": "4565",
+    "reason": "Let's think step by step.\n1. Multiply 83 by 5 (the ones place digit of 55) = 415\n2. Multiply 83 by 50 (the tens place digit of 55) = 4150"
+  },
+  {
+    "id": "Product_Q59",
+    "number1": "68",
+    "number2": "44",
+    "answer": "2992",
+    "reason": "Let's think step by step.\n1. Multiply 68 by 4 (the ones place digit of 44) = 272\n2. Multiply 68 by 40 (the tens place digit of 44) = 2720"
+  },
+  {
+    "id": "Product_Q60",
+    "number1": "94",
+    "number2": "80",
+    "answer": "7520",
+    "reason": "Let's think step by step.\n1. Multiply 94 by 0 (the ones place digit of 80) = 0\n2. Multiply 94 by 80 (the tens place digit of 80) = 7520"
+  },
+  {
+    "id": "Product_Q61",
+    "number1": "87",
+    "number2": "10",
+    "answer": "870",
+    "reason": "Let's think step by step.\n1. Multiply 87 by 0 (the ones place digit of 10) = 0\n2. Multiply 87 by 10 (the tens place digit of 10) = 870"
+  },
+  {
+    "id": "Product_Q62",
+    "number1": "59",
+    "number2": "75",
+    "answer": "4425",
+    "reason": "Let's think step by step.\n1. Multiply 59 by 5 (the ones place digit of 75) = 295\n2. Multiply 59 by 70 (the tens place digit of 75) = 4130"
+  },
+  {
+    "id": "Product_Q63",
+    "number1": "26",
+    "number2": "76",
+    "answer": "1976",
+    "reason": "Let's think step by step.\n1. Multiply 26 by 6 (the ones place digit of 76) = 156\n2. Multiply 26 by 70 (the tens place digit of 76) = 1820"
+  },
+  {
+    "id": "Product_Q64",
+    "number1": "81",
+    "number2": "36",
+    "answer": "2916",
+    "reason": "Let's think step by step.\n1. Multiply 81 by 6 (the ones place digit of 36) = 486\n2. Multiply 81 by 30 (the tens place digit of 36) = 2430"
+  },
+  {
+    "id": "Product_Q65",
+    "number1": "64",
+    "number2": "17",
+    "answer": "1088",
+    "reason": "Let's think step by step.\n1. Multiply 64 by 7 (the ones place digit of 17) = 448\n2. Multiply 64 by 10 (the tens place digit of 17) = 640"
+  },
+  {
+    "id": "Product_Q66",
+    "number1": "71",
+    "number2": "56",
+    "answer": "3976",
+    "reason": "Let's think step by step.\n1. Multiply 71 by 6 (the ones place digit of 56) = 426\n2. Multiply 71 by 50 (the tens place digit of 56) = 3550"
+  },
+  {
+    "id": "Product_Q67",
+    "number1": "82",
+    "number2": "80",
+    "answer": "6560",
+    "reason": "Let's think step by step.\n1. Multiply 82 by 0 (the ones place digit of 80) = 0\n2. Multiply 82 by 80 (the tens place digit of 80) = 6560"
+  },
+  {
+    "id": "Product_Q68",
+    "number1": "35",
+    "number2": "74",
+    "answer": "2590",
+    "reason": "Let's think step by step.\n1. Multiply 35 by 4 (the ones place digit of 74) = 140\n2. Multiply 35 by 70 (the tens place digit of 74) = 2450"
+  },
+  {
+    "id": "Product_Q69",
+    "number1": "62",
+    "number2": "72",
+    "answer": "4464",
+    "reason": "Let's think step by step.\n1. Multiply 62 by 2 (the ones place digit of 72) = 124\n2. Multiply 62 by 70 (the tens place digit of 72) = 4340"
+  },
+  {
+    "id": "Product_Q70",
+    "number1": "55",
+    "number2": "63",
+    "answer": "3465",
+    "reason": "Let's think step by step.\n1. Multiply 55 by 3 (the ones place digit of 63) = 165\n2. Multiply 55 by 60 (the tens place digit of 63) = 3300"
+  },
+  {
+    "id": "Product_Q71",
+    "number1": "54",
+    "number2": "10",
+    "answer": "540",
+    "reason": "Let's think step by step.\n1. Multiply 54 by 0 (the ones place digit of 10) = 0\n2. Multiply 54 by 10 (the tens place digit of 10) = 540"
+  },
+  {
+    "id": "Product_Q72",
+    "number1": "78",
+    "number2": "79",
+    "answer": "6162",
+    "reason": "Let's think step by step.\n1. Multiply 78 by 9 (the ones place digit of 79) = 702\n2. Multiply 78 by 70 (the tens place digit of 79) = 5460"
+  },
+  {
+    "id": "Product_Q73",
+    "number1": "89",
+    "number2": "88",
+    "answer": "7832",
+    "reason": "Let's think step by step.\n1. Multiply 89 by 8 (the ones place digit of 88) = 712\n2. Multiply 89 by 80 (the tens place digit of 88) = 7120"
+  },
+  {
+    "id": "Product_Q74",
+    "number1": "52",
+    "number2": "68",
+    "answer": "3536",
+    "reason": "Let's think step by step.\n1. Multiply 52 by 8 (the ones place digit of 68) = 416\n2. Multiply 52 by 60 (the tens place digit of 68) = 3120"
+  },
+  {
+    "id": "Product_Q75",
+    "number1": "86",
+    "number2": "13",
+    "answer": "1118",
+    "reason": "Let's think step by step.\n1. Multiply 86 by 3 (the ones place digit of 13) = 258\n2. Multiply 86 by 10 (the tens place digit of 13) = 860"
+  },
+  {
+    "id": "Product_Q76",
+    "number1": "39",
+    "number2": "91",
+    "answer": "3549",
+    "reason": "Let's think step by step.\n1. Multiply 39 by 1 (the ones place digit of 91) = 39\n2. Multiply 39 by 90 (the tens place digit of 91) = 3510"
+  },
+  {
+    "id": "Product_Q77",
+    "number1": "32",
+    "number2": "80",
+    "answer": "2560",
+    "reason": "Let's think step by step.\n1. Multiply 32 by 0 (the ones place digit of 80) = 0\n2. Multiply 32 by 80 (the tens place digit of 80) = 2560"
+  },
+  {
+    "id": "Product_Q78",
+    "number1": "84",
+    "number2": "33",
+    "answer": "2772",
+    "reason": "Let's think step by step.\n1. Multiply 84 by 3 (the ones place digit of 33) = 252\n2. Multiply 84 by 30 (the tens place digit of 33) = 2520"
+  },
+  {
+    "id": "Product_Q79",
+    "number1": "21",
+    "number2": "80",
+    "answer": "1680",
+    "reason": "Let's think step by step.\n1. Multiply 21 by 0 (the ones place digit of 80) = 0\n2. Multiply 21 by 80 (the tens place digit of 80) = 1680"
+  },
+  {
+    "id": "Product_Q80",
+    "number1": "42",
+    "number2": "14",
+    "answer": "588",
+    "reason": "Let's think step by step.\n1. Multiply 42 by 4 (the ones place digit of 14) = 168\n2. Multiply 42 by 10 (the tens place digit of 14) = 420"
+  },
+  {
+    "id": "Product_Q81",
+    "number1": "96",
+    "number2": "19",
+    "answer": "1824",
+    "reason": "Let's think step by step.\n1. Multiply 96 by 9 (the ones place digit of 19) = 864\n2. Multiply 96 by 10 (the tens place digit of 19) = 960"
+  },
+  {
+    "id": "Product_Q82",
+    "number1": "20",
+    "number2": "12",
+    "answer": "240",
+    "reason": "Let's think step by step.\n1. Multiply 20 by 2 (the ones place digit of 12) = 40\n2. Multiply 20 by 10 (the tens place digit of 12) = 200"
+  },
+  {
+    "id": "Product_Q83",
+    "number1": "67",
+    "number2": "11",
+    "answer": "737",
+    "reason": "Let's think step by step.\n1. Multiply 67 by 1 (the ones place digit of 11) = 67\n2. Multiply 67 by 10 (the tens place digit of 11) = 670"
+  },
+  {
+    "id": "Product_Q84",
+    "number1": "45",
+    "number2": "41",
+    "answer": "1845",
+    "reason": "Let's think step by step.\n1. Multiply 45 by 1 (the ones place digit of 41) = 45\n2. Multiply 45 by 40 (the tens place digit of 41) = 1800"
+  },
+  {
+    "id": "Product_Q85",
+    "number1": "44",
+    "number2": "24",
+    "answer": "1056",
+    "reason": "Let's think step by step.\n1. Multiply 44 by 4 (the ones place digit of 24) = 176\n2. Multiply 44 by 20 (the tens place digit of 24) = 880"
+  },
+  {
+    "id": "Product_Q86",
+    "number1": "89",
+    "number2": "33",
+    "answer": "2937",
+    "reason": "Let's think step by step.\n1. Multiply 89 by 3 (the ones place digit of 33) = 267\n2. Multiply 89 by 30 (the tens place digit of 33) = 2670"
+  },
+  {
+    "id": "Product_Q87",
+    "number1": "54",
+    "number2": "47",
+    "answer": "2538",
+    "reason": "Let's think step by step.\n1. Multiply 54 by 7 (the ones place digit of 47) = 378\n2. Multiply 54 by 40 (the tens place digit of 47) = 2160"
+  },
+  {
+    "id": "Product_Q88",
+    "number1": "18",
+    "number2": "31",
+    "answer": "558",
+    "reason": "Let's think step by step.\n1. Multiply 18 by 1 (the ones place digit of 31) = 18\n2. Multiply 18 by 30 (the tens place digit of 31) = 540"
+  },
+  {
+    "id": "Product_Q89",
+    "number1": "30",
+    "number2": "42",
+    "answer": "1260",
+    "reason": "Let's think step by step.\n1. Multiply 30 by 2 (the ones place digit of 42) = 60\n2. Multiply 30 by 40 (the tens place digit of 42) = 1200"
+  },
+  {
+    "id": "Product_Q90",
+    "number1": "77",
+    "number2": "31",
+    "answer": "2387",
+    "reason": "Let's think step by step.\n1. Multiply 77 by 1 (the ones place digit of 31) = 77\n2. Multiply 77 by 30 (the tens place digit of 31) = 2310"
+  },
+  {
+    "id": "Product_Q91",
+    "number1": "94",
+    "number2": "44",
+    "answer": "4136",
+    "reason": "Let's think step by step.\n1. Multiply 94 by 4 (the ones place digit of 44) = 376\n2. Multiply 94 by 40 (the tens place digit of 44) = 3760"
+  },
+  {
+    "id": "Product_Q92",
+    "number1": "92",
+    "number2": "47",
+    "answer": "4324",
+    "reason": "Let's think step by step.\n1. Multiply 92 by 7 (the ones place digit of 47) = 644\n2. Multiply 92 by 40 (the tens place digit of 47) = 3680"
+  },
+  {
+    "id": "Product_Q93",
+    "number1": "68",
+    "number2": "99",
+    "answer": "6732",
+    "reason": "Let's think step by step.\n1. Multiply 68 by 9 (the ones place digit of 99) = 612\n2. Multiply 68 by 90 (the tens place digit of 99) = 6120"
+  },
+  {
+    "id": "Product_Q94",
+    "number1": "51",
+    "number2": "73",
+    "answer": "3723",
+    "reason": "Let's think step by step.\n1. Multiply 51 by 3 (the ones place digit of 73) = 153\n2. Multiply 51 by 70 (the tens place digit of 73) = 3570"
+  },
+  {
+    "id": "Product_Q95",
+    "number1": "70",
+    "number2": "24",
+    "answer": "1680",
+    "reason": "Let's think step by step.\n1. Multiply 70 by 4 (the ones place digit of 24) = 280\n2. Multiply 70 by 20 (the tens place digit of 24) = 1400"
+  },
+  {
+    "id": "Product_Q96",
+    "number1": "13",
+    "number2": "49",
+    "answer": "637",
+    "reason": "Let's think step by step.\n1. Multiply 13 by 9 (the ones place digit of 49) = 117\n2. Multiply 13 by 40 (the tens place digit of 49) = 520"
+  },
+  {
+    "id": "Product_Q97",
+    "number1": "59",
+    "number2": "53",
+    "answer": "3127",
+    "reason": "Let's think step by step.\n1. Multiply 59 by 3 (the ones place digit of 53) = 177\n2. Multiply 59 by 50 (the tens place digit of 53) = 2950"
+  },
+  {
+    "id": "Product_Q98",
+    "number1": "63",
+    "number2": "34",
+    "answer": "2142",
+    "reason": "Let's think step by step.\n1. Multiply 63 by 4 (the ones place digit of 34) = 252\n2. Multiply 63 by 30 (the tens place digit of 34) = 1890"
+  },
+  {
+    "id": "Product_Q99",
+    "number1": "43",
+    "number2": "23",
+    "answer": "989",
+    "reason": "Let's think step by step.\n1. Multiply 43 by 3 (the ones place digit of 23) = 129\n2. Multiply 43 by 20 (the tens place digit of 23) = 860"
+  },
+  {
+    "id": "Product_Q100",
+    "number1": "42",
+    "number2": "75",
+    "answer": "3150",
+    "reason": "Let's think step by step.\n1. Multiply 42 by 5 (the ones place digit of 75) = 210\n2. Multiply 42 by 70 (the tens place digit of 75) = 2940"
+  },
+  {
+    "id": "Product_Q101",
+    "number1": "36",
+    "number2": "87",
+    "answer": "3132",
+    "reason": "Let's think step by step.\n1. Multiply 36 by 7 (the ones place digit of 87) = 252\n2. Multiply 36 by 80 (the tens place digit of 87) = 2880"
+  },
+  {
+    "id": "Product_Q102",
+    "number1": "65",
+    "number2": "12",
+    "answer": "780",
+    "reason": "Let's think step by step.\n1. Multiply 65 by 2 (the ones place digit of 12) = 130\n2. Multiply 65 by 10 (the tens place digit of 12) = 650"
+  },
+  {
+    "id": "Product_Q103",
+    "number1": "38",
+    "number2": "12",
+    "answer": "456",
+    "reason": "Let's think step by step.\n1. Multiply 38 by 2 (the ones place digit of 12) = 76\n2. Multiply 38 by 10 (the tens place digit of 12) = 380"
+  },
+  {
+    "id": "Product_Q104",
+    "number1": "60",
+    "number2": "28",
+    "answer": "1680",
+    "reason": "Let's think step by step.\n1. Multiply 60 by 8 (the ones place digit of 28) = 480\n2. Multiply 60 by 20 (the tens place digit of 28) = 1200"
+  },
+  {
+    "id": "Product_Q105",
+    "number1": "14",
+    "number2": "30",
+    "answer": "420",
+    "reason": "Let's think step by step.\n1. Multiply 14 by 0 (the ones place digit of 30) = 0\n2. Multiply 14 by 30 (the tens place digit of 30) = 420"
+  },
+  {
+    "id": "Product_Q106",
+    "number1": "67",
+    "number2": "100",
+    "answer": "6700",
+    "reason": "Let's think step by step.\n1. Multiply 67 by 0 (the ones place digit of 100) = 0\n2. Multiply 67 by 0 (the tens place digit of 100) = 0\n3. Multiply 67 by 100 (the hundreds place digit of 100) = 6700"
+  },
+  {
+    "id": "Product_Q107",
+    "number1": "74",
+    "number2": "96",
+    "answer": "7104",
+    "reason": "Let's think step by step.\n1. Multiply 74 by 6 (the ones place digit of 96) = 444\n2. Multiply 74 by 90 (the tens place digit of 96) = 6660"
+  },
+  {
+    "id": "Product_Q108",
+    "number1": "64",
+    "number2": "79",
+    "answer": "5056",
+    "reason": "Let's think step by step.\n1. Multiply 64 by 9 (the ones place digit of 79) = 576\n2. Multiply 64 by 70 (the tens place digit of 79) = 4480"
+  },
+  {
+    "id": "Product_Q109",
+    "number1": "38",
+    "number2": "90",
+    "answer": "3420",
+    "reason": "Let's think step by step.\n1. Multiply 38 by 0 (the ones place digit of 90) = 0\n2. Multiply 38 by 90 (the tens place digit of 90) = 3420"
+  },
+  {
+    "id": "Product_Q110",
+    "number1": "98",
+    "number2": "76",
+    "answer": "7448",
+    "reason": "Let's think step by step.\n1. Multiply 98 by 6 (the ones place digit of 76) = 588\n2. Multiply 98 by 70 (the tens place digit of 76) = 6860"
+  },
+  {
+    "id": "Product_Q111",
+    "number1": "67",
+    "number2": "38",
+    "answer": "2546",
+    "reason": "Let's think step by step.\n1. Multiply 67 by 8 (the ones place digit of 38) = 536\n2. Multiply 67 by 30 (the tens place digit of 38) = 2010"
+  },
+  {
+    "id": "Product_Q112",
+    "number1": "77",
+    "number2": "93",
+    "answer": "7161",
+    "reason": "Let's think step by step.\n1. Multiply 77 by 3 (the ones place digit of 93) = 231\n2. Multiply 77 by 90 (the tens place digit of 93) = 6930"
+  },
+  {
+    "id": "Product_Q113",
+    "number1": "13",
+    "number2": "60",
+    "answer": "780",
+    "reason": "Let's think step by step.\n1. Multiply 13 by 0 (the ones place digit of 60) = 0\n2. Multiply 13 by 60 (the tens place digit of 60) = 780"
+  },
+  {
+    "id": "Product_Q114",
+    "number1": "96",
+    "number2": "83",
+    "answer": "7968",
+    "reason": "Let's think step by step.\n1. Multiply 96 by 3 (the ones place digit of 83) = 288\n2. Multiply 96 by 80 (the tens place digit of 83) = 7680"
+  },
+  {
+    "id": "Product_Q115",
+    "number1": "51",
+    "number2": "94",
+    "answer": "4794",
+    "reason": "Let's think step by step.\n1. Multiply 51 by 4 (the ones place digit of 94) = 204\n2. Multiply 51 by 90 (the tens place digit of 94) = 4590"
+  },
+  {
+    "id": "Product_Q116",
+    "number1": "90",
+    "number2": "64",
+    "answer": "5760",
+    "reason": "Let's think step by step.\n1. Multiply 90 by 4 (the ones place digit of 64) = 360\n2. Multiply 90 by 60 (the tens place digit of 64) = 5400"
+  },
+  {
+    "id": "Product_Q117",
+    "number1": "17",
+    "number2": "48",
+    "answer": "816",
+    "reason": "Let's think step by step.\n1. Multiply 17 by 8 (the ones place digit of 48) = 136\n2. Multiply 17 by 40 (the tens place digit of 48) = 680"
+  },
+  {
+    "id": "Product_Q118",
+    "number1": "26",
+    "number2": "37",
+    "answer": "962",
+    "reason": "Let's think step by step.\n1. Multiply 26 by 7 (the ones place digit of 37) = 182\n2. Multiply 26 by 30 (the tens place digit of 37) = 780"
+  },
+  {
+    "id": "Product_Q119",
+    "number1": "16",
+    "number2": "49",
+    "answer": "784",
+    "reason": "Let's think step by step.\n1. Multiply 16 by 9 (the ones place digit of 49) = 144\n2. Multiply 16 by 40 (the tens place digit of 49) = 640"
+  },
+  {
+    "id": "Product_Q120",
+    "number1": "19",
+    "number2": "19",
+    "answer": "361",
+    "reason": "Let's think step by step.\n1. Multiply 19 by 9 (the ones place digit of 19) = 171\n2. Multiply 19 by 10 (the tens place digit of 19) = 190"
+  },
+  {
+    "id": "Product_Q121",
+    "number1": "49",
+    "number2": "48",
+    "answer": "2352",
+    "reason": "Let's think step by step.\n1. Multiply 49 by 8 (the ones place digit of 48) = 392\n2. Multiply 49 by 40 (the tens place digit of 48) = 1960"
+  },
+  {
+    "id": "Product_Q122",
+    "number1": "30",
+    "number2": "63",
+    "answer": "1890",
+    "reason": "Let's think step by step.\n1. Multiply 30 by 3 (the ones place digit of 63) = 90\n2. Multiply 30 by 60 (the tens place digit of 63) = 1800"
+  },
+  {
+    "id": "Product_Q123",
+    "number1": "82",
+    "number2": "42",
+    "answer": "3444",
+    "reason": "Let's think step by step.\n1. Multiply 82 by 2 (the ones place digit of 42) = 164\n2. Multiply 82 by 40 (the tens place digit of 42) = 3280"
+  },
+  {
+    "id": "Product_Q124",
+    "number1": "26",
+    "number2": "11",
+    "answer": "286",
+    "reason": "Let's think step by step.\n1. Multiply 26 by 1 (the ones place digit of 11) = 26\n2. Multiply 26 by 10 (the tens place digit of 11) = 260"
+  },
+  {
+    "id": "Product_Q125",
+    "number1": "81",
+    "number2": "14",
+    "answer": "1134",
+    "reason": "Let's think step by step.\n1. Multiply 81 by 4 (the ones place digit of 14) = 324\n2. Multiply 81 by 10 (the tens place digit of 14) = 810"
+  },
+  {
+    "id": "Product_Q126",
+    "number1": "85",
+    "number2": "37",
+    "answer": "3145",
+    "reason": "Let's think step by step.\n1. Multiply 85 by 7 (the ones place digit of 37) = 595\n2. Multiply 85 by 30 (the tens place digit of 37) = 2550"
+  },
+  {
+    "id": "Product_Q127",
+    "number1": "82",
+    "number2": "68",
+    "answer": "5576",
+    "reason": "Let's think step by step.\n1. Multiply 82 by 8 (the ones place digit of 68) = 656\n2. Multiply 82 by 60 (the tens place digit of 68) = 4920"
+  },
+  {
+    "id": "Product_Q128",
+    "number1": "31",
+    "number2": "100",
+    "answer": "3100",
+    "reason": "Let's think step by step.\n1. Multiply 31 by 0 (the ones place digit of 100) = 0\n2. Multiply 31 by 0 (the tens place digit of 100) = 0\n3. Multiply 31 by 100 (the hundreds place digit of 100) = 3100"
+  },
+  {
+    "id": "Product_Q129",
+    "number1": "89",
+    "number2": "75",
+    "answer": "6675",
+    "reason": "Let's think step by step.\n1. Multiply 89 by 5 (the ones place digit of 75) = 445\n2. Multiply 89 by 70 (the tens place digit of 75) = 6230"
+  },
+  {
+    "id": "Product_Q130",
+    "number1": "14",
+    "number2": "58",
+    "answer": "812",
+    "reason": "Let's think step by step.\n1. Multiply 14 by 8 (the ones place digit of 58) = 112\n2. Multiply 14 by 50 (the tens place digit of 58) = 700"
+  },
+  {
+    "id": "Product_Q131",
+    "number1": "35",
+    "number2": "54",
+    "answer": "1890",
+    "reason": "Let's think step by step.\n1. Multiply 35 by 4 (the ones place digit of 54) = 140\n2. Multiply 35 by 50 (the tens place digit of 54) = 1750"
+  },
+  {
+    "id": "Product_Q132",
+    "number1": "22",
+    "number2": "36",
+    "answer": "792",
+    "reason": "Let's think step by step.\n1. Multiply 22 by 6 (the ones place digit of 36) = 132\n2. Multiply 22 by 30 (the tens place digit of 36) = 660"
+  },
+  {
+    "id": "Product_Q133",
+    "number1": "83",
+    "number2": "96",
+    "answer": "7968",
+    "reason": "Let's think step by step.\n1. Multiply 83 by 6 (the ones place digit of 96) = 498\n2. Multiply 83 by 90 (the tens place digit of 96) = 7470"
+  },
+  {
+    "id": "Product_Q134",
+    "number1": "65",
+    "number2": "85",
+    "answer": "5525",
+    "reason": "Let's think step by step.\n1. Multiply 65 by 5 (the ones place digit of 85) = 325\n2. Multiply 65 by 80 (the tens place digit of 85) = 5200"
+  },
+  {
+    "id": "Product_Q135",
+    "number1": "34",
+    "number2": "73",
+    "answer": "2482",
+    "reason": "Let's think step by step.\n1. Multiply 34 by 3 (the ones place digit of 73) = 102\n2. Multiply 34 by 70 (the tens place digit of 73) = 2380"
+  },
+  {
+    "id": "Product_Q136",
+    "number1": "23",
+    "number2": "95",
+    "answer": "2185",
+    "reason": "Let's think step by step.\n1. Multiply 23 by 5 (the ones place digit of 95) = 115\n2. Multiply 23 by 90 (the tens place digit of 95) = 2070"
+  },
+  {
+    "id": "Product_Q137",
+    "number1": "59",
+    "number2": "47",
+    "answer": "2773",
+    "reason": "Let's think step by step.\n1. Multiply 59 by 7 (the ones place digit of 47) = 413\n2. Multiply 59 by 40 (the tens place digit of 47) = 2360"
+  },
+  {
+    "id": "Product_Q138",
+    "number1": "74",
+    "number2": "73",
+    "answer": "5402",
+    "reason": "Let's think step by step.\n1. Multiply 74 by 3 (the ones place digit of 73) = 222\n2. Multiply 74 by 70 (the tens place digit of 73) = 5180"
+  },
+  {
+    "id": "Product_Q139",
+    "number1": "12",
+    "number2": "51",
+    "answer": "612",
+    "reason": "Let's think step by step.\n1. Multiply 12 by 1 (the ones place digit of 51) = 12\n2. Multiply 12 by 50 (the tens place digit of 51) = 600"
+  },
+  {
+    "id": "Product_Q140",
+    "number1": "88",
+    "number2": "61",
+    "answer": "5368",
+    "reason": "Let's think step by step.\n1. Multiply 88 by 1 (the ones place digit of 61) = 88\n2. Multiply 88 by 60 (the tens place digit of 61) = 5280"
+  },
+  {
+    "id": "Product_Q141",
+    "number1": "46",
+    "number2": "12",
+    "answer": "552",
+    "reason": "Let's think step by step.\n1. Multiply 46 by 2 (the ones place digit of 12) = 92\n2. Multiply 46 by 10 (the tens place digit of 12) = 460"
+  },
+  {
+    "id": "Product_Q142",
+    "number1": "30",
+    "number2": "35",
+    "answer": "1050",
+    "reason": "Let's think step by step.\n1. Multiply 30 by 5 (the ones place digit of 35) = 150\n2. Multiply 30 by 30 (the tens place digit of 35) = 900"
+  },
+  {
+    "id": "Product_Q143",
+    "number1": "51",
+    "number2": "82",
+    "answer": "4182",
+    "reason": "Let's think step by step.\n1. Multiply 51 by 2 (the ones place digit of 82) = 102\n2. Multiply 51 by 80 (the tens place digit of 82) = 4080"
+  },
+  {
+    "id": "Product_Q144",
+    "number1": "27",
+    "number2": "53",
+    "answer": "1431",
+    "reason": "Let's think step by step.\n1. Multiply 27 by 3 (the ones place digit of 53) = 81\n2. Multiply 27 by 50 (the tens place digit of 53) = 1350"
+  },
+  {
+    "id": "Product_Q145",
+    "number1": "64",
+    "number2": "37",
+    "answer": "2368",
+    "reason": "Let's think step by step.\n1. Multiply 64 by 7 (the ones place digit of 37) = 448\n2. Multiply 64 by 30 (the tens place digit of 37) = 1920"
+  },
+  {
+    "id": "Product_Q146",
+    "number1": "44",
+    "number2": "96",
+    "answer": "4224",
+    "reason": "Let's think step by step.\n1. Multiply 44 by 6 (the ones place digit of 96) = 264\n2. Multiply 44 by 90 (the tens place digit of 96) = 3960"
+  },
+  {
+    "id": "Product_Q147",
+    "number1": "22",
+    "number2": "58",
+    "answer": "1276",
+    "reason": "Let's think step by step.\n1. Multiply 22 by 8 (the ones place digit of 58) = 176\n2. Multiply 22 by 50 (the tens place digit of 58) = 1100"
+  },
+  {
+    "id": "Product_Q148",
+    "number1": "80",
+    "number2": "54",
+    "answer": "4320",
+    "reason": "Let's think step by step.\n1. Multiply 80 by 4 (the ones place digit of 54) = 320\n2. Multiply 80 by 50 (the tens place digit of 54) = 4000"
+  },
+  {
+    "id": "Product_Q149",
+    "number1": "97",
+    "number2": "78",
+    "answer": "7566",
+    "reason": "Let's think step by step.\n1. Multiply 97 by 8 (the ones place digit of 78) = 776\n2. Multiply 97 by 70 (the tens place digit of 78) = 6790"
+  },
+  {
+    "id": "Product_Q150",
+    "number1": "72",
+    "number2": "78",
+    "answer": "5616",
+    "reason": "Let's think step by step.\n1. Multiply 72 by 8 (the ones place digit of 78) = 576\n2. Multiply 72 by 70 (the tens place digit of 78) = 5040"
+  },
+  {
+    "id": "Product_Q151",
+    "number1": "40",
+    "number2": "18",
+    "answer": "720",
+    "reason": "Let's think step by step.\n1. Multiply 40 by 8 (the ones place digit of 18) = 320\n2. Multiply 40 by 10 (the tens place digit of 18) = 400"
+  },
+  {
+    "id": "Product_Q152",
+    "number1": "15",
+    "number2": "20",
+    "answer": "300",
+    "reason": "Let's think step by step.\n1. Multiply 15 by 0 (the ones place digit of 20) = 0\n2. Multiply 15 by 20 (the tens place digit of 20) = 300"
+  },
+  {
+    "id": "Product_Q153",
+    "number1": "27",
+    "number2": "31",
+    "answer": "837",
+    "reason": "Let's think step by step.\n1. Multiply 27 by 1 (the ones place digit of 31) = 27\n2. Multiply 27 by 30 (the tens place digit of 31) = 810"
+  },
+  {
+    "id": "Product_Q154",
+    "number1": "31",
+    "number2": "78",
+    "answer": "2418",
+    "reason": "Let's think step by step.\n1. Multiply 31 by 8 (the ones place digit of 78) = 248\n2. Multiply 31 by 70 (the tens place digit of 78) = 2170"
+  },
+  {
+    "id": "Product_Q155",
+    "number1": "37",
+    "number2": "44",
+    "answer": "1628",
+    "reason": "Let's think step by step.\n1. Multiply 37 by 4 (the ones place digit of 44) = 148\n2. Multiply 37 by 40 (the tens place digit of 44) = 1480"
+  },
+  {
+    "id": "Product_Q156",
+    "number1": "52",
+    "number2": "86",
+    "answer": "4472",
+    "reason": "Let's think step by step.\n1. Multiply 52 by 6 (the ones place digit of 86) = 312\n2. Multiply 52 by 80 (the tens place digit of 86) = 4160"
+  },
+  {
+    "id": "Product_Q157",
+    "number1": "74",
+    "number2": "42",
+    "answer": "3108",
+    "reason": "Let's think step by step.\n1. Multiply 74 by 2 (the ones place digit of 42) = 148\n2. Multiply 74 by 40 (the tens place digit of 42) = 2960"
+  },
+  {
+    "id": "Product_Q158",
+    "number1": "57",
+    "number2": "53",
+    "answer": "3021",
+    "reason": "Let's think step by step.\n1. Multiply 57 by 3 (the ones place digit of 53) = 171\n2. Multiply 57 by 50 (the tens place digit of 53) = 2850"
+  },
+  {
+    "id": "Product_Q159",
+    "number1": "53",
+    "number2": "24",
+    "answer": "1272",
+    "reason": "Let's think step by step.\n1. Multiply 53 by 4 (the ones place digit of 24) = 212\n2. Multiply 53 by 20 (the tens place digit of 24) = 1060"
+  },
+  {
+    "id": "Product_Q160",
+    "number1": "47",
+    "number2": "40",
+    "answer": "1880",
+    "reason": "Let's think step by step.\n1. Multiply 47 by 0 (the ones place digit of 40) = 0\n2. Multiply 47 by 40 (the tens place digit of 40) = 1880"
+  },
+  {
+    "id": "Product_Q161",
+    "number1": "87",
+    "number2": "72",
+    "answer": "6264",
+    "reason": "Let's think step by step.\n1. Multiply 87 by 2 (the ones place digit of 72) = 174\n2. Multiply 87 by 70 (the tens place digit of 72) = 6090"
+  },
+  {
+    "id": "Product_Q162",
+    "number1": "27",
+    "number2": "84",
+    "answer": "2268",
+    "reason": "Let's think step by step.\n1. Multiply 27 by 4 (the ones place digit of 84) = 108\n2. Multiply 27 by 80 (the tens place digit of 84) = 2160"
+  },
+  {
+    "id": "Product_Q163",
+    "number1": "80",
+    "number2": "23",
+    "answer": "1840",
+    "reason": "Let's think step by step.\n1. Multiply 80 by 3 (the ones place digit of 23) = 240\n2. Multiply 80 by 20 (the tens place digit of 23) = 1600"
+  },
+  {
+    "id": "Product_Q164",
+    "number1": "51",
+    "number2": "15",
+    "answer": "765",
+    "reason": "Let's think step by step.\n1. Multiply 51 by 5 (the ones place digit of 15) = 255\n2. Multiply 51 by 10 (the tens place digit of 15) = 510"
+  },
+  {
+    "id": "Product_Q165",
+    "number1": "62",
+    "number2": "19",
+    "answer": "1178",
+    "reason": "Let's think step by step.\n1. Multiply 62 by 9 (the ones place digit of 19) = 558\n2. Multiply 62 by 10 (the tens place digit of 19) = 620"
+  },
+  {
+    "id": "Product_Q166",
+    "number1": "58",
+    "number2": "28",
+    "answer": "1624",
+    "reason": "Let's think step by step.\n1. Multiply 58 by 8 (the ones place digit of 28) = 464\n2. Multiply 58 by 20 (the tens place digit of 28) = 1160"
+  },
+  {
+    "id": "Product_Q167",
+    "number1": "26",
+    "number2": "53",
+    "answer": "1378",
+    "reason": "Let's think step by step.\n1. Multiply 26 by 3 (the ones place digit of 53) = 78\n2. Multiply 26 by 50 (the tens place digit of 53) = 1300"
+  },
+  {
+    "id": "Product_Q168",
+    "number1": "24",
+    "number2": "88",
+    "answer": "2112",
+    "reason": "Let's think step by step.\n1. Multiply 24 by 8 (the ones place digit of 88) = 192\n2. Multiply 24 by 80 (the tens place digit of 88) = 1920"
+  },
+  {
+    "id": "Product_Q169",
+    "number1": "85",
+    "number2": "58",
+    "answer": "4930",
+    "reason": "Let's think step by step.\n1. Multiply 85 by 8 (the ones place digit of 58) = 680\n2. Multiply 85 by 50 (the tens place digit of 58) = 4250"
+  },
+  {
+    "id": "Product_Q170",
+    "number1": "19",
+    "number2": "83",
+    "answer": "1577",
+    "reason": "Let's think step by step.\n1. Multiply 19 by 3 (the ones place digit of 83) = 57\n2. Multiply 19 by 80 (the tens place digit of 83) = 1520"
+  },
+  {
+    "id": "Product_Q171",
+    "number1": "80",
+    "number2": "38",
+    "answer": "3040",
+    "reason": "Let's think step by step.\n1. Multiply 80 by 8 (the ones place digit of 38) = 640\n2. Multiply 80 by 30 (the tens place digit of 38) = 2400"
+  },
+  {
+    "id": "Product_Q172",
+    "number1": "82",
+    "number2": "20",
+    "answer": "1640",
+    "reason": "Let's think step by step.\n1. Multiply 82 by 0 (the ones place digit of 20) = 0\n2. Multiply 82 by 20 (the tens place digit of 20) = 1640"
+  },
+  {
+    "id": "Product_Q173",
+    "number1": "44",
+    "number2": "56",
+    "answer": "2464",
+    "reason": "Let's think step by step.\n1. Multiply 44 by 6 (the ones place digit of 56) = 264\n2. Multiply 44 by 50 (the tens place digit of 56) = 2200"
+  },
+  {
+    "id": "Product_Q174",
+    "number1": "47",
+    "number2": "82",
+    "answer": "3854",
+    "reason": "Let's think step by step.\n1. Multiply 47 by 2 (the ones place digit of 82) = 94\n2. Multiply 47 by 80 (the tens place digit of 82) = 3760"
+  },
+  {
+    "id": "Product_Q175",
+    "number1": "78",
+    "number2": "24",
+    "answer": "1872",
+    "reason": "Let's think step by step.\n1. Multiply 78 by 4 (the ones place digit of 24) = 312\n2. Multiply 78 by 20 (the tens place digit of 24) = 1560"
+  },
+  {
+    "id": "Product_Q176",
+    "number1": "68",
+    "number2": "45",
+    "answer": "3060",
+    "reason": "Let's think step by step.\n1. Multiply 68 by 5 (the ones place digit of 45) = 340\n2. Multiply 68 by 40 (the tens place digit of 45) = 2720"
+  },
+  {
+    "id": "Product_Q177",
+    "number1": "23",
+    "number2": "15",
+    "answer": "345",
+    "reason": "Let's think step by step.\n1. Multiply 23 by 5 (the ones place digit of 15) = 115\n2. Multiply 23 by 10 (the tens place digit of 15) = 230"
+  },
+  {
+    "id": "Product_Q178",
+    "number1": "47",
+    "number2": "11",
+    "answer": "517",
+    "reason": "Let's think step by step.\n1. Multiply 47 by 1 (the ones place digit of 11) = 47\n2. Multiply 47 by 10 (the tens place digit of 11) = 470"
+  },
+  {
+    "id": "Product_Q179",
+    "number1": "88",
+    "number2": "95",
+    "answer": "8360",
+    "reason": "Let's think step by step.\n1. Multiply 88 by 5 (the ones place digit of 95) = 440\n2. Multiply 88 by 90 (the tens place digit of 95) = 7920"
+  },
+  {
+    "id": "Product_Q180",
+    "number1": "11",
+    "number2": "21",
+    "answer": "231",
+    "reason": "Let's think step by step.\n1. Multiply 11 by 1 (the ones place digit of 21) = 11\n2. Multiply 11 by 20 (the tens place digit of 21) = 220"
+  },
+  {
+    "id": "Product_Q181",
+    "number1": "62",
+    "number2": "24",
+    "answer": "1488",
+    "reason": "Let's think step by step.\n1. Multiply 62 by 4 (the ones place digit of 24) = 248\n2. Multiply 62 by 20 (the tens place digit of 24) = 1240"
+  },
+  {
+    "id": "Product_Q182",
+    "number1": "15",
+    "number2": "34",
+    "answer": "510",
+    "reason": "Let's think step by step.\n1. Multiply 15 by 4 (the ones place digit of 34) = 60\n2. Multiply 15 by 30 (the tens place digit of 34) = 450"
+  },
+  {
+    "id": "Product_Q183",
+    "number1": "40",
+    "number2": "85",
+    "answer": "3400",
+    "reason": "Let's think step by step.\n1. Multiply 40 by 5 (the ones place digit of 85) = 200\n2. Multiply 40 by 80 (the tens place digit of 85) = 3200"
+  },
+  {
+    "id": "Product_Q184",
+    "number1": "63",
+    "number2": "30",
+    "answer": "1890",
+    "reason": "Let's think step by step.\n1. Multiply 63 by 0 (the ones place digit of 30) = 0\n2. Multiply 63 by 30 (the tens place digit of 30) = 1890"
+  },
+  {
+    "id": "Product_Q185",
+    "number1": "24",
+    "number2": "67",
+    "answer": "1608",
+    "reason": "Let's think step by step.\n1. Multiply 24 by 7 (the ones place digit of 67) = 168\n2. Multiply 24 by 60 (the tens place digit of 67) = 1440"
+  },
+  {
+    "id": "Product_Q186",
+    "number1": "31",
+    "number2": "97",
+    "answer": "3007",
+    "reason": "Let's think step by step.\n1. Multiply 31 by 7 (the ones place digit of 97) = 217\n2. Multiply 31 by 90 (the tens place digit of 97) = 2790"
+  },
+  {
+    "id": "Product_Q187",
+    "number1": "40",
+    "number2": "30",
+    "answer": "1200",
+    "reason": "Let's think step by step.\n1. Multiply 40 by 0 (the ones place digit of 30) = 0\n2. Multiply 40 by 30 (the tens place digit of 30) = 1200"
+  },
+  {
+    "id": "Product_Q188",
+    "number1": "23",
+    "number2": "65",
+    "answer": "1495",
+    "reason": "Let's think step by step.\n1. Multiply 23 by 5 (the ones place digit of 65) = 115\n2. Multiply 23 by 60 (the tens place digit of 65) = 1380"
+  },
+  {
+    "id": "Product_Q189",
+    "number1": "58",
+    "number2": "79",
+    "answer": "4582",
+    "reason": "Let's think step by step.\n1. Multiply 58 by 9 (the ones place digit of 79) = 522\n2. Multiply 58 by 70 (the tens place digit of 79) = 4060"
+  },
+  {
+    "id": "Product_Q190",
+    "number1": "47",
+    "number2": "80",
+    "answer": "3760",
+    "reason": "Let's think step by step.\n1. Multiply 47 by 0 (the ones place digit of 80) = 0\n2. Multiply 47 by 80 (the tens place digit of 80) = 3760"
+  },
+  {
+    "id": "Product_Q191",
+    "number1": "42",
+    "number2": "71",
+    "answer": "2982",
+    "reason": "Let's think step by step.\n1. Multiply 42 by 1 (the ones place digit of 71) = 42\n2. Multiply 42 by 70 (the tens place digit of 71) = 2940"
+  },
+  {
+    "id": "Product_Q192",
+    "number1": "50",
+    "number2": "22",
+    "answer": "1100",
+    "reason": "Let's think step by step.\n1. Multiply 50 by 2 (the ones place digit of 22) = 100\n2. Multiply 50 by 20 (the tens place digit of 22) = 1000"
+  },
+  {
+    "id": "Product_Q193",
+    "number1": "36",
+    "number2": "93",
+    "answer": "3348",
+    "reason": "Let's think step by step.\n1. Multiply 36 by 3 (the ones place digit of 93) = 108\n2. Multiply 36 by 90 (the tens place digit of 93) = 3240"
+  },
+  {
+    "id": "Product_Q194",
+    "number1": "50",
+    "number2": "15",
+    "answer": "750",
+    "reason": "Let's think step by step.\n1. Multiply 50 by 5 (the ones place digit of 15) = 250\n2. Multiply 50 by 10 (the tens place digit of 15) = 500"
+  },
+  {
+    "id": "Product_Q195",
+    "number1": "13",
+    "number2": "11",
+    "answer": "143",
+    "reason": "Let's think step by step.\n1. Multiply 13 by 1 (the ones place digit of 11) = 13\n2. Multiply 13 by 10 (the tens place digit of 11) = 130"
+  },
+  {
+    "id": "Product_Q196",
+    "number1": "47",
+    "number2": "86",
+    "answer": "4042",
+    "reason": "Let's think step by step.\n1. Multiply 47 by 6 (the ones place digit of 86) = 282\n2. Multiply 47 by 80 (the tens place digit of 86) = 3760"
+  },
+  {
+    "id": "Product_Q197",
+    "number1": "50",
+    "number2": "67",
+    "answer": "3350",
+    "reason": "Let's think step by step.\n1. Multiply 50 by 7 (the ones place digit of 67) = 350\n2. Multiply 50 by 60 (the tens place digit of 67) = 3000"
+  },
+  {
+    "id": "Product_Q198",
+    "number1": "60",
+    "number2": "50",
+    "answer": "3000",
+    "reason": "Let's think step by step.\n1. Multiply 60 by 0 (the ones place digit of 50) = 0\n2. Multiply 60 by 50 (the tens place digit of 50) = 3000"
+  },
+  {
+    "id": "Product_Q199",
+    "number1": "61",
+    "number2": "18",
+    "answer": "1098",
+    "reason": "Let's think step by step.\n1. Multiply 61 by 8 (the ones place digit of 18) = 488\n2. Multiply 61 by 10 (the tens place digit of 18) = 610"
+  },
+  {
+    "id": "Product_Q200",
+    "number1": "18",
+    "number2": "50",
+    "answer": "900",
+    "reason": "Let's think step by step.\n1. Multiply 18 by 0 (the ones place digit of 50) = 0\n2. Multiply 18 by 50 (the tens place digit of 50) = 900"
+  },
+  {
+    "id": "Product_Q201",
+    "number1": "86",
+    "number2": "68",
+    "answer": "5848",
+    "reason": "Let's think step by step.\n1. Multiply 86 by 8 (the ones place digit of 68) = 688\n2. Multiply 86 by 60 (the tens place digit of 68) = 5160"
+  },
+  {
+    "id": "Product_Q202",
+    "number1": "24",
+    "number2": "42",
+    "answer": "1008",
+    "reason": "Let's think step by step.\n1. Multiply 24 by 2 (the ones place digit of 42) = 48\n2. Multiply 24 by 40 (the tens place digit of 42) = 960"
+  },
+  {
+    "id": "Product_Q203",
+    "number1": "37",
+    "number2": "89",
+    "answer": "3293",
+    "reason": "Let's think step by step.\n1. Multiply 37 by 9 (the ones place digit of 89) = 333\n2. Multiply 37 by 80 (the tens place digit of 89) = 2960"
+  },
+  {
+    "id": "Product_Q204",
+    "number1": "79",
+    "number2": "98",
+    "answer": "7742",
+    "reason": "Let's think step by step.\n1. Multiply 79 by 8 (the ones place digit of 98) = 632\n2. Multiply 79 by 90 (the tens place digit of 98) = 7110"
+  },
+  {
+    "id": "Product_Q205",
+    "number1": "70",
+    "number2": "94",
+    "answer": "6580",
+    "reason": "Let's think step by step.\n1. Multiply 70 by 4 (the ones place digit of 94) = 280\n2. Multiply 70 by 90 (the tens place digit of 94) = 6300"
+  },
+  {
+    "id": "Product_Q206",
+    "number1": "55",
+    "number2": "43",
+    "answer": "2365",
+    "reason": "Let's think step by step.\n1. Multiply 55 by 3 (the ones place digit of 43) = 165\n2. Multiply 55 by 40 (the tens place digit of 43) = 2200"
+  },
+  {
+    "id": "Product_Q207",
+    "number1": "33",
+    "number2": "79",
+    "answer": "2607",
+    "reason": "Let's think step by step.\n1. Multiply 33 by 9 (the ones place digit of 79) = 297\n2. Multiply 33 by 70 (the tens place digit of 79) = 2310"
+  },
+  {
+    "id": "Product_Q208",
+    "number1": "36",
+    "number2": "49",
+    "answer": "1764",
+    "reason": "Let's think step by step.\n1. Multiply 36 by 9 (the ones place digit of 49) = 324\n2. Multiply 36 by 40 (the tens place digit of 49) = 1440"
+  },
+  {
+    "id": "Product_Q209",
+    "number1": "35",
+    "number2": "41",
+    "answer": "1435",
+    "reason": "Let's think step by step.\n1. Multiply 35 by 1 (the ones place digit of 41) = 35\n2. Multiply 35 by 40 (the tens place digit of 41) = 1400"
+  },
+  {
+    "id": "Product_Q210",
+    "number1": "56",
+    "number2": "20",
+    "answer": "1120",
+    "reason": "Let's think step by step.\n1. Multiply 56 by 0 (the ones place digit of 20) = 0\n2. Multiply 56 by 20 (the tens place digit of 20) = 1120"
+  },
+  {
+    "id": "Product_Q211",
+    "number1": "45",
+    "number2": "21",
+    "answer": "945",
+    "reason": "Let's think step by step.\n1. Multiply 45 by 1 (the ones place digit of 21) = 45\n2. Multiply 45 by 20 (the tens place digit of 21) = 900"
+  },
+  {
+    "id": "Product_Q212",
+    "number1": "67",
+    "number2": "21",
+    "answer": "1407",
+    "reason": "Let's think step by step.\n1. Multiply 67 by 1 (the ones place digit of 21) = 67\n2. Multiply 67 by 20 (the tens place digit of 21) = 1340"
+  },
+  {
+    "id": "Product_Q213",
+    "number1": "93",
+    "number2": "83",
+    "answer": "7719",
+    "reason": "Let's think step by step.\n1. Multiply 93 by 3 (the ones place digit of 83) = 279\n2. Multiply 93 by 80 (the tens place digit of 83) = 7440"
+  },
+  {
+    "id": "Product_Q214",
+    "number1": "92",
+    "number2": "53",
+    "answer": "4876",
+    "reason": "Let's think step by step.\n1. Multiply 92 by 3 (the ones place digit of 53) = 276\n2. Multiply 92 by 50 (the tens place digit of 53) = 4600"
+  },
+  {
+    "id": "Product_Q215",
+    "number1": "39",
+    "number2": "59",
+    "answer": "2301",
+    "reason": "Let's think step by step.\n1. Multiply 39 by 9 (the ones place digit of 59) = 351\n2. Multiply 39 by 50 (the tens place digit of 59) = 1950"
+  },
+  {
+    "id": "Product_Q216",
+    "number1": "49",
+    "number2": "15",
+    "answer": "735",
+    "reason": "Let's think step by step.\n1. Multiply 49 by 5 (the ones place digit of 15) = 245\n2. Multiply 49 by 10 (the tens place digit of 15) = 490"
+  },
+  {
+    "id": "Product_Q217",
+    "number1": "51",
+    "number2": "33",
+    "answer": "1683",
+    "reason": "Let's think step by step.\n1. Multiply 51 by 3 (the ones place digit of 33) = 153\n2. Multiply 51 by 30 (the tens place digit of 33) = 1530"
+  },
+  {
+    "id": "Product_Q218",
+    "number1": "50",
+    "number2": "84",
+    "answer": "4200",
+    "reason": "Let's think step by step.\n1. Multiply 50 by 4 (the ones place digit of 84) = 200\n2. Multiply 50 by 80 (the tens place digit of 84) = 4000"
+  },
+  {
+    "id": "Product_Q219",
+    "number1": "48",
+    "number2": "41",
+    "answer": "1968",
+    "reason": "Let's think step by step.\n1. Multiply 48 by 1 (the ones place digit of 41) = 48\n2. Multiply 48 by 40 (the tens place digit of 41) = 1920"
+  },
+  {
+    "id": "Product_Q220",
+    "number1": "52",
+    "number2": "22",
+    "answer": "1144",
+    "reason": "Let's think step by step.\n1. Multiply 52 by 2 (the ones place digit of 22) = 104\n2. Multiply 52 by 20 (the tens place digit of 22) = 1040"
+  },
+  {
+    "id": "Product_Q221",
+    "number1": "79",
+    "number2": "88",
+    "answer": "6952",
+    "reason": "Let's think step by step.\n1. Multiply 79 by 8 (the ones place digit of 88) = 632\n2. Multiply 79 by 80 (the tens place digit of 88) = 6320"
+  },
+  {
+    "id": "Product_Q222",
+    "number1": "84",
+    "number2": "86",
+    "answer": "7224",
+    "reason": "Let's think step by step.\n1. Multiply 84 by 6 (the ones place digit of 86) = 504\n2. Multiply 84 by 80 (the tens place digit of 86) = 6720"
+  },
+  {
+    "id": "Product_Q223",
+    "number1": "21",
+    "number2": "41",
+    "answer": "861",
+    "reason": "Let's think step by step.\n1. Multiply 21 by 1 (the ones place digit of 41) = 21\n2. Multiply 21 by 40 (the tens place digit of 41) = 840"
+  },
+  {
+    "id": "Product_Q224",
+    "number1": "38",
+    "number2": "12",
+    "answer": "456",
+    "reason": "Let's think step by step.\n1. Multiply 38 by 2 (the ones place digit of 12) = 76\n2. Multiply 38 by 10 (the tens place digit of 12) = 380"
+  },
+  {
+    "id": "Product_Q225",
+    "number1": "41",
+    "number2": "61",
+    "answer": "2501",
+    "reason": "Let's think step by step.\n1. Multiply 41 by 1 (the ones place digit of 61) = 41\n2. Multiply 41 by 60 (the tens place digit of 61) = 2460"
+  },
+  {
+    "id": "Product_Q226",
+    "number1": "19",
+    "number2": "44",
+    "answer": "836",
+    "reason": "Let's think step by step.\n1. Multiply 19 by 4 (the ones place digit of 44) = 76\n2. Multiply 19 by 40 (the tens place digit of 44) = 760"
+  },
+  {
+    "id": "Product_Q227",
+    "number1": "80",
+    "number2": "19",
+    "answer": "1520",
+    "reason": "Let's think step by step.\n1. Multiply 80 by 9 (the ones place digit of 19) = 720\n2. Multiply 80 by 10 (the tens place digit of 19) = 800"
+  },
+  {
+    "id": "Product_Q228",
+    "number1": "19",
+    "number2": "12",
+    "answer": "228",
+    "reason": "Let's think step by step.\n1. Multiply 19 by 2 (the ones place digit of 12) = 38\n2. Multiply 19 by 10 (the tens place digit of 12) = 190"
+  },
+  {
+    "id": "Product_Q229",
+    "number1": "91",
+    "number2": "11",
+    "answer": "1001",
+    "reason": "Let's think step by step.\n1. Multiply 91 by 1 (the ones place digit of 11) = 91\n2. Multiply 91 by 10 (the tens place digit of 11) = 910"
+  },
+  {
+    "id": "Product_Q230",
+    "number1": "47",
+    "number2": "55",
+    "answer": "2585",
+    "reason": "Let's think step by step.\n1. Multiply 47 by 5 (the ones place digit of 55) = 235\n2. Multiply 47 by 50 (the tens place digit of 55) = 2350"
+  },
+  {
+    "id": "Product_Q231",
+    "number1": "73",
+    "number2": "70",
+    "answer": "5110",
+    "reason": "Let's think step by step.\n1. Multiply 73 by 0 (the ones place digit of 70) = 0\n2. Multiply 73 by 70 (the tens place digit of 70) = 5110"
+  },
+  {
+    "id": "Product_Q232",
+    "number1": "29",
+    "number2": "22",
+    "answer": "638",
+    "reason": "Let's think step by step.\n1. Multiply 29 by 2 (the ones place digit of 22) = 58\n2. Multiply 29 by 20 (the tens place digit of 22) = 580"
+  },
+  {
+    "id": "Product_Q233",
+    "number1": "74",
+    "number2": "51",
+    "answer": "3774",
+    "reason": "Let's think step by step.\n1. Multiply 74 by 1 (the ones place digit of 51) = 74\n2. Multiply 74 by 50 (the tens place digit of 51) = 3700"
+  },
+  {
+    "id": "Product_Q234",
+    "number1": "19",
+    "number2": "75",
+    "answer": "1425",
+    "reason": "Let's think step by step.\n1. Multiply 19 by 5 (the ones place digit of 75) = 95\n2. Multiply 19 by 70 (the tens place digit of 75) = 1330"
+  },
+  {
+    "id": "Product_Q235",
+    "number1": "95",
+    "number2": "32",
+    "answer": "3040",
+    "reason": "Let's think step by step.\n1. Multiply 95 by 2 (the ones place digit of 32) = 190\n2. Multiply 95 by 30 (the tens place digit of 32) = 2850"
+  },
+  {
+    "id": "Product_Q236",
+    "number1": "32",
+    "number2": "29",
+    "answer": "928",
+    "reason": "Let's think step by step.\n1. Multiply 32 by 9 (the ones place digit of 29) = 288\n2. Multiply 32 by 20 (the tens place digit of 29) = 640"
+  },
+  {
+    "id": "Product_Q237",
+    "number1": "28",
+    "number2": "50",
+    "answer": "1400",
+    "reason": "Let's think step by step.\n1. Multiply 28 by 0 (the ones place digit of 50) = 0\n2. Multiply 28 by 50 (the tens place digit of 50) = 1400"
+  },
+  {
+    "id": "Product_Q238",
+    "number1": "49",
+    "number2": "23",
+    "answer": "1127",
+    "reason": "Let's think step by step.\n1. Multiply 49 by 3 (the ones place digit of 23) = 147\n2. Multiply 49 by 20 (the tens place digit of 23) = 980"
+  },
+  {
+    "id": "Product_Q239",
+    "number1": "100",
+    "number2": "75",
+    "answer": "7500",
+    "reason": "Let's think step by step.\n1. Multiply 100 by 5 (the ones place digit of 75) = 500\n2. Multiply 100 by 70 (the tens place digit of 75) = 7000"
+  },
+  {
+    "id": "Product_Q240",
+    "number1": "87",
+    "number2": "47",
+    "answer": "4089",
+    "reason": "Let's think step by step.\n1. Multiply 87 by 7 (the ones place digit of 47) = 609\n2. Multiply 87 by 40 (the tens place digit of 47) = 3480"
+  },
+  {
+    "id": "Product_Q241",
+    "number1": "26",
+    "number2": "36",
+    "answer": "936",
+    "reason": "Let's think step by step.\n1. Multiply 26 by 6 (the ones place digit of 36) = 156\n2. Multiply 26 by 30 (the tens place digit of 36) = 780"
+  },
+  {
+    "id": "Product_Q242",
+    "number1": "28",
+    "number2": "79",
+    "answer": "2212",
+    "reason": "Let's think step by step.\n1. Multiply 28 by 9 (the ones place digit of 79) = 252\n2. Multiply 28 by 70 (the tens place digit of 79) = 1960"
+  },
+  {
+    "id": "Product_Q243",
+    "number1": "14",
+    "number2": "50",
+    "answer": "700",
+    "reason": "Let's think step by step.\n1. Multiply 14 by 0 (the ones place digit of 50) = 0\n2. Multiply 14 by 50 (the tens place digit of 50) = 700"
+  },
+  {
+    "id": "Product_Q244",
+    "number1": "89",
+    "number2": "96",
+    "answer": "8544",
+    "reason": "Let's think step by step.\n1. Multiply 89 by 6 (the ones place digit of 96) = 534\n2. Multiply 89 by 90 (the tens place digit of 96) = 8010"
+  },
+  {
+    "id": "Product_Q245",
+    "number1": "80",
+    "number2": "98",
+    "answer": "7840",
+    "reason": "Let's think step by step.\n1. Multiply 80 by 8 (the ones place digit of 98) = 640\n2. Multiply 80 by 90 (the tens place digit of 98) = 7200"
+  },
+  {
+    "id": "Product_Q246",
+    "number1": "36",
+    "number2": "32",
+    "answer": "1152",
+    "reason": "Let's think step by step.\n1. Multiply 36 by 2 (the ones place digit of 32) = 72\n2. Multiply 36 by 30 (the tens place digit of 32) = 1080"
+  },
+  {
+    "id": "Product_Q247",
+    "number1": "48",
+    "number2": "65",
+    "answer": "3120",
+    "reason": "Let's think step by step.\n1. Multiply 48 by 5 (the ones place digit of 65) = 240\n2. Multiply 48 by 60 (the tens place digit of 65) = 2880"
+  },
+  {
+    "id": "Product_Q248",
+    "number1": "78",
+    "number2": "30",
+    "answer": "2340",
+    "reason": "Let's think step by step.\n1. Multiply 78 by 0 (the ones place digit of 30) = 0\n2. Multiply 78 by 30 (the tens place digit of 30) = 2340"
+  },
+  {
+    "id": "Product_Q249",
+    "number1": "16",
+    "number2": "95",
+    "answer": "1520",
+    "reason": "Let's think step by step.\n1. Multiply 16 by 5 (the ones place digit of 95) = 80\n2. Multiply 16 by 90 (the tens place digit of 95) = 1440"
+  },
+  {
+    "id": "Product_Q250",
+    "number1": "41",
+    "number2": "42",
+    "answer": "1722",
+    "reason": "Let's think step by step.\n1. Multiply 41 by 2 (the ones place digit of 42) = 82\n2. Multiply 41 by 40 (the tens place digit of 42) = 1640"
+  },
+  {
+    "id": "Product_Q251",
+    "number1": "18",
+    "number2": "97",
+    "answer": "1746",
+    "reason": "Let's think step by step.\n1. Multiply 18 by 7 (the ones place digit of 97) = 126\n2. Multiply 18 by 90 (the tens place digit of 97) = 1620"
+  },
+  {
+    "id": "Product_Q252",
+    "number1": "67",
+    "number2": "65",
+    "answer": "4355",
+    "reason": "Let's think step by step.\n1. Multiply 67 by 5 (the ones place digit of 65) = 335\n2. Multiply 67 by 60 (the tens place digit of 65) = 4020"
+  },
+  {
+    "id": "Product_Q253",
+    "number1": "80",
+    "number2": "42",
+    "answer": "3360",
+    "reason": "Let's think step by step.\n1. Multiply 80 by 2 (the ones place digit of 42) = 160\n2. Multiply 80 by 40 (the tens place digit of 42) = 3200"
+  },
+  {
+    "id": "Product_Q254",
+    "number1": "79",
+    "number2": "66",
+    "answer": "5214",
+    "reason": "Let's think step by step.\n1. Multiply 79 by 6 (the ones place digit of 66) = 474\n2. Multiply 79 by 60 (the tens place digit of 66) = 4740"
+  },
+  {
+    "id": "Product_Q255",
+    "number1": "78",
+    "number2": "68",
+    "answer": "5304",
+    "reason": "Let's think step by step.\n1. Multiply 78 by 8 (the ones place digit of 68) = 624\n2. Multiply 78 by 60 (the tens place digit of 68) = 4680"
+  },
+  {
+    "id": "Product_Q256",
+    "number1": "11",
+    "number2": "60",
+    "answer": "660",
+    "reason": "Let's think step by step.\n1. Multiply 11 by 0 (the ones place digit of 60) = 0\n2. Multiply 11 by 60 (the tens place digit of 60) = 660"
+  },
+  {
+    "id": "Product_Q257",
+    "number1": "53",
+    "number2": "31",
+    "answer": "1643",
+    "reason": "Let's think step by step.\n1. Multiply 53 by 1 (the ones place digit of 31) = 53\n2. Multiply 53 by 30 (the tens place digit of 31) = 1590"
+  },
+  {
+    "id": "Product_Q258",
+    "number1": "43",
+    "number2": "72",
+    "answer": "3096",
+    "reason": "Let's think step by step.\n1. Multiply 43 by 2 (the ones place digit of 72) = 86\n2. Multiply 43 by 70 (the tens place digit of 72) = 3010"
+  },
+  {
+    "id": "Product_Q259",
+    "number1": "13",
+    "number2": "92",
+    "answer": "1196",
+    "reason": "Let's think step by step.\n1. Multiply 13 by 2 (the ones place digit of 92) = 26\n2. Multiply 13 by 90 (the tens place digit of 92) = 1170"
+  },
+  {
+    "id": "Product_Q260",
+    "number1": "63",
+    "number2": "83",
+    "answer": "5229",
+    "reason": "Let's think step by step.\n1. Multiply 63 by 3 (the ones place digit of 83) = 189\n2. Multiply 63 by 80 (the tens place digit of 83) = 5040"
+  },
+  {
+    "id": "Product_Q261",
+    "number1": "12",
+    "number2": "17",
+    "answer": "204",
+    "reason": "Let's think step by step.\n1. Multiply 12 by 7 (the ones place digit of 17) = 84\n2. Multiply 12 by 10 (the tens place digit of 17) = 120"
+  },
+  {
+    "id": "Product_Q262",
+    "number1": "98",
+    "number2": "55",
+    "answer": "5390",
+    "reason": "Let's think step by step.\n1. Multiply 98 by 5 (the ones place digit of 55) = 490\n2. Multiply 98 by 50 (the tens place digit of 55) = 4900"
+  },
+  {
+    "id": "Product_Q263",
+    "number1": "84",
+    "number2": "27",
+    "answer": "2268",
+    "reason": "Let's think step by step.\n1. Multiply 84 by 7 (the ones place digit of 27) = 588\n2. Multiply 84 by 20 (the tens place digit of 27) = 1680"
+  },
+  {
+    "id": "Product_Q264",
+    "number1": "85",
+    "number2": "26",
+    "answer": "2210",
+    "reason": "Let's think step by step.\n1. Multiply 85 by 6 (the ones place digit of 26) = 510\n2. Multiply 85 by 20 (the tens place digit of 26) = 1700"
+  },
+  {
+    "id": "Product_Q265",
+    "number1": "27",
+    "number2": "43",
+    "answer": "1161",
+    "reason": "Let's think step by step.\n1. Multiply 27 by 3 (the ones place digit of 43) = 81\n2. Multiply 27 by 40 (the tens place digit of 43) = 1080"
+  },
+  {
+    "id": "Product_Q266",
+    "number1": "45",
+    "number2": "60",
+    "answer": "2700",
+    "reason": "Let's think step by step.\n1. Multiply 45 by 0 (the ones place digit of 60) = 0\n2. Multiply 45 by 60 (the tens place digit of 60) = 2700"
+  },
+  {
+    "id": "Product_Q267",
+    "number1": "82",
+    "number2": "61",
+    "answer": "5002",
+    "reason": "Let's think step by step.\n1. Multiply 82 by 1 (the ones place digit of 61) = 82\n2. Multiply 82 by 60 (the tens place digit of 61) = 4920"
+  },
+  {
+    "id": "Product_Q268",
+    "number1": "32",
+    "number2": "88",
+    "answer": "2816",
+    "reason": "Let's think step by step.\n1. Multiply 32 by 8 (the ones place digit of 88) = 256\n2. Multiply 32 by 80 (the tens place digit of 88) = 2560"
+  },
+  {
+    "id": "Product_Q269",
+    "number1": "21",
+    "number2": "39",
+    "answer": "819",
+    "reason": "Let's think step by step.\n1. Multiply 21 by 9 (the ones place digit of 39) = 189\n2. Multiply 21 by 30 (the tens place digit of 39) = 630"
+  },
+  {
+    "id": "Product_Q270",
+    "number1": "72",
+    "number2": "10",
+    "answer": "720",
+    "reason": "Let's think step by step.\n1. Multiply 72 by 0 (the ones place digit of 10) = 0\n2. Multiply 72 by 10 (the tens place digit of 10) = 720"
+  },
+  {
+    "id": "Product_Q271",
+    "number1": "32",
+    "number2": "77",
+    "answer": "2464",
+    "reason": "Let's think step by step.\n1. Multiply 32 by 7 (the ones place digit of 77) = 224\n2. Multiply 32 by 70 (the tens place digit of 77) = 2240"
+  },
+  {
+    "id": "Product_Q272",
+    "number1": "50",
+    "number2": "74",
+    "answer": "3700",
+    "reason": "Let's think step by step.\n1. Multiply 50 by 4 (the ones place digit of 74) = 200\n2. Multiply 50 by 70 (the tens place digit of 74) = 3500"
+  },
+  {
+    "id": "Product_Q273",
+    "number1": "93",
+    "number2": "66",
+    "answer": "6138",
+    "reason": "Let's think step by step.\n1. Multiply 93 by 6 (the ones place digit of 66) = 558\n2. Multiply 93 by 60 (the tens place digit of 66) = 5580"
+  },
+  {
+    "id": "Product_Q274",
+    "number1": "97",
+    "number2": "91",
+    "answer": "8827",
+    "reason": "Let's think step by step.\n1. Multiply 97 by 1 (the ones place digit of 91) = 97\n2. Multiply 97 by 90 (the tens place digit of 91) = 8730"
+  },
+  {
+    "id": "Product_Q275",
+    "number1": "38",
+    "number2": "40",
+    "answer": "1520",
+    "reason": "Let's think step by step.\n1. Multiply 38 by 0 (the ones place digit of 40) = 0\n2. Multiply 38 by 40 (the tens place digit of 40) = 1520"
+  },
+  {
+    "id": "Product_Q276",
+    "number1": "50",
+    "number2": "73",
+    "answer": "3650",
+    "reason": "Let's think step by step.\n1. Multiply 50 by 3 (the ones place digit of 73) = 150\n2. Multiply 50 by 70 (the tens place digit of 73) = 3500"
+  },
+  {
+    "id": "Product_Q277",
+    "number1": "97",
+    "number2": "71",
+    "answer": "6887",
+    "reason": "Let's think step by step.\n1. Multiply 97 by 1 (the ones place digit of 71) = 97\n2. Multiply 97 by 70 (the tens place digit of 71) = 6790"
+  },
+  {
+    "id": "Product_Q278",
+    "number1": "38",
+    "number2": "62",
+    "answer": "2356",
+    "reason": "Let's think step by step.\n1. Multiply 38 by 2 (the ones place digit of 62) = 76\n2. Multiply 38 by 60 (the tens place digit of 62) = 2280"
+  },
+  {
+    "id": "Product_Q279",
+    "number1": "53",
+    "number2": "81",
+    "answer": "4293",
+    "reason": "Let's think step by step.\n1. Multiply 53 by 1 (the ones place digit of 81) = 53\n2. Multiply 53 by 80 (the tens place digit of 81) = 4240"
+  },
+  {
+    "id": "Product_Q280",
+    "number1": "88",
+    "number2": "93",
+    "answer": "8184",
+    "reason": "Let's think step by step.\n1. Multiply 88 by 3 (the ones place digit of 93) = 264\n2. Multiply 88 by 90 (the tens place digit of 93) = 7920"
+  },
+  {
+    "id": "Product_Q281",
+    "number1": "45",
+    "number2": "92",
+    "answer": "4140",
+    "reason": "Let's think step by step.\n1. Multiply 45 by 2 (the ones place digit of 92) = 90\n2. Multiply 45 by 90 (the tens place digit of 92) = 4050"
+  },
+  {
+    "id": "Product_Q282",
+    "number1": "38",
+    "number2": "16",
+    "answer": "608",
+    "reason": "Let's think step by step.\n1. Multiply 38 by 6 (the ones place digit of 16) = 228\n2. Multiply 38 by 10 (the tens place digit of 16) = 380"
+  },
+  {
+    "id": "Product_Q283",
+    "number1": "19",
+    "number2": "75",
+    "answer": "1425",
+    "reason": "Let's think step by step.\n1. Multiply 19 by 5 (the ones place digit of 75) = 95\n2. Multiply 19 by 70 (the tens place digit of 75) = 1330"
+  },
+  {
+    "id": "Product_Q284",
+    "number1": "92",
+    "number2": "57",
+    "answer": "5244",
+    "reason": "Let's think step by step.\n1. Multiply 92 by 7 (the ones place digit of 57) = 644\n2. Multiply 92 by 50 (the tens place digit of 57) = 4600"
+  },
+  {
+    "id": "Product_Q285",
+    "number1": "30",
+    "number2": "75",
+    "answer": "2250",
+    "reason": "Let's think step by step.\n1. Multiply 30 by 5 (the ones place digit of 75) = 150\n2. Multiply 30 by 70 (the tens place digit of 75) = 2100"
+  },
+  {
+    "id": "Product_Q286",
+    "number1": "36",
+    "number2": "49",
+    "answer": "1764",
+    "reason": "Let's think step by step.\n1. Multiply 36 by 9 (the ones place digit of 49) = 324\n2. Multiply 36 by 40 (the tens place digit of 49) = 1440"
+  },
+  {
+    "id": "Product_Q287",
+    "number1": "48",
+    "number2": "98",
+    "answer": "4704",
+    "reason": "Let's think step by step.\n1. Multiply 48 by 8 (the ones place digit of 98) = 384\n2. Multiply 48 by 90 (the tens place digit of 98) = 4320"
+  },
+  {
+    "id": "Product_Q288",
+    "number1": "48",
+    "number2": "80",
+    "answer": "3840",
+    "reason": "Let's think step by step.\n1. Multiply 48 by 0 (the ones place digit of 80) = 0\n2. Multiply 48 by 80 (the tens place digit of 80) = 3840"
+  },
+  {
+    "id": "Product_Q289",
+    "number1": "57",
+    "number2": "31",
+    "answer": "1767",
+    "reason": "Let's think step by step.\n1. Multiply 57 by 1 (the ones place digit of 31) = 57\n2. Multiply 57 by 30 (the tens place digit of 31) = 1710"
+  },
+  {
+    "id": "Product_Q290",
+    "number1": "99",
+    "number2": "99",
+    "answer": "9801",
+    "reason": "Let's think step by step.\n1. Multiply 99 by 9 (the ones place digit of 99) = 891\n2. Multiply 99 by 90 (the tens place digit of 99) = 8910"
+  },
+  {
+    "id": "Product_Q291",
+    "number1": "69",
+    "number2": "86",
+    "answer": "5934",
+    "reason": "Let's think step by step.\n1. Multiply 69 by 6 (the ones place digit of 86) = 414\n2. Multiply 69 by 80 (the tens place digit of 86) = 5520"
+  },
+  {
+    "id": "Product_Q292",
+    "number1": "20",
+    "number2": "25",
+    "answer": "500",
+    "reason": "Let's think step by step.\n1. Multiply 20 by 5 (the ones place digit of 25) = 100\n2. Multiply 20 by 20 (the tens place digit of 25) = 400"
+  },
+  {
+    "id": "Product_Q293",
+    "number1": "87",
+    "number2": "75",
+    "answer": "6525",
+    "reason": "Let's think step by step.\n1. Multiply 87 by 5 (the ones place digit of 75) = 435\n2. Multiply 87 by 70 (the tens place digit of 75) = 6090"
+  },
+  {
+    "id": "Product_Q294",
+    "number1": "83",
+    "number2": "58",
+    "answer": "4814",
+    "reason": "Let's think step by step.\n1. Multiply 83 by 8 (the ones place digit of 58) = 664\n2. Multiply 83 by 50 (the tens place digit of 58) = 4150"
+  },
+  {
+    "id": "Product_Q295",
+    "number1": "32",
+    "number2": "29",
+    "answer": "928",
+    "reason": "Let's think step by step.\n1. Multiply 32 by 9 (the ones place digit of 29) = 288\n2. Multiply 32 by 20 (the tens place digit of 29) = 640"
+  },
+  {
+    "id": "Product_Q296",
+    "number1": "42",
+    "number2": "64",
+    "answer": "2688",
+    "reason": "Let's think step by step.\n1. Multiply 42 by 4 (the ones place digit of 64) = 168\n2. Multiply 42 by 60 (the tens place digit of 64) = 2520"
+  },
+  {
+    "id": "Product_Q297",
+    "number1": "37",
+    "number2": "82",
+    "answer": "3034",
+    "reason": "Let's think step by step.\n1. Multiply 37 by 2 (the ones place digit of 82) = 74\n2. Multiply 37 by 80 (the tens place digit of 82) = 2960"
+  },
+  {
+    "id": "Product_Q298",
+    "number1": "16",
+    "number2": "73",
+    "answer": "1168",
+    "reason": "Let's think step by step.\n1. Multiply 16 by 3 (the ones place digit of 73) = 48\n2. Multiply 16 by 70 (the tens place digit of 73) = 1120"
+  },
+  {
+    "id": "Product_Q299",
+    "number1": "97",
+    "number2": "60",
+    "answer": "5820",
+    "reason": "Let's think step by step.\n1. Multiply 97 by 0 (the ones place digit of 60) = 0\n2. Multiply 97 by 60 (the tens place digit of 60) = 5820"
+  },
+  {
+    "id": "Product_Q300",
+    "number1": "91",
+    "number2": "54",
+    "answer": "4914",
+    "reason": "Let's think step by step.\n1. Multiply 91 by 4 (the ones place digit of 54) = 364\n2. Multiply 91 by 50 (the tens place digit of 54) = 4550"
+  },
+  {
+    "id": "Product_Q301",
+    "number1": "59",
+    "number2": "75",
+    "answer": "4425",
+    "reason": "Let's think step by step.\n1. Multiply 59 by 5 (the ones place digit of 75) = 295\n2. Multiply 59 by 70 (the tens place digit of 75) = 4130"
+  },
+  {
+    "id": "Product_Q302",
+    "number1": "31",
+    "number2": "79",
+    "answer": "2449",
+    "reason": "Let's think step by step.\n1. Multiply 31 by 9 (the ones place digit of 79) = 279\n2. Multiply 31 by 70 (the tens place digit of 79) = 2170"
+  },
+  {
+    "id": "Product_Q303",
+    "number1": "15",
+    "number2": "77",
+    "answer": "1155",
+    "reason": "Let's think step by step.\n1. Multiply 15 by 7 (the ones place digit of 77) = 105\n2. Multiply 15 by 70 (the tens place digit of 77) = 1050"
+  },
+  {
+    "id": "Product_Q304",
+    "number1": "21",
+    "number2": "42",
+    "answer": "882",
+    "reason": "Let's think step by step.\n1. Multiply 21 by 2 (the ones place digit of 42) = 42\n2. Multiply 21 by 40 (the tens place digit of 42) = 840"
+  },
+  {
+    "id": "Product_Q305",
+    "number1": "90",
+    "number2": "22",
+    "answer": "1980",
+    "reason": "Let's think step by step.\n1. Multiply 90 by 2 (the ones place digit of 22) = 180\n2. Multiply 90 by 20 (the tens place digit of 22) = 1800"
+  },
+  {
+    "id": "Product_Q306",
+    "number1": "44",
+    "number2": "20",
+    "answer": "880",
+    "reason": "Let's think step by step.\n1. Multiply 44 by 0 (the ones place digit of 20) = 0\n2. Multiply 44 by 20 (the tens place digit of 20) = 880"
+  },
+  {
+    "id": "Product_Q307",
+    "number1": "27",
+    "number2": "88",
+    "answer": "2376",
+    "reason": "Let's think step by step.\n1. Multiply 27 by 8 (the ones place digit of 88) = 216\n2. Multiply 27 by 80 (the tens place digit of 88) = 2160"
+  },
+  {
+    "id": "Product_Q308",
+    "number1": "94",
+    "number2": "97",
+    "answer": "9118",
+    "reason": "Let's think step by step.\n1. Multiply 94 by 7 (the ones place digit of 97) = 658\n2. Multiply 94 by 90 (the tens place digit of 97) = 8460"
+  },
+  {
+    "id": "Product_Q309",
+    "number1": "99",
+    "number2": "20",
+    "answer": "1980",
+    "reason": "Let's think step by step.\n1. Multiply 99 by 0 (the ones place digit of 20) = 0\n2. Multiply 99 by 20 (the tens place digit of 20) = 1980"
+  },
+  {
+    "id": "Product_Q310",
+    "number1": "66",
+    "number2": "40",
+    "answer": "2640",
+    "reason": "Let's think step by step.\n1. Multiply 66 by 0 (the ones place digit of 40) = 0\n2. Multiply 66 by 40 (the tens place digit of 40) = 2640"
+  },
+  {
+    "id": "Product_Q311",
+    "number1": "58",
+    "number2": "65",
+    "answer": "3770",
+    "reason": "Let's think step by step.\n1. Multiply 58 by 5 (the ones place digit of 65) = 290\n2. Multiply 58 by 60 (the tens place digit of 65) = 3480"
+  },
+  {
+    "id": "Product_Q312",
+    "number1": "60",
+    "number2": "31",
+    "answer": "1860",
+    "reason": "Let's think step by step.\n1. Multiply 60 by 1 (the ones place digit of 31) = 60\n2. Multiply 60 by 30 (the tens place digit of 31) = 1800"
+  },
+  {
+    "id": "Product_Q313",
+    "number1": "51",
+    "number2": "66",
+    "answer": "3366",
+    "reason": "Let's think step by step.\n1. Multiply 51 by 6 (the ones place digit of 66) = 306\n2. Multiply 51 by 60 (the tens place digit of 66) = 3060"
+  },
+  {
+    "id": "Product_Q314",
+    "number1": "26",
+    "number2": "89",
+    "answer": "2314",
+    "reason": "Let's think step by step.\n1. Multiply 26 by 9 (the ones place digit of 89) = 234\n2. Multiply 26 by 80 (the tens place digit of 89) = 2080"
+  },
+  {
+    "id": "Product_Q315",
+    "number1": "72",
+    "number2": "37",
+    "answer": "2664",
+    "reason": "Let's think step by step.\n1. Multiply 72 by 7 (the ones place digit of 37) = 504\n2. Multiply 72 by 30 (the tens place digit of 37) = 2160"
+  },
+  {
+    "id": "Product_Q316",
+    "number1": "25",
+    "number2": "65",
+    "answer": "1625",
+    "reason": "Let's think step by step.\n1. Multiply 25 by 5 (the ones place digit of 65) = 125\n2. Multiply 25 by 60 (the tens place digit of 65) = 1500"
+  },
+  {
+    "id": "Product_Q317",
+    "number1": "86",
+    "number2": "78",
+    "answer": "6708",
+    "reason": "Let's think step by step.\n1. Multiply 86 by 8 (the ones place digit of 78) = 688\n2. Multiply 86 by 70 (the tens place digit of 78) = 6020"
+  },
+  {
+    "id": "Product_Q318",
+    "number1": "62",
+    "number2": "25",
+    "answer": "1550",
+    "reason": "Let's think step by step.\n1. Multiply 62 by 5 (the ones place digit of 25) = 310\n2. Multiply 62 by 20 (the tens place digit of 25) = 1240"
+  },
+  {
+    "id": "Product_Q319",
+    "number1": "94",
+    "number2": "47",
+    "answer": "4418",
+    "reason": "Let's think step by step.\n1. Multiply 94 by 7 (the ones place digit of 47) = 658\n2. Multiply 94 by 40 (the tens place digit of 47) = 3760"
+  },
+  {
+    "id": "Product_Q320",
+    "number1": "45",
+    "number2": "41",
+    "answer": "1845",
+    "reason": "Let's think step by step.\n1. Multiply 45 by 1 (the ones place digit of 41) = 45\n2. Multiply 45 by 40 (the tens place digit of 41) = 1800"
+  },
+  {
+    "id": "Product_Q321",
+    "number1": "58",
+    "number2": "81",
+    "answer": "4698",
+    "reason": "Let's think step by step.\n1. Multiply 58 by 1 (the ones place digit of 81) = 58\n2. Multiply 58 by 80 (the tens place digit of 81) = 4640"
+  },
+  {
+    "id": "Product_Q322",
+    "number1": "10",
+    "number2": "34",
+    "answer": "340",
+    "reason": "Let's think step by step.\n1. Multiply 10 by 4 (the ones place digit of 34) = 40\n2. Multiply 10 by 30 (the tens place digit of 34) = 300"
+  },
+  {
+    "id": "Product_Q323",
+    "number1": "77",
+    "number2": "66",
+    "answer": "5082",
+    "reason": "Let's think step by step.\n1. Multiply 77 by 6 (the ones place digit of 66) = 462\n2. Multiply 77 by 60 (the tens place digit of 66) = 4620"
+  },
+  {
+    "id": "Product_Q324",
+    "number1": "84",
+    "number2": "12",
+    "answer": "1008",
+    "reason": "Let's think step by step.\n1. Multiply 84 by 2 (the ones place digit of 12) = 168\n2. Multiply 84 by 10 (the tens place digit of 12) = 840"
+  },
+  {
+    "id": "Product_Q325",
+    "number1": "13",
+    "number2": "90",
+    "answer": "1170",
+    "reason": "Let's think step by step.\n1. Multiply 13 by 0 (the ones place digit of 90) = 0\n2. Multiply 13 by 90 (the tens place digit of 90) = 1170"
+  },
+  {
+    "id": "Product_Q326",
+    "number1": "87",
+    "number2": "41",
+    "answer": "3567",
+    "reason": "Let's think step by step.\n1. Multiply 87 by 1 (the ones place digit of 41) = 87\n2. Multiply 87 by 40 (the tens place digit of 41) = 3480"
+  },
+  {
+    "id": "Product_Q327",
+    "number1": "43",
+    "number2": "36",
+    "answer": "1548",
+    "reason": "Let's think step by step.\n1. Multiply 43 by 6 (the ones place digit of 36) = 258\n2. Multiply 43 by 30 (the tens place digit of 36) = 1290"
+  },
+  {
+    "id": "Product_Q328",
+    "number1": "32",
+    "number2": "46",
+    "answer": "1472",
+    "reason": "Let's think step by step.\n1. Multiply 32 by 6 (the ones place digit of 46) = 192\n2. Multiply 32 by 40 (the tens place digit of 46) = 1280"
+  },
+  {
+    "id": "Product_Q329",
+    "number1": "28",
+    "number2": "79",
+    "answer": "2212",
+    "reason": "Let's think step by step.\n1. Multiply 28 by 9 (the ones place digit of 79) = 252\n2. Multiply 28 by 70 (the tens place digit of 79) = 1960"
+  },
+  {
+    "id": "Product_Q330",
+    "number1": "35",
+    "number2": "44",
+    "answer": "1540",
+    "reason": "Let's think step by step.\n1. Multiply 35 by 4 (the ones place digit of 44) = 140\n2. Multiply 35 by 40 (the tens place digit of 44) = 1400"
+  },
+  {
+    "id": "Product_Q331",
+    "number1": "49",
+    "number2": "84",
+    "answer": "4116",
+    "reason": "Let's think step by step.\n1. Multiply 49 by 4 (the ones place digit of 84) = 196\n2. Multiply 49 by 80 (the tens place digit of 84) = 3920"
+  },
+  {
+    "id": "Product_Q332",
+    "number1": "42",
+    "number2": "97",
+    "answer": "4074",
+    "reason": "Let's think step by step.\n1. Multiply 42 by 7 (the ones place digit of 97) = 294\n2. Multiply 42 by 90 (the tens place digit of 97) = 3780"
+  },
+  {
+    "id": "Product_Q333",
+    "number1": "67",
+    "number2": "31",
+    "answer": "2077",
+    "reason": "Let's think step by step.\n1. Multiply 67 by 1 (the ones place digit of 31) = 67\n2. Multiply 67 by 30 (the tens place digit of 31) = 2010"
+  },
+  {
+    "id": "Product_Q334",
+    "number1": "79",
+    "number2": "55",
+    "answer": "4345",
+    "reason": "Let's think step by step.\n1. Multiply 79 by 5 (the ones place digit of 55) = 395\n2. Multiply 79 by 50 (the tens place digit of 55) = 3950"
+  },
+  {
+    "id": "Product_Q335",
+    "number1": "72",
+    "number2": "63",
+    "answer": "4536",
+    "reason": "Let's think step by step.\n1. Multiply 72 by 3 (the ones place digit of 63) = 216\n2. Multiply 72 by 60 (the tens place digit of 63) = 4320"
+  },
+  {
+    "id": "Product_Q336",
+    "number1": "25",
+    "number2": "36",
+    "answer": "900",
+    "reason": "Let's think step by step.\n1. Multiply 25 by 6 (the ones place digit of 36) = 150\n2. Multiply 25 by 30 (the tens place digit of 36) = 750"
+  },
+  {
+    "id": "Product_Q337",
+    "number1": "83",
+    "number2": "59",
+    "answer": "4897",
+    "reason": "Let's think step by step.\n1. Multiply 83 by 9 (the ones place digit of 59) = 747\n2. Multiply 83 by 50 (the tens place digit of 59) = 4150"
+  },
+  {
+    "id": "Product_Q338",
+    "number1": "36",
+    "number2": "46",
+    "answer": "1656",
+    "reason": "Let's think step by step.\n1. Multiply 36 by 6 (the ones place digit of 46) = 216\n2. Multiply 36 by 40 (the tens place digit of 46) = 1440"
+  },
+  {
+    "id": "Product_Q339",
+    "number1": "23",
+    "number2": "13",
+    "answer": "299",
+    "reason": "Let's think step by step.\n1. Multiply 23 by 3 (the ones place digit of 13) = 69\n2. Multiply 23 by 10 (the tens place digit of 13) = 230"
+  },
+  {
+    "id": "Product_Q340",
+    "number1": "25",
+    "number2": "82",
+    "answer": "2050",
+    "reason": "Let's think step by step.\n1. Multiply 25 by 2 (the ones place digit of 82) = 50\n2. Multiply 25 by 80 (the tens place digit of 82) = 2000"
+  },
+  {
+    "id": "Product_Q341",
+    "number1": "11",
+    "number2": "79",
+    "answer": "869",
+    "reason": "Let's think step by step.\n1. Multiply 11 by 9 (the ones place digit of 79) = 99\n2. Multiply 11 by 70 (the tens place digit of 79) = 770"
+  },
+  {
+    "id": "Product_Q342",
+    "number1": "47",
+    "number2": "96",
+    "answer": "4512",
+    "reason": "Let's think step by step.\n1. Multiply 47 by 6 (the ones place digit of 96) = 282\n2. Multiply 47 by 90 (the tens place digit of 96) = 4230"
+  },
+  {
+    "id": "Product_Q343",
+    "number1": "93",
+    "number2": "27",
+    "answer": "2511",
+    "reason": "Let's think step by step.\n1. Multiply 93 by 7 (the ones place digit of 27) = 651\n2. Multiply 93 by 20 (the tens place digit of 27) = 1860"
+  },
+  {
+    "id": "Product_Q344",
+    "number1": "19",
+    "number2": "74",
+    "answer": "1406",
+    "reason": "Let's think step by step.\n1. Multiply 19 by 4 (the ones place digit of 74) = 76\n2. Multiply 19 by 70 (the tens place digit of 74) = 1330"
+  },
+  {
+    "id": "Product_Q345",
+    "number1": "57",
+    "number2": "83",
+    "answer": "4731",
+    "reason": "Let's think step by step.\n1. Multiply 57 by 3 (the ones place digit of 83) = 171\n2. Multiply 57 by 80 (the tens place digit of 83) = 4560"
+  },
+  {
+    "id": "Product_Q346",
+    "number1": "49",
+    "number2": "65",
+    "answer": "3185",
+    "reason": "Let's think step by step.\n1. Multiply 49 by 5 (the ones place digit of 65) = 245\n2. Multiply 49 by 60 (the tens place digit of 65) = 2940"
+  },
+  {
+    "id": "Product_Q347",
+    "number1": "74",
+    "number2": "96",
+    "answer": "7104",
+    "reason": "Let's think step by step.\n1. Multiply 74 by 6 (the ones place digit of 96) = 444\n2. Multiply 74 by 90 (the tens place digit of 96) = 6660"
+  },
+  {
+    "id": "Product_Q348",
+    "number1": "55",
+    "number2": "77",
+    "answer": "4235",
+    "reason": "Let's think step by step.\n1. Multiply 55 by 7 (the ones place digit of 77) = 385\n2. Multiply 55 by 70 (the tens place digit of 77) = 3850"
+  },
+  {
+    "id": "Product_Q349",
+    "number1": "51",
+    "number2": "10",
+    "answer": "510",
+    "reason": "Let's think step by step.\n1. Multiply 51 by 0 (the ones place digit of 10) = 0\n2. Multiply 51 by 10 (the tens place digit of 10) = 510"
+  },
+  {
+    "id": "Product_Q350",
+    "number1": "25",
+    "number2": "66",
+    "answer": "1650",
+    "reason": "Let's think step by step.\n1. Multiply 25 by 6 (the ones place digit of 66) = 150\n2. Multiply 25 by 60 (the tens place digit of 66) = 1500"
+  },
+  {
+    "id": "Product_Q351",
+    "number1": "67",
+    "number2": "54",
+    "answer": "3618",
+    "reason": "Let's think step by step.\n1. Multiply 67 by 4 (the ones place digit of 54) = 268\n2. Multiply 67 by 50 (the tens place digit of 54) = 3350"
+  },
+  {
+    "id": "Product_Q352",
+    "number1": "49",
+    "number2": "79",
+    "answer": "3871",
+    "reason": "Let's think step by step.\n1. Multiply 49 by 9 (the ones place digit of 79) = 441\n2. Multiply 49 by 70 (the tens place digit of 79) = 3430"
+  },
+  {
+    "id": "Product_Q353",
+    "number1": "61",
+    "number2": "53",
+    "answer": "3233",
+    "reason": "Let's think step by step.\n1. Multiply 61 by 3 (the ones place digit of 53) = 183\n2. Multiply 61 by 50 (the tens place digit of 53) = 3050"
+  },
+  {
+    "id": "Product_Q354",
+    "number1": "97",
+    "number2": "83",
+    "answer": "8051",
+    "reason": "Let's think step by step.\n1. Multiply 97 by 3 (the ones place digit of 83) = 291\n2. Multiply 97 by 80 (the tens place digit of 83) = 7760"
+  },
+  {
+    "id": "Product_Q355",
+    "number1": "73",
+    "number2": "24",
+    "answer": "1752",
+    "reason": "Let's think step by step.\n1. Multiply 73 by 4 (the ones place digit of 24) = 292\n2. Multiply 73 by 20 (the tens place digit of 24) = 1460"
+  },
+  {
+    "id": "Product_Q356",
+    "number1": "92",
+    "number2": "58",
+    "answer": "5336",
+    "reason": "Let's think step by step.\n1. Multiply 92 by 8 (the ones place digit of 58) = 736\n2. Multiply 92 by 50 (the tens place digit of 58) = 4600"
+  },
+  {
+    "id": "Product_Q357",
+    "number1": "58",
+    "number2": "36",
+    "answer": "2088",
+    "reason": "Let's think step by step.\n1. Multiply 58 by 6 (the ones place digit of 36) = 348\n2. Multiply 58 by 30 (the tens place digit of 36) = 1740"
+  },
+  {
+    "id": "Product_Q358",
+    "number1": "81",
+    "number2": "10",
+    "answer": "810",
+    "reason": "Let's think step by step.\n1. Multiply 81 by 0 (the ones place digit of 10) = 0\n2. Multiply 81 by 10 (the tens place digit of 10) = 810"
+  },
+  {
+    "id": "Product_Q359",
+    "number1": "45",
+    "number2": "91",
+    "answer": "4095",
+    "reason": "Let's think step by step.\n1. Multiply 45 by 1 (the ones place digit of 91) = 45\n2. Multiply 45 by 90 (the tens place digit of 91) = 4050"
+  },
+  {
+    "id": "Product_Q360",
+    "number1": "86",
+    "number2": "75",
+    "answer": "6450",
+    "reason": "Let's think step by step.\n1. Multiply 86 by 5 (the ones place digit of 75) = 430\n2. Multiply 86 by 70 (the tens place digit of 75) = 6020"
+  },
+  {
+    "id": "Product_Q361",
+    "number1": "35",
+    "number2": "69",
+    "answer": "2415",
+    "reason": "Let's think step by step.\n1. Multiply 35 by 9 (the ones place digit of 69) = 315\n2. Multiply 35 by 60 (the tens place digit of 69) = 2100"
+  },
+  {
+    "id": "Product_Q362",
+    "number1": "86",
+    "number2": "76",
+    "answer": "6536",
+    "reason": "Let's think step by step.\n1. Multiply 86 by 6 (the ones place digit of 76) = 516\n2. Multiply 86 by 70 (the tens place digit of 76) = 6020"
+  },
+  {
+    "id": "Product_Q363",
+    "number1": "62",
+    "number2": "49",
+    "answer": "3038",
+    "reason": "Let's think step by step.\n1. Multiply 62 by 9 (the ones place digit of 49) = 558\n2. Multiply 62 by 40 (the tens place digit of 49) = 2480"
+  },
+  {
+    "id": "Product_Q364",
+    "number1": "99",
+    "number2": "31",
+    "answer": "3069",
+    "reason": "Let's think step by step.\n1. Multiply 99 by 1 (the ones place digit of 31) = 99\n2. Multiply 99 by 30 (the tens place digit of 31) = 2970"
+  },
+  {
+    "id": "Product_Q365",
+    "number1": "67",
+    "number2": "89",
+    "answer": "5963",
+    "reason": "Let's think step by step.\n1. Multiply 67 by 9 (the ones place digit of 89) = 603\n2. Multiply 67 by 80 (the tens place digit of 89) = 5360"
+  },
+  {
+    "id": "Product_Q366",
+    "number1": "95",
+    "number2": "77",
+    "answer": "7315",
+    "reason": "Let's think step by step.\n1. Multiply 95 by 7 (the ones place digit of 77) = 665\n2. Multiply 95 by 70 (the tens place digit of 77) = 6650"
+  },
+  {
+    "id": "Product_Q367",
+    "number1": "35",
+    "number2": "56",
+    "answer": "1960",
+    "reason": "Let's think step by step.\n1. Multiply 35 by 6 (the ones place digit of 56) = 210\n2. Multiply 35 by 50 (the tens place digit of 56) = 1750"
+  },
+  {
+    "id": "Product_Q368",
+    "number1": "77",
+    "number2": "10",
+    "answer": "770",
+    "reason": "Let's think step by step.\n1. Multiply 77 by 0 (the ones place digit of 10) = 0\n2. Multiply 77 by 10 (the tens place digit of 10) = 770"
+  },
+  {
+    "id": "Product_Q369",
+    "number1": "96",
+    "number2": "59",
+    "answer": "5664",
+    "reason": "Let's think step by step.\n1. Multiply 96 by 9 (the ones place digit of 59) = 864\n2. Multiply 96 by 50 (the tens place digit of 59) = 4800"
+  },
+  {
+    "id": "Product_Q370",
+    "number1": "84",
+    "number2": "64",
+    "answer": "5376",
+    "reason": "Let's think step by step.\n1. Multiply 84 by 4 (the ones place digit of 64) = 336\n2. Multiply 84 by 60 (the tens place digit of 64) = 5040"
+  },
+  {
+    "id": "Product_Q371",
+    "number1": "61",
+    "number2": "53",
+    "answer": "3233",
+    "reason": "Let's think step by step.\n1. Multiply 61 by 3 (the ones place digit of 53) = 183\n2. Multiply 61 by 50 (the tens place digit of 53) = 3050"
+  },
+  {
+    "id": "Product_Q372",
+    "number1": "89",
+    "number2": "84",
+    "answer": "7476",
+    "reason": "Let's think step by step.\n1. Multiply 89 by 4 (the ones place digit of 84) = 356\n2. Multiply 89 by 80 (the tens place digit of 84) = 7120"
+  },
+  {
+    "id": "Product_Q373",
+    "number1": "99",
+    "number2": "18",
+    "answer": "1782",
+    "reason": "Let's think step by step.\n1. Multiply 99 by 8 (the ones place digit of 18) = 792\n2. Multiply 99 by 10 (the tens place digit of 18) = 990"
+  },
+  {
+    "id": "Product_Q374",
+    "number1": "73",
+    "number2": "41",
+    "answer": "2993",
+    "reason": "Let's think step by step.\n1. Multiply 73 by 1 (the ones place digit of 41) = 73\n2. Multiply 73 by 40 (the tens place digit of 41) = 2920"
+  },
+  {
+    "id": "Product_Q375",
+    "number1": "91",
+    "number2": "93",
+    "answer": "8463",
+    "reason": "Let's think step by step.\n1. Multiply 91 by 3 (the ones place digit of 93) = 273\n2. Multiply 91 by 90 (the tens place digit of 93) = 8190"
+  },
+  {
+    "id": "Product_Q376",
+    "number1": "47",
+    "number2": "90",
+    "answer": "4230",
+    "reason": "Let's think step by step.\n1. Multiply 47 by 0 (the ones place digit of 90) = 0\n2. Multiply 47 by 90 (the tens place digit of 90) = 4230"
+  },
+  {
+    "id": "Product_Q377",
+    "number1": "12",
+    "number2": "62",
+    "answer": "744",
+    "reason": "Let's think step by step.\n1. Multiply 12 by 2 (the ones place digit of 62) = 24\n2. Multiply 12 by 60 (the tens place digit of 62) = 720"
+  },
+  {
+    "id": "Product_Q378",
+    "number1": "90",
+    "number2": "29",
+    "answer": "2610",
+    "reason": "Let's think step by step.\n1. Multiply 90 by 9 (the ones place digit of 29) = 810\n2. Multiply 90 by 20 (the tens place digit of 29) = 1800"
+  },
+  {
+    "id": "Product_Q379",
+    "number1": "91",
+    "number2": "60",
+    "answer": "5460",
+    "reason": "Let's think step by step.\n1. Multiply 91 by 0 (the ones place digit of 60) = 0\n2. Multiply 91 by 60 (the tens place digit of 60) = 5460"
+  },
+  {
+    "id": "Product_Q380",
+    "number1": "44",
+    "number2": "32",
+    "answer": "1408",
+    "reason": "Let's think step by step.\n1. Multiply 44 by 2 (the ones place digit of 32) = 88\n2. Multiply 44 by 30 (the tens place digit of 32) = 1320"
+  },
+  {
+    "id": "Product_Q381",
+    "number1": "19",
+    "number2": "87",
+    "answer": "1653",
+    "reason": "Let's think step by step.\n1. Multiply 19 by 7 (the ones place digit of 87) = 133\n2. Multiply 19 by 80 (the tens place digit of 87) = 1520"
+  },
+  {
+    "id": "Product_Q382",
+    "number1": "11",
+    "number2": "54",
+    "answer": "594",
+    "reason": "Let's think step by step.\n1. Multiply 11 by 4 (the ones place digit of 54) = 44\n2. Multiply 11 by 50 (the tens place digit of 54) = 550"
+  },
+  {
+    "id": "Product_Q383",
+    "number1": "43",
+    "number2": "100",
+    "answer": "4300",
+    "reason": "Let's think step by step.\n1. Multiply 43 by 0 (the ones place digit of 100) = 0\n2. Multiply 43 by 0 (the tens place digit of 100) = 0\n3. Multiply 43 by 100 (the hundreds place digit of 100) = 4300"
+  },
+  {
+    "id": "Product_Q384",
+    "number1": "62",
+    "number2": "97",
+    "answer": "6014",
+    "reason": "Let's think step by step.\n1. Multiply 62 by 7 (the ones place digit of 97) = 434\n2. Multiply 62 by 90 (the tens place digit of 97) = 5580"
+  },
+  {
+    "id": "Product_Q385",
+    "number1": "79",
+    "number2": "48",
+    "answer": "3792",
+    "reason": "Let's think step by step.\n1. Multiply 79 by 8 (the ones place digit of 48) = 632\n2. Multiply 79 by 40 (the tens place digit of 48) = 3160"
+  },
+  {
+    "id": "Product_Q386",
+    "number1": "29",
+    "number2": "69",
+    "answer": "2001",
+    "reason": "Let's think step by step.\n1. Multiply 29 by 9 (the ones place digit of 69) = 261\n2. Multiply 29 by 60 (the tens place digit of 69) = 1740"
+  },
+  {
+    "id": "Product_Q387",
+    "number1": "43",
+    "number2": "72",
+    "answer": "3096",
+    "reason": "Let's think step by step.\n1. Multiply 43 by 2 (the ones place digit of 72) = 86\n2. Multiply 43 by 70 (the tens place digit of 72) = 3010"
+  },
+  {
+    "id": "Product_Q388",
+    "number1": "31",
+    "number2": "69",
+    "answer": "2139",
+    "reason": "Let's think step by step.\n1. Multiply 31 by 9 (the ones place digit of 69) = 279\n2. Multiply 31 by 60 (the tens place digit of 69) = 1860"
+  },
+  {
+    "id": "Product_Q389",
+    "number1": "75",
+    "number2": "15",
+    "answer": "1125",
+    "reason": "Let's think step by step.\n1. Multiply 75 by 5 (the ones place digit of 15) = 375\n2. Multiply 75 by 10 (the tens place digit of 15) = 750"
+  },
+  {
+    "id": "Product_Q390",
+    "number1": "44",
+    "number2": "75",
+    "answer": "3300",
+    "reason": "Let's think step by step.\n1. Multiply 44 by 5 (the ones place digit of 75) = 220\n2. Multiply 44 by 70 (the tens place digit of 75) = 3080"
+  },
+  {
+    "id": "Product_Q391",
+    "number1": "22",
+    "number2": "85",
+    "answer": "1870",
+    "reason": "Let's think step by step.\n1. Multiply 22 by 5 (the ones place digit of 85) = 110\n2. Multiply 22 by 80 (the tens place digit of 85) = 1760"
+  },
+  {
+    "id": "Product_Q392",
+    "number1": "64",
+    "number2": "18",
+    "answer": "1152",
+    "reason": "Let's think step by step.\n1. Multiply 64 by 8 (the ones place digit of 18) = 512\n2. Multiply 64 by 10 (the tens place digit of 18) = 640"
+  },
+  {
+    "id": "Product_Q393",
+    "number1": "55",
+    "number2": "18",
+    "answer": "990",
+    "reason": "Let's think step by step.\n1. Multiply 55 by 8 (the ones place digit of 18) = 440\n2. Multiply 55 by 10 (the tens place digit of 18) = 550"
+  },
+  {
+    "id": "Product_Q394",
+    "number1": "94",
+    "number2": "66",
+    "answer": "6204",
+    "reason": "Let's think step by step.\n1. Multiply 94 by 6 (the ones place digit of 66) = 564\n2. Multiply 94 by 60 (the tens place digit of 66) = 5640"
+  },
+  {
+    "id": "Product_Q395",
+    "number1": "12",
+    "number2": "31",
+    "answer": "372",
+    "reason": "Let's think step by step.\n1. Multiply 12 by 1 (the ones place digit of 31) = 12\n2. Multiply 12 by 30 (the tens place digit of 31) = 360"
+  },
+  {
+    "id": "Product_Q396",
+    "number1": "74",
+    "number2": "100",
+    "answer": "7400",
+    "reason": "Let's think step by step.\n1. Multiply 74 by 0 (the ones place digit of 100) = 0\n2. Multiply 74 by 0 (the tens place digit of 100) = 0\n3. Multiply 74 by 100 (the hundreds place digit of 100) = 7400"
+  },
+  {
+    "id": "Product_Q397",
+    "number1": "30",
+    "number2": "98",
+    "answer": "2940",
+    "reason": "Let's think step by step.\n1. Multiply 30 by 8 (the ones place digit of 98) = 240\n2. Multiply 30 by 90 (the tens place digit of 98) = 2700"
+  },
+  {
+    "id": "Product_Q398",
+    "number1": "21",
+    "number2": "61",
+    "answer": "1281",
+    "reason": "Let's think step by step.\n1. Multiply 21 by 1 (the ones place digit of 61) = 21\n2. Multiply 21 by 60 (the tens place digit of 61) = 1260"
+  },
+  {
+    "id": "Product_Q399",
+    "number1": "91",
+    "number2": "98",
+    "answer": "8918",
+    "reason": "Let's think step by step.\n1. Multiply 91 by 8 (the ones place digit of 98) = 728\n2. Multiply 91 by 90 (the tens place digit of 98) = 8190"
+  },
+  {
+    "id": "Product_Q400",
+    "number1": "45",
+    "number2": "87",
+    "answer": "3915",
+    "reason": "Let's think step by step.\n1. Multiply 45 by 7 (the ones place digit of 87) = 315\n2. Multiply 45 by 80 (the tens place digit of 87) = 3600"
+  },
+  {
+    "id": "Product_Q401",
+    "number1": "48",
+    "number2": "36",
+    "answer": "1728",
+    "reason": "Let's think step by step.\n1. Multiply 48 by 6 (the ones place digit of 36) = 288\n2. Multiply 48 by 30 (the tens place digit of 36) = 1440"
+  },
+  {
+    "id": "Product_Q402",
+    "number1": "77",
+    "number2": "36",
+    "answer": "2772",
+    "reason": "Let's think step by step.\n1. Multiply 77 by 6 (the ones place digit of 36) = 462\n2. Multiply 77 by 30 (the tens place digit of 36) = 2310"
+  },
+  {
+    "id": "Product_Q403",
+    "number1": "40",
+    "number2": "52",
+    "answer": "2080",
+    "reason": "Let's think step by step.\n1. Multiply 40 by 2 (the ones place digit of 52) = 80\n2. Multiply 40 by 50 (the tens place digit of 52) = 2000"
+  },
+  {
+    "id": "Product_Q404",
+    "number1": "44",
+    "number2": "18",
+    "answer": "792",
+    "reason": "Let's think step by step.\n1. Multiply 44 by 8 (the ones place digit of 18) = 352\n2. Multiply 44 by 10 (the tens place digit of 18) = 440"
+  },
+  {
+    "id": "Product_Q405",
+    "number1": "19",
+    "number2": "99",
+    "answer": "1881",
+    "reason": "Let's think step by step.\n1. Multiply 19 by 9 (the ones place digit of 99) = 171\n2. Multiply 19 by 90 (the tens place digit of 99) = 1710"
+  },
+  {
+    "id": "Product_Q406",
+    "number1": "76",
+    "number2": "94",
+    "answer": "7144",
+    "reason": "Let's think step by step.\n1. Multiply 76 by 4 (the ones place digit of 94) = 304\n2. Multiply 76 by 90 (the tens place digit of 94) = 6840"
+  },
+  {
+    "id": "Product_Q407",
+    "number1": "57",
+    "number2": "69",
+    "answer": "3933",
+    "reason": "Let's think step by step.\n1. Multiply 57 by 9 (the ones place digit of 69) = 513\n2. Multiply 57 by 60 (the tens place digit of 69) = 3420"
+  },
+  {
+    "id": "Product_Q408",
+    "number1": "75",
+    "number2": "81",
+    "answer": "6075",
+    "reason": "Let's think step by step.\n1. Multiply 75 by 1 (the ones place digit of 81) = 75\n2. Multiply 75 by 80 (the tens place digit of 81) = 6000"
+  },
+  {
+    "id": "Product_Q409",
+    "number1": "16",
+    "number2": "31",
+    "answer": "496",
+    "reason": "Let's think step by step.\n1. Multiply 16 by 1 (the ones place digit of 31) = 16\n2. Multiply 16 by 30 (the tens place digit of 31) = 480"
+  },
+  {
+    "id": "Product_Q410",
+    "number1": "48",
+    "number2": "93",
+    "answer": "4464",
+    "reason": "Let's think step by step.\n1. Multiply 48 by 3 (the ones place digit of 93) = 144\n2. Multiply 48 by 90 (the tens place digit of 93) = 4320"
+  },
+  {
+    "id": "Product_Q411",
+    "number1": "81",
+    "number2": "44",
+    "answer": "3564",
+    "reason": "Let's think step by step.\n1. Multiply 81 by 4 (the ones place digit of 44) = 324\n2. Multiply 81 by 40 (the tens place digit of 44) = 3240"
+  },
+  {
+    "id": "Product_Q412",
+    "number1": "55",
+    "number2": "88",
+    "answer": "4840",
+    "reason": "Let's think step by step.\n1. Multiply 55 by 8 (the ones place digit of 88) = 440\n2. Multiply 55 by 80 (the tens place digit of 88) = 4400"
+  },
+  {
+    "id": "Product_Q413",
+    "number1": "39",
+    "number2": "60",
+    "answer": "2340",
+    "reason": "Let's think step by step.\n1. Multiply 39 by 0 (the ones place digit of 60) = 0\n2. Multiply 39 by 60 (the tens place digit of 60) = 2340"
+  },
+  {
+    "id": "Product_Q414",
+    "number1": "81",
+    "number2": "61",
+    "answer": "4941",
+    "reason": "Let's think step by step.\n1. Multiply 81 by 1 (the ones place digit of 61) = 81\n2. Multiply 81 by 60 (the tens place digit of 61) = 4860"
+  },
+  {
+    "id": "Product_Q415",
+    "number1": "32",
+    "number2": "71",
+    "answer": "2272",
+    "reason": "Let's think step by step.\n1. Multiply 32 by 1 (the ones place digit of 71) = 32\n2. Multiply 32 by 70 (the tens place digit of 71) = 2240"
+  },
+  {
+    "id": "Product_Q416",
+    "number1": "43",
+    "number2": "88",
+    "answer": "3784",
+    "reason": "Let's think step by step.\n1. Multiply 43 by 8 (the ones place digit of 88) = 344\n2. Multiply 43 by 80 (the tens place digit of 88) = 3440"
+  },
+  {
+    "id": "Product_Q417",
+    "number1": "52",
+    "number2": "38",
+    "answer": "1976",
+    "reason": "Let's think step by step.\n1. Multiply 52 by 8 (the ones place digit of 38) = 416\n2. Multiply 52 by 30 (the tens place digit of 38) = 1560"
+  },
+  {
+    "id": "Product_Q418",
+    "number1": "43",
+    "number2": "88",
+    "answer": "3784",
+    "reason": "Let's think step by step.\n1. Multiply 43 by 8 (the ones place digit of 88) = 344\n2. Multiply 43 by 80 (the tens place digit of 88) = 3440"
+  },
+  {
+    "id": "Product_Q419",
+    "number1": "100",
+    "number2": "41",
+    "answer": "4100",
+    "reason": "Let's think step by step.\n1. Multiply 100 by 1 (the ones place digit of 41) = 100\n2. Multiply 100 by 40 (the tens place digit of 41) = 4000"
+  },
+  {
+    "id": "Product_Q420",
+    "number1": "94",
+    "number2": "13",
+    "answer": "1222",
+    "reason": "Let's think step by step.\n1. Multiply 94 by 3 (the ones place digit of 13) = 282\n2. Multiply 94 by 10 (the tens place digit of 13) = 940"
+  },
+  {
+    "id": "Product_Q421",
+    "number1": "89",
+    "number2": "61",
+    "answer": "5429",
+    "reason": "Let's think step by step.\n1. Multiply 89 by 1 (the ones place digit of 61) = 89\n2. Multiply 89 by 60 (the tens place digit of 61) = 5340"
+  },
+  {
+    "id": "Product_Q422",
+    "number1": "50",
+    "number2": "65",
+    "answer": "3250",
+    "reason": "Let's think step by step.\n1. Multiply 50 by 5 (the ones place digit of 65) = 250\n2. Multiply 50 by 60 (the tens place digit of 65) = 3000"
+  },
+  {
+    "id": "Product_Q423",
+    "number1": "41",
+    "number2": "44",
+    "answer": "1804",
+    "reason": "Let's think step by step.\n1. Multiply 41 by 4 (the ones place digit of 44) = 164\n2. Multiply 41 by 40 (the tens place digit of 44) = 1640"
+  },
+  {
+    "id": "Product_Q424",
+    "number1": "34",
+    "number2": "19",
+    "answer": "646",
+    "reason": "Let's think step by step.\n1. Multiply 34 by 9 (the ones place digit of 19) = 306\n2. Multiply 34 by 10 (the tens place digit of 19) = 340"
+  },
+  {
+    "id": "Product_Q425",
+    "number1": "90",
+    "number2": "31",
+    "answer": "2790",
+    "reason": "Let's think step by step.\n1. Multiply 90 by 1 (the ones place digit of 31) = 90\n2. Multiply 90 by 30 (the tens place digit of 31) = 2700"
+  },
+  {
+    "id": "Product_Q426",
+    "number1": "84",
+    "number2": "66",
+    "answer": "5544",
+    "reason": "Let's think step by step.\n1. Multiply 84 by 6 (the ones place digit of 66) = 504\n2. Multiply 84 by 60 (the tens place digit of 66) = 5040"
+  },
+  {
+    "id": "Product_Q427",
+    "number1": "84",
+    "number2": "28",
+    "answer": "2352",
+    "reason": "Let's think step by step.\n1. Multiply 84 by 8 (the ones place digit of 28) = 672\n2. Multiply 84 by 20 (the tens place digit of 28) = 1680"
+  },
+  {
+    "id": "Product_Q428",
+    "number1": "87",
+    "number2": "43",
+    "answer": "3741",
+    "reason": "Let's think step by step.\n1. Multiply 87 by 3 (the ones place digit of 43) = 261\n2. Multiply 87 by 40 (the tens place digit of 43) = 3480"
+  },
+  {
+    "id": "Product_Q429",
+    "number1": "68",
+    "number2": "77",
+    "answer": "5236",
+    "reason": "Let's think step by step.\n1. Multiply 68 by 7 (the ones place digit of 77) = 476\n2. Multiply 68 by 70 (the tens place digit of 77) = 4760"
+  },
+  {
+    "id": "Product_Q430",
+    "number1": "30",
+    "number2": "27",
+    "answer": "810",
+    "reason": "Let's think step by step.\n1. Multiply 30 by 7 (the ones place digit of 27) = 210\n2. Multiply 30 by 20 (the tens place digit of 27) = 600"
+  },
+  {
+    "id": "Product_Q431",
+    "number1": "27",
+    "number2": "66",
+    "answer": "1782",
+    "reason": "Let's think step by step.\n1. Multiply 27 by 6 (the ones place digit of 66) = 162\n2. Multiply 27 by 60 (the tens place digit of 66) = 1620"
+  },
+  {
+    "id": "Product_Q432",
+    "number1": "56",
+    "number2": "49",
+    "answer": "2744",
+    "reason": "Let's think step by step.\n1. Multiply 56 by 9 (the ones place digit of 49) = 504\n2. Multiply 56 by 40 (the tens place digit of 49) = 2240"
+  },
+  {
+    "id": "Product_Q433",
+    "number1": "61",
+    "number2": "40",
+    "answer": "2440",
+    "reason": "Let's think step by step.\n1. Multiply 61 by 0 (the ones place digit of 40) = 0\n2. Multiply 61 by 40 (the tens place digit of 40) = 2440"
+  },
+  {
+    "id": "Product_Q434",
+    "number1": "24",
+    "number2": "36",
+    "answer": "864",
+    "reason": "Let's think step by step.\n1. Multiply 24 by 6 (the ones place digit of 36) = 144\n2. Multiply 24 by 30 (the tens place digit of 36) = 720"
+  },
+  {
+    "id": "Product_Q435",
+    "number1": "97",
+    "number2": "49",
+    "answer": "4753",
+    "reason": "Let's think step by step.\n1. Multiply 97 by 9 (the ones place digit of 49) = 873\n2. Multiply 97 by 40 (the tens place digit of 49) = 3880"
+  },
+  {
+    "id": "Product_Q436",
+    "number1": "18",
+    "number2": "23",
+    "answer": "414",
+    "reason": "Let's think step by step.\n1. Multiply 18 by 3 (the ones place digit of 23) = 54\n2. Multiply 18 by 20 (the tens place digit of 23) = 360"
+  },
+  {
+    "id": "Product_Q437",
+    "number1": "39",
+    "number2": "60",
+    "answer": "2340",
+    "reason": "Let's think step by step.\n1. Multiply 39 by 0 (the ones place digit of 60) = 0\n2. Multiply 39 by 60 (the tens place digit of 60) = 2340"
+  },
+  {
+    "id": "Product_Q438",
+    "number1": "51",
+    "number2": "73",
+    "answer": "3723",
+    "reason": "Let's think step by step.\n1. Multiply 51 by 3 (the ones place digit of 73) = 153\n2. Multiply 51 by 70 (the tens place digit of 73) = 3570"
+  },
+  {
+    "id": "Product_Q439",
+    "number1": "22",
+    "number2": "33",
+    "answer": "726",
+    "reason": "Let's think step by step.\n1. Multiply 22 by 3 (the ones place digit of 33) = 66\n2. Multiply 22 by 30 (the tens place digit of 33) = 660"
+  },
+  {
+    "id": "Product_Q440",
+    "number1": "15",
+    "number2": "17",
+    "answer": "255",
+    "reason": "Let's think step by step.\n1. Multiply 15 by 7 (the ones place digit of 17) = 105\n2. Multiply 15 by 10 (the tens place digit of 17) = 150"
+  },
+  {
+    "id": "Product_Q441",
+    "number1": "86",
+    "number2": "12",
+    "answer": "1032",
+    "reason": "Let's think step by step.\n1. Multiply 86 by 2 (the ones place digit of 12) = 172\n2. Multiply 86 by 10 (the tens place digit of 12) = 860"
+  },
+  {
+    "id": "Product_Q442",
+    "number1": "37",
+    "number2": "97",
+    "answer": "3589",
+    "reason": "Let's think step by step.\n1. Multiply 37 by 7 (the ones place digit of 97) = 259\n2. Multiply 37 by 90 (the tens place digit of 97) = 3330"
+  },
+  {
+    "id": "Product_Q443",
+    "number1": "14",
+    "number2": "73",
+    "answer": "1022",
+    "reason": "Let's think step by step.\n1. Multiply 14 by 3 (the ones place digit of 73) = 42\n2. Multiply 14 by 70 (the tens place digit of 73) = 980"
+  },
+  {
+    "id": "Product_Q444",
+    "number1": "100",
+    "number2": "77",
+    "answer": "7700",
+    "reason": "Let's think step by step.\n1. Multiply 100 by 7 (the ones place digit of 77) = 700\n2. Multiply 100 by 70 (the tens place digit of 77) = 7000"
+  },
+  {
+    "id": "Product_Q445",
+    "number1": "88",
+    "number2": "66",
+    "answer": "5808",
+    "reason": "Let's think step by step.\n1. Multiply 88 by 6 (the ones place digit of 66) = 528\n2. Multiply 88 by 60 (the tens place digit of 66) = 5280"
+  },
+  {
+    "id": "Product_Q446",
+    "number1": "53",
+    "number2": "94",
+    "answer": "4982",
+    "reason": "Let's think step by step.\n1. Multiply 53 by 4 (the ones place digit of 94) = 212\n2. Multiply 53 by 90 (the tens place digit of 94) = 4770"
+  },
+  {
+    "id": "Product_Q447",
+    "number1": "45",
+    "number2": "25",
+    "answer": "1125",
+    "reason": "Let's think step by step.\n1. Multiply 45 by 5 (the ones place digit of 25) = 225\n2. Multiply 45 by 20 (the tens place digit of 25) = 900"
+  },
+  {
+    "id": "Product_Q448",
+    "number1": "88",
+    "number2": "98",
+    "answer": "8624",
+    "reason": "Let's think step by step.\n1. Multiply 88 by 8 (the ones place digit of 98) = 704\n2. Multiply 88 by 90 (the tens place digit of 98) = 7920"
+  },
+  {
+    "id": "Product_Q449",
+    "number1": "32",
+    "number2": "22",
+    "answer": "704",
+    "reason": "Let's think step by step.\n1. Multiply 32 by 2 (the ones place digit of 22) = 64\n2. Multiply 32 by 20 (the tens place digit of 22) = 640"
+  },
+  {
+    "id": "Product_Q450",
+    "number1": "38",
+    "number2": "61",
+    "answer": "2318",
+    "reason": "Let's think step by step.\n1. Multiply 38 by 1 (the ones place digit of 61) = 38\n2. Multiply 38 by 60 (the tens place digit of 61) = 2280"
+  },
+  {
+    "id": "Product_Q451",
+    "number1": "39",
+    "number2": "73",
+    "answer": "2847",
+    "reason": "Let's think step by step.\n1. Multiply 39 by 3 (the ones place digit of 73) = 117\n2. Multiply 39 by 70 (the tens place digit of 73) = 2730"
+  },
+  {
+    "id": "Product_Q452",
+    "number1": "67",
+    "number2": "58",
+    "answer": "3886",
+    "reason": "Let's think step by step.\n1. Multiply 67 by 8 (the ones place digit of 58) = 536\n2. Multiply 67 by 50 (the tens place digit of 58) = 3350"
+  },
+  {
+    "id": "Product_Q453",
+    "number1": "31",
+    "number2": "39",
+    "answer": "1209",
+    "reason": "Let's think step by step.\n1. Multiply 31 by 9 (the ones place digit of 39) = 279\n2. Multiply 31 by 30 (the tens place digit of 39) = 930"
+  },
+  {
+    "id": "Product_Q454",
+    "number1": "40",
+    "number2": "46",
+    "answer": "1840",
+    "reason": "Let's think step by step.\n1. Multiply 40 by 6 (the ones place digit of 46) = 240\n2. Multiply 40 by 40 (the tens place digit of 46) = 1600"
+  },
+  {
+    "id": "Product_Q455",
+    "number1": "69",
+    "number2": "80",
+    "answer": "5520",
+    "reason": "Let's think step by step.\n1. Multiply 69 by 0 (the ones place digit of 80) = 0\n2. Multiply 69 by 80 (the tens place digit of 80) = 5520"
+  },
+  {
+    "id": "Product_Q456",
+    "number1": "84",
+    "number2": "59",
+    "answer": "4956",
+    "reason": "Let's think step by step.\n1. Multiply 84 by 9 (the ones place digit of 59) = 756\n2. Multiply 84 by 50 (the tens place digit of 59) = 4200"
+  },
+  {
+    "id": "Product_Q457",
+    "number1": "37",
+    "number2": "67",
+    "answer": "2479",
+    "reason": "Let's think step by step.\n1. Multiply 37 by 7 (the ones place digit of 67) = 259\n2. Multiply 37 by 60 (the tens place digit of 67) = 2220"
+  },
+  {
+    "id": "Product_Q458",
+    "number1": "43",
+    "number2": "52",
+    "answer": "2236",
+    "reason": "Let's think step by step.\n1. Multiply 43 by 2 (the ones place digit of 52) = 86\n2. Multiply 43 by 50 (the tens place digit of 52) = 2150"
+  },
+  {
+    "id": "Product_Q459",
+    "number1": "73",
+    "number2": "85",
+    "answer": "6205",
+    "reason": "Let's think step by step.\n1. Multiply 73 by 5 (the ones place digit of 85) = 365\n2. Multiply 73 by 80 (the tens place digit of 85) = 5840"
+  },
+  {
+    "id": "Product_Q460",
+    "number1": "24",
+    "number2": "37",
+    "answer": "888",
+    "reason": "Let's think step by step.\n1. Multiply 24 by 7 (the ones place digit of 37) = 168\n2. Multiply 24 by 30 (the tens place digit of 37) = 720"
+  },
+  {
+    "id": "Product_Q461",
+    "number1": "20",
+    "number2": "15",
+    "answer": "300",
+    "reason": "Let's think step by step.\n1. Multiply 20 by 5 (the ones place digit of 15) = 100\n2. Multiply 20 by 10 (the tens place digit of 15) = 200"
+  },
+  {
+    "id": "Product_Q462",
+    "number1": "11",
+    "number2": "10",
+    "answer": "110",
+    "reason": "Let's think step by step.\n1. Multiply 11 by 0 (the ones place digit of 10) = 0\n2. Multiply 11 by 10 (the tens place digit of 10) = 110"
+  },
+  {
+    "id": "Product_Q463",
+    "number1": "71",
+    "number2": "50",
+    "answer": "3550",
+    "reason": "Let's think step by step.\n1. Multiply 71 by 0 (the ones place digit of 50) = 0\n2. Multiply 71 by 50 (the tens place digit of 50) = 3550"
+  },
+  {
+    "id": "Product_Q464",
+    "number1": "59",
+    "number2": "84",
+    "answer": "4956",
+    "reason": "Let's think step by step.\n1. Multiply 59 by 4 (the ones place digit of 84) = 236\n2. Multiply 59 by 80 (the tens place digit of 84) = 4720"
+  },
+  {
+    "id": "Product_Q465",
+    "number1": "46",
+    "number2": "35",
+    "answer": "1610",
+    "reason": "Let's think step by step.\n1. Multiply 46 by 5 (the ones place digit of 35) = 230\n2. Multiply 46 by 30 (the tens place digit of 35) = 1380"
+  },
+  {
+    "id": "Product_Q466",
+    "number1": "61",
+    "number2": "30",
+    "answer": "1830",
+    "reason": "Let's think step by step.\n1. Multiply 61 by 0 (the ones place digit of 30) = 0\n2. Multiply 61 by 30 (the tens place digit of 30) = 1830"
+  },
+  {
+    "id": "Product_Q467",
+    "number1": "92",
+    "number2": "29",
+    "answer": "2668",
+    "reason": "Let's think step by step.\n1. Multiply 92 by 9 (the ones place digit of 29) = 828\n2. Multiply 92 by 20 (the tens place digit of 29) = 1840"
+  },
+  {
+    "id": "Product_Q468",
+    "number1": "13",
+    "number2": "11",
+    "answer": "143",
+    "reason": "Let's think step by step.\n1. Multiply 13 by 1 (the ones place digit of 11) = 13\n2. Multiply 13 by 10 (the tens place digit of 11) = 130"
+  },
+  {
+    "id": "Product_Q469",
+    "number1": "59",
+    "number2": "28",
+    "answer": "1652",
+    "reason": "Let's think step by step.\n1. Multiply 59 by 8 (the ones place digit of 28) = 472\n2. Multiply 59 by 20 (the tens place digit of 28) = 1180"
+  },
+  {
+    "id": "Product_Q470",
+    "number1": "95",
+    "number2": "79",
+    "answer": "7505",
+    "reason": "Let's think step by step.\n1. Multiply 95 by 9 (the ones place digit of 79) = 855\n2. Multiply 95 by 70 (the tens place digit of 79) = 6650"
+  },
+  {
+    "id": "Product_Q471",
+    "number1": "17",
+    "number2": "82",
+    "answer": "1394",
+    "reason": "Let's think step by step.\n1. Multiply 17 by 2 (the ones place digit of 82) = 34\n2. Multiply 17 by 80 (the tens place digit of 82) = 1360"
+  },
+  {
+    "id": "Product_Q472",
+    "number1": "58",
+    "number2": "42",
+    "answer": "2436",
+    "reason": "Let's think step by step.\n1. Multiply 58 by 2 (the ones place digit of 42) = 116\n2. Multiply 58 by 40 (the tens place digit of 42) = 2320"
+  },
+  {
+    "id": "Product_Q473",
+    "number1": "26",
+    "number2": "20",
+    "answer": "520",
+    "reason": "Let's think step by step.\n1. Multiply 26 by 0 (the ones place digit of 20) = 0\n2. Multiply 26 by 20 (the tens place digit of 20) = 520"
+  },
+  {
+    "id": "Product_Q474",
+    "number1": "69",
+    "number2": "93",
+    "answer": "6417",
+    "reason": "Let's think step by step.\n1. Multiply 69 by 3 (the ones place digit of 93) = 207\n2. Multiply 69 by 90 (the tens place digit of 93) = 6210"
+  },
+  {
+    "id": "Product_Q475",
+    "number1": "48",
+    "number2": "11",
+    "answer": "528",
+    "reason": "Let's think step by step.\n1. Multiply 48 by 1 (the ones place digit of 11) = 48\n2. Multiply 48 by 10 (the tens place digit of 11) = 480"
+  },
+  {
+    "id": "Product_Q476",
+    "number1": "14",
+    "number2": "78",
+    "answer": "1092",
+    "reason": "Let's think step by step.\n1. Multiply 14 by 8 (the ones place digit of 78) = 112\n2. Multiply 14 by 70 (the tens place digit of 78) = 980"
+  },
+  {
+    "id": "Product_Q477",
+    "number1": "17",
+    "number2": "77",
+    "answer": "1309",
+    "reason": "Let's think step by step.\n1. Multiply 17 by 7 (the ones place digit of 77) = 119\n2. Multiply 17 by 70 (the tens place digit of 77) = 1190"
+  },
+  {
+    "id": "Product_Q478",
+    "number1": "26",
+    "number2": "15",
+    "answer": "390",
+    "reason": "Let's think step by step.\n1. Multiply 26 by 5 (the ones place digit of 15) = 130\n2. Multiply 26 by 10 (the tens place digit of 15) = 260"
+  },
+  {
+    "id": "Product_Q479",
+    "number1": "45",
+    "number2": "25",
+    "answer": "1125",
+    "reason": "Let's think step by step.\n1. Multiply 45 by 5 (the ones place digit of 25) = 225\n2. Multiply 45 by 20 (the tens place digit of 25) = 900"
+  },
+  {
+    "id": "Product_Q480",
+    "number1": "65",
+    "number2": "21",
+    "answer": "1365",
+    "reason": "Let's think step by step.\n1. Multiply 65 by 1 (the ones place digit of 21) = 65\n2. Multiply 65 by 20 (the tens place digit of 21) = 1300"
+  },
+  {
+    "id": "Product_Q481",
+    "number1": "34",
+    "number2": "13",
+    "answer": "442",
+    "reason": "Let's think step by step.\n1. Multiply 34 by 3 (the ones place digit of 13) = 102\n2. Multiply 34 by 10 (the tens place digit of 13) = 340"
+  },
+  {
+    "id": "Product_Q482",
+    "number1": "73",
+    "number2": "91",
+    "answer": "6643",
+    "reason": "Let's think step by step.\n1. Multiply 73 by 1 (the ones place digit of 91) = 73\n2. Multiply 73 by 90 (the tens place digit of 91) = 6570"
+  },
+  {
+    "id": "Product_Q483",
+    "number1": "26",
+    "number2": "45",
+    "answer": "1170",
+    "reason": "Let's think step by step.\n1. Multiply 26 by 5 (the ones place digit of 45) = 130\n2. Multiply 26 by 40 (the tens place digit of 45) = 1040"
+  },
+  {
+    "id": "Product_Q484",
+    "number1": "97",
+    "number2": "34",
+    "answer": "3298",
+    "reason": "Let's think step by step.\n1. Multiply 97 by 4 (the ones place digit of 34) = 388\n2. Multiply 97 by 30 (the tens place digit of 34) = 2910"
+  },
+  {
+    "id": "Product_Q485",
+    "number1": "94",
+    "number2": "67",
+    "answer": "6298",
+    "reason": "Let's think step by step.\n1. Multiply 94 by 7 (the ones place digit of 67) = 658\n2. Multiply 94 by 60 (the tens place digit of 67) = 5640"
+  },
+  {
+    "id": "Product_Q486",
+    "number1": "59",
+    "number2": "52",
+    "answer": "3068",
+    "reason": "Let's think step by step.\n1. Multiply 59 by 2 (the ones place digit of 52) = 118\n2. Multiply 59 by 50 (the tens place digit of 52) = 2950"
+  },
+  {
+    "id": "Product_Q487",
+    "number1": "90",
+    "number2": "44",
+    "answer": "3960",
+    "reason": "Let's think step by step.\n1. Multiply 90 by 4 (the ones place digit of 44) = 360\n2. Multiply 90 by 40 (the tens place digit of 44) = 3600"
+  },
+  {
+    "id": "Product_Q488",
+    "number1": "43",
+    "number2": "92",
+    "answer": "3956",
+    "reason": "Let's think step by step.\n1. Multiply 43 by 2 (the ones place digit of 92) = 86\n2. Multiply 43 by 90 (the tens place digit of 92) = 3870"
+  },
+  {
+    "id": "Product_Q489",
+    "number1": "91",
+    "number2": "41",
+    "answer": "3731",
+    "reason": "Let's think step by step.\n1. Multiply 91 by 1 (the ones place digit of 41) = 91\n2. Multiply 91 by 40 (the tens place digit of 41) = 3640"
+  },
+  {
+    "id": "Product_Q490",
+    "number1": "41",
+    "number2": "17",
+    "answer": "697",
+    "reason": "Let's think step by step.\n1. Multiply 41 by 7 (the ones place digit of 17) = 287\n2. Multiply 41 by 10 (the tens place digit of 17) = 410"
+  },
+  {
+    "id": "Product_Q491",
+    "number1": "85",
+    "number2": "85",
+    "answer": "7225",
+    "reason": "Let's think step by step.\n1. Multiply 85 by 5 (the ones place digit of 85) = 425\n2. Multiply 85 by 80 (the tens place digit of 85) = 6800"
+  },
+  {
+    "id": "Product_Q492",
+    "number1": "32",
+    "number2": "54",
+    "answer": "1728",
+    "reason": "Let's think step by step.\n1. Multiply 32 by 4 (the ones place digit of 54) = 128\n2. Multiply 32 by 50 (the tens place digit of 54) = 1600"
+  },
+  {
+    "id": "Product_Q493",
+    "number1": "64",
+    "number2": "87",
+    "answer": "5568",
+    "reason": "Let's think step by step.\n1. Multiply 64 by 7 (the ones place digit of 87) = 448\n2. Multiply 64 by 80 (the tens place digit of 87) = 5120"
+  },
+  {
+    "id": "Product_Q494",
+    "number1": "99",
+    "number2": "81",
+    "answer": "8019",
+    "reason": "Let's think step by step.\n1. Multiply 99 by 1 (the ones place digit of 81) = 99\n2. Multiply 99 by 80 (the tens place digit of 81) = 7920"
+  },
+  {
+    "id": "Product_Q495",
+    "number1": "91",
+    "number2": "76",
+    "answer": "6916",
+    "reason": "Let's think step by step.\n1. Multiply 91 by 6 (the ones place digit of 76) = 546\n2. Multiply 91 by 70 (the tens place digit of 76) = 6370"
+  },
+  {
+    "id": "Product_Q496",
+    "number1": "17",
+    "number2": "55",
+    "answer": "935",
+    "reason": "Let's think step by step.\n1. Multiply 17 by 5 (the ones place digit of 55) = 85\n2. Multiply 17 by 50 (the tens place digit of 55) = 850"
+  },
+  {
+    "id": "Product_Q497",
+    "number1": "80",
+    "number2": "62",
+    "answer": "4960",
+    "reason": "Let's think step by step.\n1. Multiply 80 by 2 (the ones place digit of 62) = 160\n2. Multiply 80 by 60 (the tens place digit of 62) = 4800"
+  },
+  {
+    "id": "Product_Q498",
+    "number1": "78",
+    "number2": "35",
+    "answer": "2730",
+    "reason": "Let's think step by step.\n1. Multiply 78 by 5 (the ones place digit of 35) = 390\n2. Multiply 78 by 30 (the tens place digit of 35) = 2340"
+  },
+  {
+    "id": "Product_Q499",
+    "number1": "78",
+    "number2": "64",
+    "answer": "4992",
+    "reason": "Let's think step by step.\n1. Multiply 78 by 4 (the ones place digit of 64) = 312\n2. Multiply 78 by 60 (the tens place digit of 64) = 4680"
+  },
+  {
+    "id": "Product_Q500",
+    "number1": "94",
+    "number2": "18",
+    "answer": "1692",
+    "reason": "Let's think step by step.\n1. Multiply 94 by 8 (the ones place digit of 18) = 752\n2. Multiply 94 by 10 (the tens place digit of 18) = 940"
+  }
+]
