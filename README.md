@@ -82,6 +82,7 @@ The outcomes of our experiments are meticulously documented and stored in the `.
 Our codes are based on [LogicLLM](https://github.com/teacherpeterpan/Logic-LLM).
 
 ## Citation
+Please cite the paper in the following format if you find our work beneficial.
 ```angular2
 @misc{bao2024llms,
       title={LLMs with Chain-of-Thought Are Non-Causal Reasoners}, 
