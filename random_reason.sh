@@ -25,4 +25,4 @@ outdir=exp_cot/random_reason
 mkdir -p $outdir
 
 echo `date`, Making random reasons from ${dataset} using prompts ${prompts} and model ${model_name}...
-python scripts/random_reason.py --dataset $dataset --prompt $prompts --model_name $model_name --api_key $api_base
+python scripts/random_reason.py --dataset $dataset --prompt $prompts --model_name $model_name --api_key $api_key

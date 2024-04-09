@@ -74,7 +74,7 @@ if __name__ == '__main__':
     parser.add_argument('--group_b', type=str, default='exp_cot/output/output.Addition_6.cot0shot.randomreason.gpt-3.5-turbo.json')
     args = parser.parse_args()
 
-    aa, bb = get_paired_results(args.group_a.replace(':', '_'))
+    aa, bb = get_paired_results(args.group_a.replace(':', '_'),args.group_b.replace(':', '_'))
     print(f'Group A: {np.mean(aa):.3f} ({np.sum(aa)}/{len(aa)})')
     print(f'Group B: {np.mean(bb):.3f} ({np.sum(bb)}/{len(bb)})')
     print(f'B - A: {np.mean(bb) - np.mean(aa):.3f} ({np.sum(bb) - np.sum(aa)}/{len(bb)})')
