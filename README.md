@@ -2,7 +2,7 @@
 
 
 ## 📚 Introduction
-This is the repository for paper *[How Likely Do LLMs with CoT Mimic Human Reasoning?](https://aclanthology.org/2025.coling-main.524/)*.
+This is the repository for COLING 2025 paper *[How Likely Do LLMs with CoT Mimic Human Reasoning?](https://aclanthology.org/2025.coling-main.524/)*.
 We explores the role of the Chain of Thought (CoT) in Large Language Models (LLMs) reasoning, specifically:
 -  We assess the significance of the cause-effect relationship between CoT and answers across various tasks to unveil the Structural Causal Model (SCM) that LLMs emulate.
 -  We investigate the factors influencing the causal structure of the implied SCM across several distinct tasks.
