@@ -1,13 +1,14 @@
 # CoT_Causal_Analysis
 
+
 ## 📚 Introduction
-This is the repository for paper *[LLMs with Chain-of-Thought Are Non-Causal Reasoners](https://arxiv.org/abs/2402.16048)*.
+This is the repository for paper *[How Likely Do LLMs with CoT Mimic Human Reasoning?](https://aclanthology.org/2025.coling-main.524/)*.
 We explores the role of the Chain of Thought (CoT) in Large Language Models (LLMs) reasoning, specifically:
 -  We assess the significance of the cause-effect relationship between CoT and answers across various tasks to unveil the Structural Causal Model (SCM) that LLMs emulate.
 -  We investigate the factors influencing the causal structure of the implied SCM across several distinct tasks.
 
 <div align=center>
-<img src="assets/intro.jpg"  width = "90%" alt="HuatuoGPT2" align=center/>
+<img src="assets/intro2.png"  width = "90%" alt="SCMs underlying LLM" align=center/>
 </div>
 
 ## ⚙️ Running the code
@@ -83,13 +84,12 @@ Our codes are based on [LogicLLM](https://github.com/teacherpeterpan/Logic-LLM).
 
 ## Citation
 Please cite the paper in the following format if you find our work beneficial.
-```angular2
-@misc{bao2024llms,
-      title={LLMs with Chain-of-Thought Are Non-Causal Reasoners}, 
-      author={Guangsheng Bao and Hongbo Zhang and Linyi Yang and Cunxiang Wang and Yue Zhang},
-      year={2024},
-      eprint={2402.16048},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+```
+@inproceedings{bao2025likely,
+  title={How Likely Do LLMs with CoT Mimic Human Reasoning?},
+  author={Bao, Guangsheng and Zhang, Hongbo and Wang, Cunxiang and Yang, Linyi and Zhang, Yue},
+  booktitle={Proceedings of the 31st International Conference on Computational Linguistics},
+  pages={7831--7850},
+  year={2025}
 }
 ```
